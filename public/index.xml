@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3Di Styleguide</title>
-    <link>http://localhost:1313/threedi-styleguide/</link>
+    <link>/threedi-styleguide/</link>
     <description>Recent content on 3Di Styleguide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Oct 2015 11:56:34 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/threedi-styleguide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/threedi-styleguide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Objecten</title>
-      <link>http://localhost:1313/threedi-styleguide/guide/carto/objecten/</link>
+      <link>/threedi-styleguide/guide/carto/objecten/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>http://localhost:1313/threedi-styleguide/guide/carto/objecten/</guid>
+      <guid>/threedi-styleguide/guide/carto/objecten/</guid>
       <description>
 
 &lt;h2 id=&#34;symbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Symbologie&lt;/h2&gt;
@@ -306,10 +306,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>Lijnen</title>
-      <link>http://localhost:1313/threedi-styleguide/guide/carto/lijnen/</link>
+      <link>/threedi-styleguide/guide/carto/lijnen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>http://localhost:1313/threedi-styleguide/guide/carto/lijnen/</guid>
+      <guid>/threedi-styleguide/guide/carto/lijnen/</guid>
       <description>
 
 &lt;h2 id=&#34;lijnen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnen&lt;/h2&gt;
@@ -320,26 +320,26 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>Algemeen</title>
-      <link>http://localhost:1313/threedi-styleguide/guide/carto/</link>
+      <link>/threedi-styleguide/guide/carto/</link>
       <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
       
-      <guid>http://localhost:1313/threedi-styleguide/guide/carto/</guid>
+      <guid>/threedi-styleguide/guide/carto/</guid>
       <description>
 
 &lt;h2 id=&#34;cartografie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Cartografie&lt;/h2&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-layout-base-01.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-layout-base-01.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>3Di Styleguide</title>
-      <link>http://localhost:1313/threedi-styleguide/guide/</link>
+      <link>/threedi-styleguide/guide/</link>
       <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
       
-      <guid>http://localhost:1313/threedi-styleguide/guide/</guid>
+      <guid>/threedi-styleguide/guide/</guid>
       <description>
 
 &lt;h2 id=&#34;kaart:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kaart&lt;/h2&gt;
