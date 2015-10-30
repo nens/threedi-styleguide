@@ -11,4 +11,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi,
 
 
 
-<img src="/images/3di-layout-base-01.svg" align="left" width="100%" ></a>
+<img src="/threedi-styleguide/images/3di-layout-base-01.svg" align="left" width="100%" ></a>
