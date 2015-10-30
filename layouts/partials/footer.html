@@ -1,0 +1,11 @@
+	{{ template "partials/footer_includes.html" . }}
+    <script>
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip();
+      $('table').each(function(i, table) {
+      	$(table).addClass('table table-striped');
+      })
+    });
+    </script>
+  </body>
+</html>

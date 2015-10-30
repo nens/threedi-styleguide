@@ -1,0 +1,32 @@
+{{ template "partials/header.html" . }}
+
+  <body class="guide">
+    <div class="container-fluid header">
+	    <div class="container">
+	    	<h1 id="title">{{ .Title }}</h1>        
+	    </div>
+	</div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h5>&nbsp;</h5>
+        </div>      
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+ 	     <div class="col-md-2 menu">
+  			{{ template "partials/menu.html" . }}
+    	 </div>
+      	  <div class="col-md-10">
+    			{{ .Content }}
+    		  </div>        
+      </div>
+      
+      </div>
+    </div>
+  </body>
+  
+{{ template "partials/footer.html" . }}

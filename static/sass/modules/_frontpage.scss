@@ -1,0 +1,54 @@
+.frontpage {
+	background-color: $threedi-background-gray;
+
+	font-family: 'Merriweather', serif;
+
+	h1 {
+		font-size: 5rem;
+		font-weight: 700;
+	}
+
+	h4 {
+		color: $threedi-blue;
+		font-weight: 600;
+	}
+
+	p.lead {
+	    font-size: 2rem;
+	    font-family: "Merriweather", "Georgia", "Times New Roman", serif;
+	    line-height: 1.7;
+	    margin-top: 2em;
+	}
+
+	.header {
+		background-color: $threedi-red;
+		background-image: none;
+		color: #ffffff;
+		padding-bottom: 3.7rem;
+		padding-top: 2rem;
+	}
+
+	a {
+		color: #fff;
+	}
+
+	.intro-text {
+	    line-height: 1.7;
+	    margin-bottom: 4rem;		
+	}
+
+	.banner-background {
+		background-image: url('../images/ui.png');
+		background-repeat: no-repeat;
+		background-size: 80%;
+		background-position-x: 60px;
+		height: 300px;
+	}
+
+	.dark {
+		color: $threedi-white;
+		background-color: $threedi-darkblue;
+		padding-top: 4rem;
+	}
+
+}
