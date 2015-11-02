@@ -400,20 +400,6 @@
     </item>
     
     <item>
-      <title>UI</title>
-      <link>/threedi-styleguide/guide/ui/</link>
-      <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/</guid>
-      <description>
-
-&lt;h2 id=&#34;user-interface:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;User interface&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Algemeen</title>
       <link>/threedi-styleguide/guide/carto/</link>
       <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
@@ -426,6 +412,20 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-layout-base-01.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UI</title>
+      <link>/threedi-styleguide/guide/ui/</link>
+      <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/</guid>
+      <description>
+
+&lt;h2 id=&#34;user-interface:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;User interface&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.&lt;/p&gt;
 </description>
     </item>
     
