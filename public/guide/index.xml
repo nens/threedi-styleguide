@@ -10,6 +10,174 @@
     <atom:link href="/threedi-styleguide/guide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Beheerpaginas</title>
+      <link>/threedi-styleguide/guide/ui/beheerpaginas/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/beheerpaginas/</guid>
+      <description>
+
+&lt;h2 id=&#34;beheerpagina-s:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Beheerpagina&amp;rsquo;s&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Beheerpagina&#39;s&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contextmenu</title>
+      <link>/threedi-styleguide/guide/ui/contextmenu/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/contextmenu/</guid>
+      <description>
+
+&lt;h2 id=&#34;contextmenu:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contextmenu&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Contextmenu&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grafieken</title>
+      <link>/threedi-styleguide/guide/ui/grafieken/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/grafieken/</guid>
+      <description>
+
+&lt;h2 id=&#34;grafieken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafieken&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Grafieken&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iconen</title>
+      <link>/threedi-styleguide/guide/visual/iconen/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/visual/iconen/</guid>
+      <description>
+
+&lt;h2 id=&#34;iconen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Iconen&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Iconen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indicators</title>
+      <link>/threedi-styleguide/guide/ui/indicators/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/indicators/</guid>
+      <description>
+
+&lt;h2 id=&#34;indicators:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Indicators&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Indicators&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kaartcontrols</title>
+      <link>/threedi-styleguide/guide/ui/kaartcontrols/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/kaartcontrols/</guid>
+      <description>
+
+&lt;h2 id=&#34;kaart-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kaart controls&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Kaart controls&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kleur</title>
+      <link>/threedi-styleguide/guide/visual/kleur/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/visual/kleur/</guid>
+      <description>
+
+&lt;h2 id=&#34;kleuren:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kleuren&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Kleuren&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legenda</title>
+      <link>/threedi-styleguide/guide/carto/legenda/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
+      <description>
+
+&lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Legenda&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lijnen</title>
       <link>/threedi-styleguide/guide/carto/lijnen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -27,6 +195,90 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Logo</title>
+      <link>/threedi-styleguide/guide/visual/logo/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/visual/logo/</guid>
+      <description>
+
+&lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Logo&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelcontrols</title>
+      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
+      <description>
+
+&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Model controls&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Navigatie</title>
+      <link>/threedi-styleguide/guide/ui/navigatie/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
+      <description>
+
+&lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Navigatie&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notificaties</title>
+      <link>/threedi-styleguide/guide/ui/notificaties/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/notificaties/</guid>
+      <description>
+
+&lt;h2 id=&#34;notificaties:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Notificaties&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Notificaties&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -400,135 +652,23 @@
     </item>
     
     <item>
-      <title>Algemeen</title>
-      <link>/threedi-styleguide/guide/carto/</link>
-      <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
+      <title>Typografie</title>
+      <link>/threedi-styleguide/guide/visual/typografie/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/</guid>
+      <guid>/threedi-styleguide/guide/visual/typografie/</guid>
       <description>
 
-&lt;h2 id=&#34;cartografie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Cartografie&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-layout-base-01.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modals</title>
-      <link>/threedi-styleguide/guide/ui/modals/</link>
-      <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/modals/</guid>
-      <description>
-
-&lt;h2 id=&#34;modals:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Modals&lt;/h2&gt;
-
-&lt;p&gt;Modals zijn flexibele dialoogvensters en worden in de 3Di interface toegepast om de gebruiker om actie te vragen.&lt;/p&gt;
+&lt;h2 id=&#34;typografie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Typografie&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;Welcome to 3Di - New simulation&#34;&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Typografie&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-modal.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;strong&gt;Wanneer getoond?&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;Als de pagina wordt geladen&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;strong&gt;Wegklikbaar?&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;Nee&lt;/li&gt;
-        &lt;/ul&gt;       
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;strong&gt;Aantal tabs&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;2x: &#34;New simulation&#34; en &#34;Follow running simulation&#34;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;strong&gt;Acties&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;Link naar Log out&lt;/li&gt;
-            &lt;li&gt;Tab met link naar Follow running simulation&lt;/li&gt;
-            &lt;li&gt;Filter modellenlijst&lt;/li&gt;
-            &lt;li&gt;Selecteer model&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;  
 &lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;Welcome to 3Di - Follow running simulation&#34;&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-running-simulation.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;strong&gt;Wanneer getoond?&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;Als de pagina wordt geladen&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;strong&gt;Wegklikbaar?&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;Nee&lt;/li&gt;
-        &lt;/ul&gt;       
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;li&gt;&lt;strong&gt;Aantal tabs&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;2x: &#34;New simulation&#34; en &#34;Follow running simulation&#34;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>UI</title>
-      <link>/threedi-styleguide/guide/ui/</link>
-      <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/</guid>
-      <description>
-
-&lt;h2 id=&#34;user-interface:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;User interface&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3Di Styleguide</title>
-      <link>/threedi-styleguide/guide/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/</guid>
-      <description>
-
-&lt;h2 id=&#34;kaart:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kaart&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex harum sit porro, atque temporibus iure. Nam repudiandae nulla in delectus, iure eos eveniet fugit nobis necessitatibus suscipit, doloremque, quibusdam ipsam!&lt;/p&gt;
-
-&lt;h2 id=&#34;user-interface:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;User Interface&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque similique inventore molestias architecto ducimus rem. Illo tempora eius libero placeat. Fuga debitis, excepturi cumque sit assumenda possimus reiciendis dolor id.&lt;/p&gt;
-
-&lt;h2 id=&#34;grafisch:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafisch&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id alias doloremque odio asperiores eligendi quam praesentium aspernatur, laborum voluptatibus veritatis eveniet magnam quas molestiae laboriosam magni quasi facilis omnis fuga.&lt;/p&gt;
 </description>
     </item>
     
