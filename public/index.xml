@@ -10,6 +10,20 @@
     <atom:link href="/threedi-styleguide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Lijnen</title>
+      <link>/threedi-styleguide/guide/carto/lijnen/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/lijnen/</guid>
+      <description>
+
+&lt;h2 id=&#34;lijnen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnen&lt;/h2&gt;
+
+&lt;p&gt;Er bestaan verschillende soorten lijnen in 3Di.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Objecten</title>
       <link>/threedi-styleguide/guide/carto/objecten/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -232,20 +246,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;A gap in an embankment.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lijnen</title>
-      <link>/threedi-styleguide/guide/carto/lijnen/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/lijnen/</guid>
-      <description>
-
-&lt;h2 id=&#34;lijnen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnen&lt;/h2&gt;
-
-&lt;p&gt;Er bestaan verschillende soorten lijnen in 3Di.&lt;/p&gt;
 </description>
     </item>
     
