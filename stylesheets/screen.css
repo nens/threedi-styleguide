@@ -8876,6 +8876,11 @@ blockquote p {
   background-size: 50%;
 }
 
+/* line 1, ../sass/modules/_footer.scss */
+.footer a {
+  color: #333333;
+}
+
 /* line 1, ../sass/modules/_frontpage.scss */
 .frontpage {
   background-color: #F1F1F1;
@@ -8907,15 +8912,19 @@ blockquote p {
   padding-top: 2rem;
 }
 /* line 31, ../sass/modules/_frontpage.scss */
+.frontpage .footer a {
+  color: #333333;
+}
+/* line 36, ../sass/modules/_frontpage.scss */
 .frontpage a {
   color: #fff;
 }
-/* line 35, ../sass/modules/_frontpage.scss */
+/* line 40, ../sass/modules/_frontpage.scss */
 .frontpage .intro-text {
   line-height: 1.7;
   margin-bottom: 4rem;
 }
-/* line 40, ../sass/modules/_frontpage.scss */
+/* line 45, ../sass/modules/_frontpage.scss */
 .frontpage .banner-background {
   background-image: url("../images/ui.png");
   background-repeat: no-repeat;
@@ -8923,7 +8932,7 @@ blockquote p {
   background-position-x: 60px;
   height: 300px;
 }
-/* line 48, ../sass/modules/_frontpage.scss */
+/* line 53, ../sass/modules/_frontpage.scss */
 .frontpage .dark {
   color: #fff;
   background-color: #323A45;
