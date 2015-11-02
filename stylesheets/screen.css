@@ -436,8 +436,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url(../fonts/bootstrap/glyphicons-halflings-regular.eot?1435887532);
-  src: url(../fonts/bootstrap/glyphicons-halflings-regular.eot?&1435887532#iefix) format("embedded-opentype"), url(../fonts/bootstrap/glyphicons-halflings-regular.woff2?1435887532) format("woff2"), url(../fonts/bootstrap/glyphicons-halflings-regular.woff?1435887532) format("woff"), url(../fonts/bootstrap/glyphicons-halflings-regular.ttf?1435887532) format("truetype"), url(../fonts/bootstrap/glyphicons-halflings-regular.svg?1435887532#glyphicons_halflingsregular) format("svg");
+  src: url(../fonts/bootstrap/glyphicons-halflings-regular.eot?1446219416);
+  src: url(../fonts/bootstrap/glyphicons-halflings-regular.eot?&1446219416#iefix) format("embedded-opentype"), url(../fonts/bootstrap/glyphicons-halflings-regular.woff2?1446219416) format("woff2"), url(../fonts/bootstrap/glyphicons-halflings-regular.woff?1446219416) format("woff"), url(../fonts/bootstrap/glyphicons-halflings-regular.ttf?1446219416) format("truetype"), url(../fonts/bootstrap/glyphicons-halflings-regular.svg?1446219416#glyphicons_halflingsregular) format("svg");
 }
 /* line 24, ../bower_components/twbs-bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss */
 .glyphicon {
@@ -8838,12 +8838,40 @@ button.close {
     display: none !important;
   }
 }
+/* line 1, ../sass/modules/_generic.scss */
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "“" "”" "‘" "’";
+}
+
+/* line 8, ../sass/modules/_generic.scss */
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+/* line 16, ../sass/modules/_generic.scss */
+blockquote p {
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  font-weight: 300;
+  display: inline;
+  font-size: 1.3em;
+}
+
 /* line 1, ../sass/modules/_header.scss */
 #logo {
   position: relative;
   width: 200px;
   height: 100px;
-  background-image: url('../images/logo.png?1435887532');
+  background-image: url('../images/logo.png?1446219416');
   background-repeat: no-repeat;
   background-size: 50%;
 }
