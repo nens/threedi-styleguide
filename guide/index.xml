@@ -20,6 +20,15 @@
 &lt;h2 id=&#34;lijnen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnen&lt;/h2&gt;
 
 &lt;p&gt;Er bestaan verschillende soorten lijnen in 3Di.&lt;/p&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Lijn&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -40,11 +49,12 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Naam&lt;/th&gt;
+&lt;th&gt;Naam / Klasse&lt;/th&gt;
 &lt;th&gt;Zichtbaarheid&lt;/th&gt;
 &lt;th&gt;Status&lt;/th&gt;
 &lt;th&gt;Stroming&lt;/th&gt;
 &lt;th&gt;Onderscheid&lt;/th&gt;
+&lt;th&gt;Icoon&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -55,6 +65,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Oppervlaktewater&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -63,6 +74,7 @@
 &lt;td&gt;staat aan/uit&lt;/td&gt;
 &lt;td&gt;debiet&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -71,6 +83,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -79,6 +92,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Oppervlaktewater&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -87,6 +101,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -95,6 +110,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Riolering&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -103,6 +119,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -111,6 +128,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;Oppervlaktewater&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -119,6 +137,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -127,6 +146,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -135,6 +155,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -143,6 +164,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -151,10 +173,12 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Breslocatie&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -169,11 +193,29 @@
 &lt;p&gt;An open conduit either naturally or artificially created which periodically or continuously contains moving water, or which forms a connecting link between two bodies of water.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Channel&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;pumpstation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pumpstation&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A pump station mechanically lifts storm water runoff from a gravity fed collection cistern to a discharge place or outfall.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pumpstation&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;weir:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Weir&lt;/h2&gt;
 
@@ -181,11 +223,29 @@
 &lt;p&gt;A weir is a barrier across a river designed to alter its flow characteristics.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Weir&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;culvert:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Culvert&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A tunnel carrying a stream or open drain under a road or railway.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Culvert&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;manhole:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Manhole&lt;/h2&gt;
 
@@ -193,11 +253,29 @@
 &lt;p&gt;A small covered opening in a paved area allowing access beneath, especially one leading to a sewer.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Manhole&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;pipe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pipe&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A tube used to convey water, gas, oil, or other fluid substances.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pipe&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;orifice:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Orifice&lt;/h2&gt;
 
@@ -205,11 +283,29 @@
 &lt;p&gt;An orifice is an opening through which flow occurs.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Orifice&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;levee:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Levee&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A natural or manmade earthen barrier along the edge of a stream, lake, or river.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Levee&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;obstacle:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Obstacle&lt;/h2&gt;
 
@@ -217,11 +313,29 @@
 &lt;p&gt;Something that blocks access (to fluids in this case).&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Obstacle&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;2d-boundary:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;2D Boundary&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Used to define the location of a flow-time boundary point within a 2D Simulation&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;2D Boundary&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;1d-boundary:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;1D Boundary&lt;/h2&gt;
 
@@ -229,11 +343,29 @@
 &lt;p&gt;Used to define the location of a flow-time boundary point within a 1D Simulation&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;1D Boundary&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;1d-lateral:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;1D Lateral&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Geometry: situated at or on the side.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;1D Lateral&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;connection-node:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Connection node&lt;/h2&gt;
 
@@ -241,11 +373,29 @@
 &lt;p&gt;A connection node is placed at a location where reaches can be attached to other reaches.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Connection node&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;breach-location:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Breach location&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A gap in an embankment.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -262,6 +412,101 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-layout-base-01.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modals</title>
+      <link>/threedi-styleguide/guide/ui/modals/</link>
+      <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/modals/</guid>
+      <description>
+
+&lt;h2 id=&#34;modals:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Modals&lt;/h2&gt;
+
+&lt;p&gt;Modals zijn flexibele dialoogvensters en worden in de 3Di interface toegepast om de gebruiker om actie te vragen.&lt;/p&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;Welcome to 3Di - New simulation&#34;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-modal.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wanneer getoond?&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Als de pagina wordt geladen&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wegklikbaar?&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Nee&lt;/li&gt;
+        &lt;/ul&gt;       
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Aantal tabs&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;2x: &#34;New simulation&#34; en &#34;Follow running simulation&#34;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Acties&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Link naar Log out&lt;/li&gt;
+            &lt;li&gt;Tab met link naar Follow running simulation&lt;/li&gt;
+            &lt;li&gt;Filter modellenlijst&lt;/li&gt;
+            &lt;li&gt;Selecteer model&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;Welcome to 3Di - Follow running simulation&#34;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-running-simulation.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wanneer getoond?&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Als de pagina wordt geladen&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wegklikbaar?&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Nee&lt;/li&gt;
+        &lt;/ul&gt;       
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Aantal tabs&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;2x: &#34;New simulation&#34; en &#34;Follow running simulation&#34;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UI</title>
+      <link>/threedi-styleguide/guide/ui/</link>
+      <pubDate>Fri, 30 Oct 2015 11:18:31 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/</guid>
+      <description>
+
+&lt;h2 id=&#34;user-interface:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;User interface&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.&lt;/p&gt;
 </description>
     </item>
     
