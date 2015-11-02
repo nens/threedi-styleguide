@@ -1,3 +1,4 @@
 baseurl = "/threedi-styleguide/"
 languageCode = "en-us"
 title = "3Di Styleguide"
+pygmentsuseclasses = true

@@ -9,3 +9,12 @@ Lijnen
 -------
 
 Er bestaan verschillende soorten lijnen in 3Di. 
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Lijn</h3>
+  </div>
+  <div class="panel-body">
+    Icoon en gebruik hier
+  </div>
+</div>
