@@ -9,6 +9,4 @@ Cartografie
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati iure, animi, quam explicabo non ab magnam excepturi vel laboriosam, quia sint modi iste similique soluta dolore nemo. Exercitationem accusamus, ullam.
 
-
-
 <img src="/threedi-styleguide/images/3di-layout-base-01.svg" align="left" width="100%" ></a>
