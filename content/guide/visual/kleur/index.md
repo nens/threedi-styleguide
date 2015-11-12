@@ -79,7 +79,7 @@ Kleurstelling
       <li class="list-group-item" style="background-color:#6FBA71;color:#fff;">
       	<ul class="list-inline">
 		  <li>Progressbar #1</li>
-		  <li id="progressbar1`" value="#6FBA71">#6FBA71</li>
+		  <li id="progressbar1" value="#6FBA71">#6FBA71</li>
 		  <li>
   			<button class="btn btn-default btn-sm" data-clipboard-target="#progressbar1">
 			    <i class="fa fa-clipboard"></i>
