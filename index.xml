@@ -54,29 +54,6 @@
     </item>
     
     <item>
-      <title>Vlakken</title>
-      <link>/threedi-styleguide/guide/carto/vlakken/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
-      <description>
-
-&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
-
-&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Vlak&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam praesentium, dolorem est repellendus, ratione unde sunt iure totam expedita quis culpa numquam laboriosam magnam harum repudiandae aperiam doloribus officia ex.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Objecten</title>
       <link>/threedi-styleguide/guide/carto/objecten/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -479,6 +456,29 @@
     </item>
     
     <item>
+      <title>Vlakken</title>
+      <link>/threedi-styleguide/guide/carto/vlakken/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
+      <description>
+
+&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
+
+&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Vlak&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam praesentium, dolorem est repellendus, ratione unde sunt iure totam expedita quis culpa numquam laboriosam magnam harum repudiandae aperiam doloribus officia ex.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contextmenu</title>
       <link>/threedi-styleguide/guide/ui/contextmenu/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -626,27 +626,6 @@
     </item>
     
     <item>
-      <title>Notificaties</title>
-      <link>/threedi-styleguide/guide/ui/notificaties/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/notificaties/</guid>
-      <description>
-
-&lt;h2 id=&#34;notificaties:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Notificaties&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Notificaties&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Iconen</title>
       <link>/threedi-styleguide/guide/visual/iconen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -659,6 +638,27 @@
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
     &lt;h3 class=&#34;panel-title&#34;&gt;Iconen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notificaties</title>
+      <link>/threedi-styleguide/guide/ui/notificaties/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/notificaties/</guid>
+      <description>
+
+&lt;h2 id=&#34;notificaties:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Notificaties&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Notificaties&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
@@ -688,9 +688,9 @@
       &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#E3003B;color:#fff;&#34;&gt;
         &lt;ul class=&#34;list-inline&#34;&gt;
           &lt;li&gt;3Di rood&lt;/li&gt;
-          &lt;li id=&#34;3dired&#34; value=&#34;#E3003B&#34;&gt;#E3003B&lt;/li&gt;
+          &lt;li id=&#34;red&#34; value=&#34;#E3003B&#34;&gt;#E3003B&lt;/li&gt;
           &lt;li&gt;
-            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#3dired&#34;&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#red&#34;&gt;
                 &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
             &lt;/button&gt;         
           &lt;/li&gt;       
@@ -748,7 +748,7 @@
       &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#6FBA71;color:#fff;&#34;&gt;
         &lt;ul class=&#34;list-inline&#34;&gt;
           &lt;li&gt;Progressbar #1&lt;/li&gt;
-          &lt;li id=&#34;progressbar`&#34; value=&#34;#6FBA71&#34;&gt;#6FBA71&lt;/li&gt;
+          &lt;li id=&#34;progressbar1`&#34; value=&#34;#6FBA71&#34;&gt;#6FBA71&lt;/li&gt;
           &lt;li&gt;
             &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#progressbar1&#34;&gt;
                 &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
