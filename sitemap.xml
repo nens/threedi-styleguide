@@ -23,12 +23,7 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/vlakken/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threedi-styleguide/guide/ui/contextmenu/</loc>
+    <loc>/threedi-styleguide/guide/ui/beheerpaginas/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -38,7 +33,12 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/beheerpaginas/</loc>
+    <loc>/threedi-styleguide/guide/carto/vlakken/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threedi-styleguide/guide/ui/contextmenu/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -58,17 +58,17 @@
   </url>
   
   <url>
+    <loc>/threedi-styleguide/guide/ui/notificaties/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/threedi-styleguide/guide/ui/navigatie/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
     <loc>/threedi-styleguide/guide/visual/iconen/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threedi-styleguide/guide/ui/notificaties/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   

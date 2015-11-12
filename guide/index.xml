@@ -216,7 +216,7 @@
       &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#6FBA71;color:#fff;&#34;&gt;
         &lt;ul class=&#34;list-inline&#34;&gt;
           &lt;li&gt;Progressbar #1&lt;/li&gt;
-          &lt;li id=&#34;progressbar1`&#34; value=&#34;#6FBA71&#34;&gt;#6FBA71&lt;/li&gt;
+          &lt;li id=&#34;progressbar1&#34; value=&#34;#6FBA71&#34;&gt;#6FBA71&lt;/li&gt;
           &lt;li&gt;
             &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#progressbar1&#34;&gt;
                 &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
