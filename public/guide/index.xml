@@ -143,14 +143,150 @@
       <guid>/threedi-styleguide/guide/visual/kleur/</guid>
       <description>
 
-&lt;h2 id=&#34;kleuren:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kleuren&lt;/h2&gt;
+&lt;h2 id=&#34;kleurstelling:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kleurstelling&lt;/h2&gt;
 
-&lt;div class=&#34;panel panel-default&#34;&gt;
+&lt;p&gt;3Di gebruikt het volgende basispalet om verwarring over kleurgebruik te voorkomen. Hexwaarden kunnen ook procentueel of als RGB worden gebruikt. Andere kleuren mogen worden gebruikt indien er een goede reden voor is.&lt;/p&gt;
+
+&lt;div class=&#34;panel panel-default colorpalette&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Kleuren&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Palet&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#E3003B;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;3Di rood&lt;/li&gt;
+          &lt;li id=&#34;3dired&#34; value=&#34;#E3003B&#34;&gt;#E3003B&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#3dired&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#3378B0;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Actieve link&lt;/li&gt;
+          &lt;li id=&#34;activelink&#34; value=&#34;#3378B0&#34;&gt;#3378B0&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#activelink&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#A3A4A2;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Inactieve link&lt;/li&gt;
+          &lt;li id=&#34;inactivelink&#34; value=&#34;#A3A4A2&#34;&gt;#A3A4A2&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#inactivelink&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#EAEBEB;color:#000;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Achtergrond&lt;/li&gt;
+          &lt;li id=&#34;background1&#34; value=&#34;#EAEBEB&#34;&gt;#EAEBEB&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#background1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#D9EDF7;color:#000;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Notificatie&lt;/li&gt;
+          &lt;li id=&#34;notificationbg&#34; value=&#34;#D9EDF7&#34;&gt;#D9EDF7&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#notificationbg&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#6FBA71;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Progressbar #1&lt;/li&gt;
+          &lt;li id=&#34;progressbar`&#34; value=&#34;#6FBA71&#34;&gt;#6FBA71&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#progressbar1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#58B05A;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Progressbar #2&lt;/li&gt;
+          &lt;li id=&#34;progressbar2&#34; value=&#34;#58B05A&#34;&gt;#58B05A&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#progressbar2&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#333333;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Icon #1&lt;/li&gt;
+          &lt;li id=&#34;icon1&#34; value=&#34;#333333&#34;&gt;#333333&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#icon1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#38AADD;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Marker #1&lt;/li&gt;
+          &lt;li id=&#34;marker1&#34; value=&#34;#38AADD&#34;&gt;#38AADD&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#marker1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#167F10;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Statusindicator #1&lt;/li&gt;
+          &lt;li id=&#34;statusindicator1&#34; value=&#34;#167F10&#34;&gt;#167F10&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#statusindicator1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#E8BD8B;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Statusindicator #2&lt;/li&gt;
+          &lt;li id=&#34;statusindicator2&#34; value=&#34;#E8BD8B&#34;&gt;#E8BD8B&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#statusindicator2&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;
+        &lt;/ul&gt;
+
+      &lt;/li&gt;
+
+
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -326,7 +462,7 @@
 &lt;td&gt;staat aan/uit&lt;/td&gt;
 &lt;td&gt;debiet&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -335,7 +471,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -344,7 +480,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Oppervlaktewater&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -353,7 +489,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -371,7 +507,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -465,7 +601,11 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Pumpstation&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -480,7 +620,11 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Weir&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -495,7 +639,11 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Culvert&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -510,7 +658,11 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Manhole&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -540,7 +692,11 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Orifice&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -646,6 +802,21 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;floodfill:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Floodfill&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Flood fill icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-floodfill.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-floodfill.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-floodfill.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>

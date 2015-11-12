@@ -8942,7 +8942,7 @@ blockquote p {
 /* line 1, ../sass/modules/_guide.scss */
 .guide {
   background-color: #F1F1F1;
-  font-family: 'Open Sans Bold', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 /* line 7, ../sass/modules/_guide.scss */
 .guide h1 {
@@ -9015,7 +9015,7 @@ blockquote p {
 }
 /* line 76, ../sass/modules/_guide.scss */
 .guide .strong, .guide strong {
-  font-family: 'Open Sans Bold', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
 }
 /* line 81, ../sass/modules/_guide.scss */
@@ -9032,4 +9032,23 @@ blockquote p {
   top: 130px;
   bottom: 0;
   width: 100%;
+}
+/* line 97, ../sass/modules/_guide.scss */
+.guide .icon-1x {
+  width: 10px;
+  height: 10px;
+}
+/* line 101, ../sass/modules/_guide.scss */
+.guide .icon-2x {
+  width: 20px;
+  height: 20px;
+}
+/* line 105, ../sass/modules/_guide.scss */
+.guide .icon-3x {
+  width: 30px;
+  height: 30px;
+}
+/* line 112, ../sass/modules/_guide.scss */
+.guide .colorpalette ul.list-inline li {
+  width: 150px;
 }

@@ -1,7 +1,7 @@
 .guide {
 	background-color: $threedi-background-gray;
 
-    font-family: 'Open Sans Bold', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 	
 
 	h1 {
@@ -74,7 +74,7 @@
 	}
 
 	.strong, strong {
-		font-family: 'Open Sans Bold', sans-serif;
+		font-family: 'Open Sans', sans-serif;
 	    font-weight: 700;
 	}
 
@@ -93,5 +93,24 @@
 		width: 100%;
 	}
 
+
+	.icon-1x {
+		width: 10px;
+		height: 10px;
+	}
+	.icon-2x {
+		width: 20px;
+		height: 20px;
+	}	
+	.icon-3x {
+		width: 30px;
+		height: 30px;
+	}		
+
+
+
+	.colorpalette ul.list-inline li {
+		width: 150px;
+	}
 
 }

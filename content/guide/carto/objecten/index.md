@@ -21,12 +21,12 @@ Overzicht van symbolen
 | Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       | Icoon                     |
 |-----------------	|---------------------	|-----------------	|-------------------	|------------------	|---------------------------|
 | Channel         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	|                           |
-| Pumpstation     	| bevat zoom_category 	| staat aan/uit   	| debiet            	| Opp of riolering 	|                           |
-| Weir            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	|                           |
-| Culvert         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	|                           |
-| Manhole         	| bevat zoom_category 	|                 	| -                 	| Opp of riolering 	|                           |
+| Pumpstation     	| bevat zoom_category 	| staat aan/uit   	| debiet            	| Opp of riolering 	| <img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /> |
+| Weir            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-weir.svg" class="icon-2x" /> |
+| Culvert         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /> |
+| Manhole         	| bevat zoom_category 	|                 	| -                 	| Opp of riolering 	| <img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /> |
 | Pipe            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	|                           |
-| Orifice         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	|                           |
+| Orifice         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /> |
 | Levee           	| toggle visibility   	|                 	| -                 	| Oppervlaktewater 	|                           |
 | Obstacle        	| toggle visibility   	|                 	| -                 	| geen             	|                           |
 | 2D Boundary    	| toggle visibility   	|                 	| -                 	| geen             	|                           |
@@ -62,7 +62,11 @@ Overzicht van symbolen
     <h3 class="panel-title">Pumpstation</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -76,7 +80,11 @@ Overzicht van symbolen
     <h3 class="panel-title">Weir</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -90,7 +98,11 @@ Overzicht van symbolen
     <h3 class="panel-title">Culvert</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -104,7 +116,11 @@ Overzicht van symbolen
     <h3 class="panel-title">Manhole</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -132,7 +148,11 @@ Overzicht van symbolen
     <h3 class="panel-title">Orifice</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -231,5 +251,21 @@ Overzicht van symbolen
   </div>
   <div class="panel-body">
     Icoon en gebruik hier
+  </div>
+</div>
+
+
+## Floodfill
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Flood fill icon</h3>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>

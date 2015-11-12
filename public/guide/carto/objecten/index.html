@@ -109,7 +109,7 @@
 <td>staat aan/uit</td>
 <td>debiet</td>
 <td>Opp of riolering</td>
-<td></td>
+<td><img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /></td>
 </tr>
 
 <tr>
@@ -118,7 +118,7 @@
 <td>open/afgesloten</td>
 <td>debiet + snelheid</td>
 <td>Opp of riolering</td>
-<td></td>
+<td><img src="../../../images/icons/icon-weir.svg" class="icon-2x" /></td>
 </tr>
 
 <tr>
@@ -127,7 +127,7 @@
 <td>open/afgesloten</td>
 <td>debiet + snelheid</td>
 <td>Oppervlaktewater</td>
-<td></td>
+<td><img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /></td>
 </tr>
 
 <tr>
@@ -136,7 +136,7 @@
 <td></td>
 <td>-</td>
 <td>Opp of riolering</td>
-<td></td>
+<td><img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /></td>
 </tr>
 
 <tr>
@@ -154,7 +154,7 @@
 <td>open/afgesloten</td>
 <td>debiet + snelheid</td>
 <td>Opp of riolering</td>
-<td></td>
+<td><img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /></td>
 </tr>
 
 <tr>
@@ -248,7 +248,11 @@
     <h3 class="panel-title">Pumpstation</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -263,7 +267,11 @@
     <h3 class="panel-title">Weir</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -278,7 +286,11 @@
     <h3 class="panel-title">Culvert</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -293,7 +305,11 @@
     <h3 class="panel-title">Manhole</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -323,7 +339,11 @@
     <h3 class="panel-title">Orifice</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -432,6 +452,21 @@
   </div>
 </div>
 
+<h2 id="floodfill:d680e8a854a7cbad6d490c445cba2eba">Floodfill</h2>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Flood fill icon</h3>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
       </div>        
     </div>
   </div>
@@ -445,7 +480,10 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.8.0/holder.js"></script>
 	<script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
-	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
+	<script>
+	new Clipboard('.btn');
+	</script>
   <script>
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
