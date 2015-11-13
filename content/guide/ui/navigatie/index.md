@@ -15,6 +15,7 @@ Navigatie
   </div>
   <div class="panel-body">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    <img src="../../../images/screenshots/top-right-menu.jpg" class="img-rounded img-responsive" />
   </div>
 </div>
 
