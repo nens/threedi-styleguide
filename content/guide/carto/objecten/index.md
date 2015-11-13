@@ -20,20 +20,18 @@ Overzicht van symbolen
 
 | Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       | Icoon                     |
 |-----------------	|---------------------	|-----------------	|-------------------	|------------------	|---------------------------|
-| Channel         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	|                           |
 | Pumpstation     	| bevat zoom_category 	| staat aan/uit   	| debiet            	| Opp of riolering 	| <img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /> |
 | Weir            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-weir.svg" class="icon-2x" /> |
 | Culvert         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /> |
-| Manhole         	| bevat zoom_category 	|                 	| -                 	| Opp of riolering 	| <img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /> |
-| Pipe            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	|                           |
+| Manhole         	| bevat zoom_category 	| -                	| -                 	| Opp of riolering 	| <img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /> |
 | Orifice         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /> |
-| Levee           	| toggle visibility   	|                 	| -                 	| Oppervlaktewater 	|                           |
-| Obstacle        	| toggle visibility   	|                 	| -                 	| geen             	|                           |
-| 2D Boundary    	| toggle visibility   	|                 	| -                 	| geen             	|                           |
-| 1D Boundary   	| toggle visibility   	|                 	| -                 	| geen             	|                           |
-| 1D Lateral     	| toggle visibility   	|                 	| -                 	| geen             	|                           |
-| Connection node 	| toggle visibility   	|                 	| -                 	|                  	|                           |
-| Breslocatie     	|                     	|                 	|                   	|                  	|                           |
+| Levee           	| toggle visibility   	| -                	| -                 	| Oppervlaktewater 	| ?                         |
+| Obstacle        	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
+| 2D Boundary    	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
+| 1D Boundary   	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
+| 1D Lateral     	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
+| Connection node 	| toggle visibility   	| -                	| -                 	| -                	| ?                         |
+| Breslocatie     	| -                    	| -                	| -                  	| -                	| ?                         |
 
 
 
@@ -48,7 +46,11 @@ Overzicht van symbolen
     <h3 class="panel-title">Channel</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -266,6 +268,22 @@ Overzicht van symbolen
       <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-1x" /></li>
       <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-2x" /></li>
       <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
+
+## Rain
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Rain icon</h3>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-3x" /></li>
     </ul>
   </div>
 </div>

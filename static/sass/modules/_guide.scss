@@ -2,7 +2,10 @@
 	background-color: $threedi-background-gray;
 
     font-family: 'Open Sans', sans-serif;
-	
+
+    p {
+	    line-height: 25px;
+    }
 
 	h1 {
 		font-family: 'Merriweather', serif;

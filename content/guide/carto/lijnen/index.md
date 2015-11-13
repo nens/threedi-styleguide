@@ -8,13 +8,8 @@ title = "Lijnen"
 Lijnen
 -------
 
-Er bestaan verschillende soorten lijnen in 3Di. 
 
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Lijn</h3>
-  </div>
-  <div class="panel-body">
-    Icoon en gebruik hier
-  </div>
-</div>
+| Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       | Icoon                     |
+|-----------------	|---------------------	|-----------------	|-------------------	|------------------	|---------------------------|
+| Channel         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-channel.svg" class="icon-2x" /> |
+| Pipe            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	|                           |

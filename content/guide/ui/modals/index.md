@@ -8,6 +8,7 @@ Modals
 ------
 
 Modals zijn flexibele dialoogvensters en worden in de 3Di interface toegepast om de gebruiker om actie te vragen.
+Terwijl een modal actief is kan de rest van de applicatie **niet** worden gebruikt.
 
 
 <div class="panel panel-default">

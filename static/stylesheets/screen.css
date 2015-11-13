@@ -8944,31 +8944,35 @@ blockquote p {
   background-color: #F1F1F1;
   font-family: 'Open Sans', sans-serif;
 }
-/* line 7, ../sass/modules/_guide.scss */
+/* line 6, ../sass/modules/_guide.scss */
+.guide p {
+  line-height: 25px;
+}
+/* line 10, ../sass/modules/_guide.scss */
 .guide h1 {
   font-family: 'Merriweather', serif;
   font-size: 5rem;
   font-weight: 700;
 }
-/* line 13, ../sass/modules/_guide.scss */
+/* line 16, ../sass/modules/_guide.scss */
 .guide h2 {
   font-family: 'Merriweather', serif;
   font-size: 3rem;
   font-weight: 700;
 }
-/* line 19, ../sass/modules/_guide.scss */
+/* line 22, ../sass/modules/_guide.scss */
 .guide h4 {
   color: #0071BC;
   font-weight: 600;
 }
-/* line 24, ../sass/modules/_guide.scss */
+/* line 27, ../sass/modules/_guide.scss */
 .guide p.lead {
   font-size: 2rem;
   font-family: "Merriweather", "Georgia", "Times New Roman", serif;
   line-height: 1.7;
   margin-top: 2em;
 }
-/* line 31, ../sass/modules/_guide.scss */
+/* line 34, ../sass/modules/_guide.scss */
 .guide .header {
   background-color: #E3003B;
   background-image: none;
@@ -8976,16 +8980,16 @@ blockquote p {
   padding-bottom: 1rem;
   padding-top: 0.5rem;
 }
-/* line 39, ../sass/modules/_guide.scss */
+/* line 42, ../sass/modules/_guide.scss */
 .guide a {
   color: #000;
 }
-/* line 43, ../sass/modules/_guide.scss */
+/* line 46, ../sass/modules/_guide.scss */
 .guide .intro-text {
   line-height: 1.7;
   margin-bottom: 4rem;
 }
-/* line 48, ../sass/modules/_guide.scss */
+/* line 51, ../sass/modules/_guide.scss */
 .guide .banner-background {
   background-image: url("../images/ui.png");
   background-repeat: no-repeat;
@@ -8993,62 +8997,62 @@ blockquote p {
   background-position-x: 60px;
   height: 300px;
 }
-/* line 56, ../sass/modules/_guide.scss */
+/* line 59, ../sass/modules/_guide.scss */
 .guide .dark {
   color: #fff;
   background-color: #323A45;
   padding-top: 4rem;
 }
-/* line 62, ../sass/modules/_guide.scss */
+/* line 65, ../sass/modules/_guide.scss */
 .guide .block {
   display: block;
 }
-/* line 66, ../sass/modules/_guide.scss */
+/* line 69, ../sass/modules/_guide.scss */
 .guide .truncate {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
 }
-/* line 72, ../sass/modules/_guide.scss */
+/* line 75, ../sass/modules/_guide.scss */
 .guide .underline {
   text-decoration: underline;
 }
-/* line 76, ../sass/modules/_guide.scss */
+/* line 79, ../sass/modules/_guide.scss */
 .guide .strong, .guide strong {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
 }
-/* line 81, ../sass/modules/_guide.scss */
+/* line 84, ../sass/modules/_guide.scss */
 .guide .menu a {
   line-height: 20px;
 }
-/* line 85, ../sass/modules/_guide.scss */
+/* line 88, ../sass/modules/_guide.scss */
 .guide a.spacing, .guide span.spacing {
   margin: 5px 0 5px 0;
 }
-/* line 89, ../sass/modules/_guide.scss */
+/* line 92, ../sass/modules/_guide.scss */
 .guide .docnav {
   position: fixed;
   top: 130px;
   bottom: 0;
   width: 100%;
 }
-/* line 97, ../sass/modules/_guide.scss */
+/* line 100, ../sass/modules/_guide.scss */
 .guide .icon-1x {
   width: 10px;
   height: 10px;
 }
-/* line 101, ../sass/modules/_guide.scss */
+/* line 104, ../sass/modules/_guide.scss */
 .guide .icon-2x {
   width: 20px;
   height: 20px;
 }
-/* line 105, ../sass/modules/_guide.scss */
+/* line 108, ../sass/modules/_guide.scss */
 .guide .icon-3x {
   width: 30px;
   height: 30px;
 }
-/* line 112, ../sass/modules/_guide.scss */
+/* line 115, ../sass/modules/_guide.scss */
 .guide .colorpalette ul.list-inline li {
   width: 150px;
 }

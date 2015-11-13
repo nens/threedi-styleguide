@@ -121,7 +121,17 @@ Kleurstelling
 			    <i class="fa fa-clipboard"></i>
 			</button>		  
 		  </li>		  
-
+		</ul>
+      </li>
+      <li class="list-group-item" style="background-color:#71AE26;color:#fff;">
+      	<ul class="list-inline">
+		  <li>Marker #2</li>
+		  <li id="marker2" value="#71AE26">#71AE26</li>
+		  <li>
+  			<button class="btn btn-default btn-sm" data-clipboard-target="#marker2">
+			    <i class="fa fa-clipboard"></i>
+			</button>		  
+		  </li>		  
 		</ul>
       </li>
       <li class="list-group-item" style="background-color:#167F10;color:#fff;">
@@ -145,8 +155,51 @@ Kleurstelling
 			</button>		  
 		  </li>
 		</ul>
-
       </li>
+      <li class="list-group-item" style="background-color:#F2DEDE;color:#000;">
+      	<ul class="list-inline">
+		  <li>Statusindicator #3</li>
+		  <li id="statusindicator3" value="#F2DEDE">#F2DEDE</li>
+		  <li>
+  			<button class="btn btn-default btn-sm" data-clipboard-target="#statusindicator3">
+			    <i class="fa fa-clipboard"></i>
+			</button>		  
+		  </li>
+		</ul>
+      </li>
+      <li class="list-group-item" style="background-color:#C0EDEB;color:#000;">
+      	<ul class="list-inline">
+		  <li>Channel</li>
+		  <li id="channel" value="#C0EDEB">#C0EDEB</li>
+		  <li>
+  			<button class="btn btn-default btn-sm" data-clipboard-target="#channel">
+			    <i class="fa fa-clipboard"></i>
+			</button>		  
+		  </li>
+		</ul>
+      </li>
+      <li class="list-group-item" style="background-color:#E39B10;color:#000;">
+      	<ul class="list-inline">
+		  <li>Waiting</li>
+		  <li id="waiting" value="#E39B10">#E39B10</li>
+		  <li>
+  			<button class="btn btn-default btn-sm" data-clipboard-target="#waiting">
+			    <i class="fa fa-clipboard"></i>
+			</button>		  
+		  </li>
+		</ul>
+      </li>
+      <li class="list-group-item" style="background-color:#83ABC3;color:#000;">
+      	<ul class="list-inline">
+		  <li>Chart bullet</li>
+		  <li id="chartbullet" value="#83ABC3">#83ABC3</li>
+		  <li>
+  			<button class="btn btn-default btn-sm" data-clipboard-target="#chartbullet">
+			    <i class="fa fa-clipboard"></i>
+			</button>		  
+		  </li>
+		</ul>
+      </li>      
 
 
     </ul>

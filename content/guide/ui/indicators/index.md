@@ -11,9 +11,9 @@ Indicators
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Indicators</h3>
+    <h3 class="panel-title">Model laden</h3>
   </div>
   <div class="panel-body">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!</p>
   </div>
 </div>
