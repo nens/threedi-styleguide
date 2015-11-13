@@ -77,7 +77,8 @@
 
 <h2 id="modals:d680e8a854a7cbad6d490c445cba2eba">Modals</h2>
 
-<p>Modals zijn flexibele dialoogvensters en worden in de 3Di interface toegepast om de gebruiker om actie te vragen.</p>
+<p>Modals zijn flexibele dialoogvensters en worden in de 3Di interface toegepast om de gebruiker om actie te vragen.
+Terwijl een modal actief is kan de rest van de applicatie <strong>niet</strong> worden gebruikt.</p>
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -160,9 +161,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.8.0/holder.js"></script>
 	<script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
-	<script>
-	new Clipboard('.btn');
-	</script>
+	
   <script>
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
@@ -171,6 +170,7 @@ $(function () {
   });
 });
 hljs.initHighlightingOnLoad();
+new Clipboard('.btn');
 </script>
   </body>
 </html>

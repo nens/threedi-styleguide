@@ -77,16 +77,38 @@
 
 <h2 id="lijnen:d680e8a854a7cbad6d490c445cba2eba">Lijnen</h2>
 
-<p>Er bestaan verschillende soorten lijnen in 3Di.</p>
+<table>
+<thead>
+<tr>
+<th>Naam / Klasse</th>
+<th>Zichtbaarheid</th>
+<th>Status</th>
+<th>Stroming</th>
+<th>Onderscheid</th>
+<th>Icoon</th>
+</tr>
+</thead>
 
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Lijn</h3>
-  </div>
-  <div class="panel-body">
-    Icoon en gebruik hier
-  </div>
-</div>
+<tbody>
+<tr>
+<td>Channel</td>
+<td>bevat zoom_category</td>
+<td>open/afgesloten</td>
+<td>debiet + snelheid</td>
+<td>Oppervlaktewater</td>
+<td><img src="../../../images/icons/icon-channel.svg" class="icon-2x" /></td>
+</tr>
+
+<tr>
+<td>Pipe</td>
+<td>bevat zoom_category</td>
+<td>open/afgesloten</td>
+<td>debiet + snelheid</td>
+<td>Riolering</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
       </div>        
     </div>
@@ -102,9 +124,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.8.0/holder.js"></script>
 	<script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
-	<script>
-	new Clipboard('.btn');
-	</script>
+	
   <script>
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
@@ -113,6 +133,7 @@ $(function () {
   });
 });
 hljs.initHighlightingOnLoad();
+new Clipboard('.btn');
 </script>
   </body>
 </html>

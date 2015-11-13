@@ -95,15 +95,6 @@
 
 <tbody>
 <tr>
-<td>Channel</td>
-<td>bevat zoom_category</td>
-<td>open/afgesloten</td>
-<td>debiet + snelheid</td>
-<td>Oppervlaktewater</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Pumpstation</td>
 <td>bevat zoom_category</td>
 <td>staat aan/uit</td>
@@ -133,19 +124,10 @@
 <tr>
 <td>Manhole</td>
 <td>bevat zoom_category</td>
-<td></td>
+<td>-</td>
 <td>-</td>
 <td>Opp of riolering</td>
 <td><img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /></td>
-</tr>
-
-<tr>
-<td>Pipe</td>
-<td>bevat zoom_category</td>
-<td>open/afgesloten</td>
-<td>debiet + snelheid</td>
-<td>Riolering</td>
-<td></td>
 </tr>
 
 <tr>
@@ -160,64 +142,64 @@
 <tr>
 <td>Levee</td>
 <td>toggle visibility</td>
-<td></td>
+<td>-</td>
 <td>-</td>
 <td>Oppervlaktewater</td>
-<td></td>
+<td>?</td>
 </tr>
 
 <tr>
 <td>Obstacle</td>
 <td>toggle visibility</td>
-<td></td>
+<td>-</td>
 <td>-</td>
 <td>geen</td>
-<td></td>
+<td>?</td>
 </tr>
 
 <tr>
 <td>2D Boundary</td>
 <td>toggle visibility</td>
-<td></td>
+<td>-</td>
 <td>-</td>
 <td>geen</td>
-<td></td>
+<td>?</td>
 </tr>
 
 <tr>
 <td>1D Boundary</td>
 <td>toggle visibility</td>
-<td></td>
+<td>-</td>
 <td>-</td>
 <td>geen</td>
-<td></td>
+<td>?</td>
 </tr>
 
 <tr>
 <td>1D Lateral</td>
 <td>toggle visibility</td>
-<td></td>
+<td>-</td>
 <td>-</td>
 <td>geen</td>
-<td></td>
+<td>?</td>
 </tr>
 
 <tr>
 <td>Connection node</td>
 <td>toggle visibility</td>
-<td></td>
 <td>-</td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
+<td>?</td>
 </tr>
 
 <tr>
 <td>Breslocatie</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>?</td>
 </tr>
 </tbody>
 </table>
@@ -233,7 +215,11 @@
     <h3 class="panel-title">Channel</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -467,6 +453,21 @@
   </div>
 </div>
 
+<h2 id="rain:d680e8a854a7cbad6d490c445cba2eba">Rain</h2>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Rain icon</h3>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
       </div>        
     </div>
   </div>
@@ -481,9 +482,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.8.0/holder.js"></script>
 	<script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
-	<script>
-	new Clipboard('.btn');
-	</script>
+	
   <script>
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
@@ -492,6 +491,7 @@ $(function () {
   });
 });
 hljs.initHighlightingOnLoad();
+new Clipboard('.btn');
 </script>
   </body>
 </html>
