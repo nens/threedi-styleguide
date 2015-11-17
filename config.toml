@@ -2,3 +2,16 @@ baseurl = "/threedi-styleguide/"
 languageCode = "en-us"
 title = "3Di Styleguide"
 pygmentsuseclasses = true
+
+[[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home'></i>"
+    weight = -110
+    identifier = "home"
+    url = "/"
+
+[[menu.carto]]
+    name = "Carto"
+    weight = -110
+    identifier = "carto"
+    url = "carto"

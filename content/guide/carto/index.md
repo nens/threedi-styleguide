@@ -2,6 +2,8 @@
 date = "2015-10-30T11:18:31+01:00"
 draft = false
 title = "Algemeen"
+menu = "main"
+
 +++
 
 Cartografie

@@ -19,9 +19,102 @@
 
 &lt;h2 id=&#34;beheerpagina-s:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Beheerpagina&amp;rsquo;s&lt;/h2&gt;
 
+&lt;h3 id=&#34;basisstijl:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Basisstijl&lt;/h3&gt;
+
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Beheerpagina&#39;s&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Basissjabloon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wanneer getoond?&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Als de pagina wordt geladen&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wegklikbaar?&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Nee&lt;/li&gt;
+        &lt;/ul&gt;       
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Aantal tabs&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;2x: &#34;New simulation&#34; en &#34;Follow running simulation&#34;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Acties&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Link naar Log out&lt;/li&gt;
+            &lt;li&gt;Tab met link naar Follow running simulation&lt;/li&gt;
+            &lt;li&gt;Filter modellenlijst&lt;/li&gt;
+            &lt;li&gt;Selecteer model&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;h3 id=&#34;kostenpagina:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kostenpagina&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Kosten&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wanneer getoond?&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Als de pagina wordt geladen&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Wegklikbaar?&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Nee&lt;/li&gt;
+        &lt;/ul&gt;       
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Aantal tabs&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;2x: &#34;New simulation&#34; en &#34;Follow running simulation&#34;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;strong&gt;Acties&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;Link naar Log out&lt;/li&gt;
+            &lt;li&gt;Tab met link naar Follow running simulation&lt;/li&gt;
+            &lt;li&gt;Filter modellenlijst&lt;/li&gt;
+            &lt;li&gt;Selecteer model&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;h3 id=&#34;modellendatabank:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Modellendatabank&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;...&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;3di-usage:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;3Di Usage&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;...&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.

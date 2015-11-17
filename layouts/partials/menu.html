@@ -1,6 +1,7 @@
+
 <div class="docnav hidden-sm hidden-xs">
 
-	<a href="{{ .Site.BaseURL }}guide/" class="truncate block small strong spacing">Overzicht</a>
+	<a href="{{ .Site.BaseURL }}" class="truncate block small spacing"><i class="fa fa-home"></i>&nbsp;Home</a>
 
 	<span class="truncate block small strong spacing">Cartografie</span>
 	<a href="{{ .Site.BaseURL }}guide/carto/" class="truncate block small {{ if eq .Title "Algemeen" }}underline{{ end }}">Algemeen</a>
@@ -30,3 +31,38 @@
 	<a href="{{ .Site.BaseURL }}guide/visual/logo/" class="truncate block small {{ if eq .Title "Logo" }}underline{{ end }}">Logo</a>
 
 </div>
+
+
+<!--
+<aside>
+    <div id="sidebar" class="nav-collapse">
+        <ul class="sidebar-menu">
+          {{ $currentNode := . }}
+          {{ range .Site.Menus.main }}
+              {{ if .HasChildren }}
+
+            <li class="sub-menu{{if $currentNode.HasMenuCurrent "main" . }} active{{end}}">
+            <a href="javascript:;" class="">
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+                <span class="menu-arrow arrow_carrot-right"></span>
+            </a>
+            <ul class="sub">
+                {{ range .Children }}
+                <li{{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
+                {{ end }}
+            </ul>
+          {{else}}
+            <li>
+            <a class="" href="{{.URL}}">
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+            </a>
+          {{end}}
+          </li>
+          {{end}}
+        </ul>
+
+    </div>
+</aside>
+-->

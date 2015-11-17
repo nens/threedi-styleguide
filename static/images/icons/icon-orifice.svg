@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="551px" height="586px" viewBox="0 0 551 586" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="116px" height="117px" viewBox="0 0 116 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
     <title>icon-orifice 2</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <rect id="Rectangle-1" fill="#000000" sketch:type="MSShapeGroup" x="0" y="0" width="153" height="586"></rect>
-        <path d="M419.681029,293.024617 L192.705646,520 L258.37744,585.671794 L551,293.049234 L550.975383,293.024617 L551,293 L258.37744,0.37743983 L192.705646,66.0492336 L419.681029,293.024617 Z" id="Rectangle-3" fill="#000000" sketch:type="MSShapeGroup"></path>
+        <g id="icon-orifice" sketch:type="MSLayerGroup" transform="translate(18.000000, 18.000000)" fill="#000000">
+            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="0" y="0" width="22.2141561" height="86"></rect>
+            <path d="M61.1115925,43.0036127 L27.7497543,76.3654509 L37.284679,85.9003755 L70.6465172,52.5385374 L70.6943621,52.5863824 L80.2292868,43.0514577 L80.1814419,43.0036127 L80.2292868,42.9557677 L70.6943621,33.420843 L70.6465172,33.468688 L37.284679,0.106849872 L27.7497543,9.64177456 L61.1115925,43.0036127 Z" id="Rectangle-3" sketch:type="MSShapeGroup"></path>
+        </g>
     </g>
 </svg>
