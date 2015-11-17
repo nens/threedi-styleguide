@@ -673,6 +673,45 @@
     </item>
     
     <item>
+      <title>Kaartcontrols</title>
+      <link>/threedi-styleguide/guide/ui/kaartcontrols/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/kaartcontrols/</guid>
+      <description>
+
+&lt;h2 id=&#34;kaart-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kaart controls&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Zoomcontrol&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Info control&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Crossprofile control&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Grafieken</title>
       <link>/threedi-styleguide/guide/ui/grafieken/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -721,45 +760,6 @@
     </item>
     
     <item>
-      <title>Kaartcontrols</title>
-      <link>/threedi-styleguide/guide/ui/kaartcontrols/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/kaartcontrols/</guid>
-      <description>
-
-&lt;h2 id=&#34;kaart-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kaart controls&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Zoomcontrol&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Info control&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Crossprofile control&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Indicators</title>
       <link>/threedi-styleguide/guide/ui/indicators/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -776,27 +776,6 @@
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
     &lt;img src=&#34;../../../images/screenshots/booting-machine-indicator.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modelcontrols</title>
-      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
-      <description>
-
-&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -834,6 +813,57 @@
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
     &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notificaties</title>
+      <link>/threedi-styleguide/guide/ui/notificaties/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/notificaties/</guid>
+      <description>
+
+&lt;h2 id=&#34;notificaties:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Notificaties&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;Using modelname&#34;-notificatie&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;You need to be director to...&#34;-notificatie&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelcontrols</title>
+      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
+      <description>
+
+&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
@@ -1068,36 +1098,6 @@
 
 
     &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Notificaties</title>
-      <link>/threedi-styleguide/guide/ui/notificaties/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/notificaties/</guid>
-      <description>
-
-&lt;h2 id=&#34;notificaties:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Notificaties&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;Using modelname&#34;-notificatie&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;You need to be director to...&#34;-notificatie&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
