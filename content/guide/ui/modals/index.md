@@ -21,25 +21,25 @@ Terwijl een modal actief is kan de rest van de applicatie **niet** worden gebrui
   <ul class="list-group">
     <li class="list-group-item">
     	<ul>
-			<li><strong>Wanneer getoond?</strong></li>
+			<strong>Wanneer getoond?</strong>
 			<li>Als de pagina wordt geladen</li>
 		</ul>
     </li>
 	<li class="list-group-item">
     	<ul>
-			<li><strong>Wegklikbaar?</strong></li>
+			<strong>Wegklikbaar?</strong>
 			<li>Nee</li>
 		</ul>		
 	</li>
 	<li class="list-group-item">
     	<ul>
-			<li><strong>Aantal tabs</strong></li>
+			<strong>Aantal tabs</strong>
 			<li>2x: "New simulation" en "Follow running simulation"</li>
 		</ul>
 	</li>
     <li class="list-group-item">
     	<ul>
-			<li><strong>Acties</strong></li>
+			<strong>Acties</strong>
 			<li>Link naar Log out</li>
 			<li>Tab met link naar Follow running simulation</li>
 			<li>Filter modellenlijst</li>
@@ -60,19 +60,19 @@ Terwijl een modal actief is kan de rest van de applicatie **niet** worden gebrui
   <ul class="list-group">
     <li class="list-group-item">
     	<ul>
-			<li><strong>Wanneer getoond?</strong></li>
+			<strong>Wanneer getoond?</strong>
 			<li>Als de pagina wordt geladen</li>
 		</ul>
     </li>
 	<li class="list-group-item">
     	<ul>
-			<li><strong>Wegklikbaar?</strong></li>
+			<strong>Wegklikbaar?</strong>
 			<li>Nee</li>
 		</ul>		
 	</li>
 	<li class="list-group-item">
     	<ul>
-			<li><strong>Aantal tabs</strong></li>
+			<strong>Aantal tabs</strong>
 			<li>2x: "New simulation" en "Follow running simulation"</li>
 		</ul>
 	</li>

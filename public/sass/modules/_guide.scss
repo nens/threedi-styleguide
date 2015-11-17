@@ -1,4 +1,10 @@
 .guide {
+	::selection {
+	  background: #ffb7b7; /* WebKit/Blink Browsers */
+	}
+	::-moz-selection {
+	  background: #ffb7b7;; /* Gecko Browsers */
+	}
 	background-color: $threedi-background-gray;
 
     font-family: 'Open Sans', sans-serif;
@@ -115,5 +121,16 @@
 	.colorpalette ul.list-inline li {
 		width: 150px;
 	}
+
+
+	ul li.list-group-item ul li{
+		list-style-type: disc;
+		list-style-position: inside;
+		margin: 5px 0 5px 0;
+	}
+	ul li p {
+		margin: 5px 0 5px 0;
+		display: inline;
+	}	
 
 }

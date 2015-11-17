@@ -8944,35 +8944,45 @@ blockquote p {
   background-color: #F1F1F1;
   font-family: 'Open Sans', sans-serif;
 }
-/* line 6, ../sass/modules/_guide.scss */
+/* line 2, ../sass/modules/_guide.scss */
+.guide ::selection {
+  background: #ffb7b7;
+  /* WebKit/Blink Browsers */
+}
+/* line 5, ../sass/modules/_guide.scss */
+.guide ::-moz-selection {
+  background: #ffb7b7;
+  /* Gecko Browsers */
+}
+/* line 12, ../sass/modules/_guide.scss */
 .guide p {
   line-height: 25px;
 }
-/* line 10, ../sass/modules/_guide.scss */
+/* line 16, ../sass/modules/_guide.scss */
 .guide h1 {
   font-family: 'Merriweather', serif;
   font-size: 5rem;
   font-weight: 700;
 }
-/* line 16, ../sass/modules/_guide.scss */
+/* line 22, ../sass/modules/_guide.scss */
 .guide h2 {
   font-family: 'Merriweather', serif;
   font-size: 3rem;
   font-weight: 700;
 }
-/* line 22, ../sass/modules/_guide.scss */
+/* line 28, ../sass/modules/_guide.scss */
 .guide h4 {
   color: #0071BC;
   font-weight: 600;
 }
-/* line 27, ../sass/modules/_guide.scss */
+/* line 33, ../sass/modules/_guide.scss */
 .guide p.lead {
   font-size: 2rem;
   font-family: "Merriweather", "Georgia", "Times New Roman", serif;
   line-height: 1.7;
   margin-top: 2em;
 }
-/* line 34, ../sass/modules/_guide.scss */
+/* line 40, ../sass/modules/_guide.scss */
 .guide .header {
   background-color: #E3003B;
   background-image: none;
@@ -8980,16 +8990,16 @@ blockquote p {
   padding-bottom: 1rem;
   padding-top: 0.5rem;
 }
-/* line 42, ../sass/modules/_guide.scss */
+/* line 48, ../sass/modules/_guide.scss */
 .guide a {
   color: #000;
 }
-/* line 46, ../sass/modules/_guide.scss */
+/* line 52, ../sass/modules/_guide.scss */
 .guide .intro-text {
   line-height: 1.7;
   margin-bottom: 4rem;
 }
-/* line 51, ../sass/modules/_guide.scss */
+/* line 57, ../sass/modules/_guide.scss */
 .guide .banner-background {
   background-image: url("../images/ui.png");
   background-repeat: no-repeat;
@@ -8997,62 +9007,73 @@ blockquote p {
   background-position-x: 60px;
   height: 300px;
 }
-/* line 59, ../sass/modules/_guide.scss */
+/* line 65, ../sass/modules/_guide.scss */
 .guide .dark {
   color: #fff;
   background-color: #323A45;
   padding-top: 4rem;
 }
-/* line 65, ../sass/modules/_guide.scss */
+/* line 71, ../sass/modules/_guide.scss */
 .guide .block {
   display: block;
 }
-/* line 69, ../sass/modules/_guide.scss */
+/* line 75, ../sass/modules/_guide.scss */
 .guide .truncate {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
 }
-/* line 75, ../sass/modules/_guide.scss */
+/* line 81, ../sass/modules/_guide.scss */
 .guide .underline {
   text-decoration: underline;
 }
-/* line 79, ../sass/modules/_guide.scss */
+/* line 85, ../sass/modules/_guide.scss */
 .guide .strong, .guide strong {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
 }
-/* line 84, ../sass/modules/_guide.scss */
+/* line 90, ../sass/modules/_guide.scss */
 .guide .menu a {
   line-height: 20px;
 }
-/* line 88, ../sass/modules/_guide.scss */
+/* line 94, ../sass/modules/_guide.scss */
 .guide a.spacing, .guide span.spacing {
   margin: 5px 0 5px 0;
 }
-/* line 92, ../sass/modules/_guide.scss */
+/* line 98, ../sass/modules/_guide.scss */
 .guide .docnav {
   position: fixed;
   top: 130px;
   bottom: 0;
   width: 100%;
 }
-/* line 100, ../sass/modules/_guide.scss */
+/* line 106, ../sass/modules/_guide.scss */
 .guide .icon-1x {
   width: 10px;
   height: 10px;
 }
-/* line 104, ../sass/modules/_guide.scss */
+/* line 110, ../sass/modules/_guide.scss */
 .guide .icon-2x {
   width: 20px;
   height: 20px;
 }
-/* line 108, ../sass/modules/_guide.scss */
+/* line 114, ../sass/modules/_guide.scss */
 .guide .icon-3x {
   width: 30px;
   height: 30px;
 }
-/* line 115, ../sass/modules/_guide.scss */
+/* line 121, ../sass/modules/_guide.scss */
 .guide .colorpalette ul.list-inline li {
   width: 150px;
+}
+/* line 126, ../sass/modules/_guide.scss */
+.guide ul li.list-group-item ul li {
+  list-style-type: disc;
+  list-style-position: inside;
+  margin: 5px 0 5px 0;
+}
+/* line 131, ../sass/modules/_guide.scss */
+.guide ul li p {
+  margin: 5px 0 5px 0;
+  display: inline;
 }
