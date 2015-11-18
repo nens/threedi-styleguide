@@ -10,6 +10,427 @@
     <atom:link href="/threedi-styleguide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Objecten</title>
+      <link>/threedi-styleguide/guide/carto/objecten/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/objecten/</guid>
+      <description>
+
+&lt;h2 id=&#34;symbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Symbologie&lt;/h2&gt;
+
+&lt;p&gt;3Di kan allerlei veelal hydrologische objecten op de kaart visualiseren, zoals bijvoorbeeld gemalen en putten. Deze objecten zijn specifiek ontworpen en bedoeld om de eigenschappen van een rekenmodel te kunnen tonen.&lt;/p&gt;
+
+&lt;h2 id=&#34;overzicht-van-symbolen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Overzicht van symbolen&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Naam / Klasse&lt;/th&gt;
+&lt;th&gt;Zichtbaarheid&lt;/th&gt;
+&lt;th&gt;Status&lt;/th&gt;
+&lt;th&gt;Stroming&lt;/th&gt;
+&lt;th&gt;Onderscheid&lt;/th&gt;
+&lt;th&gt;Icoon&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#manhole&#34;&gt;Manhole&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bevat zoom_category&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#bound1d&#34;&gt;1D Boundary&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#lateral1ds&#34;&gt;1D Lateral&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#connectionnode&#34;&gt;Connection node&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#breachlocation&#34;&gt;Breslocatie&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;a-name-manhole-a-manhole:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;manhole&#34;&gt;&lt;/a&gt;Manhole&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A small covered opening in a paved area allowing access beneath, especially one leading to a sewer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Manhole&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-bound1d-a-1d-boundary:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;bound1d&#34;&gt;&lt;/a&gt;1D Boundary&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Used to define the location of a flow-time boundary point within a 1D Simulation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;1D Boundary&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-lateral1d-a-1d-lateral:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;lateral1d&#34;&gt;&lt;/a&gt;1D Lateral&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Geometry: situated at or on the side.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;1D Lateral&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-connectionnode-a-connection-node:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;connectionnode&#34;&gt;&lt;/a&gt;Connection node&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A connection node is placed at a location where reaches can be attached to other reaches.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Connection node&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-breachlocation-a-breach-location:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;breachlocation&#34;&gt;&lt;/a&gt;Breach location&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A gap in an embankment.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legenda</title>
+      <link>/threedi-styleguide/guide/carto/legenda/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
+      <description>
+
+&lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Legenda&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vlakken</title>
+      <link>/threedi-styleguide/guide/carto/vlakken/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
+      <description>
+
+&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
+
+&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Impervious surface&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam praesentium, dolorem est repellendus, ratione unde sunt iure totam expedita quis culpa numquam laboriosam magnam harum repudiandae aperiam doloribus officia ex.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beheerpaginas</title>
+      <link>/threedi-styleguide/guide/ui/beheerpaginas/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/beheerpaginas/</guid>
+      <description>
+
+&lt;h2 id=&#34;beheerpagina-s:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Beheerpagina&amp;rsquo;s&lt;/h2&gt;
+
+&lt;h3 id=&#34;basisstijl:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Basisstijl&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Basissjabloon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Filosofie&lt;/strong&gt;
+            &lt;li&gt;De basisgedachte achter dit sjabloon is simpliciteit. Zoals Antoine de Saint-Exupery ooit zei: &#34;A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.&#34;&lt;/li&gt;
+            &lt;li&gt;Door expliciet witruimte toe te passen worden de belangrijke interface elementen benadrukt&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Lettertype&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;https://github.com/gijs/Clear-Sans-Webfont&#34;&gt;Clear Sans&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;Reden: Dit schreefloos lettertype ondersteunt de moderne boodschap van 3Di: &#34;fast, accurate, visual&#34;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Header&lt;/strong&gt;
+            &lt;li&gt;Gedimde kleur (#B60231), want dit is niet het belangrijkste onderdeel van de pagina&lt;/li&gt;
+            &lt;li&gt;Bevat het 3Di logo&lt;/li&gt;
+            &lt;li&gt;Bevat de zoekbalk&lt;/li&gt;
+            &lt;li&gt;Bevat de Log in/Log uit en gebruikersidentificatie&lt;/li&gt;
+            &lt;li&gt;Gedrag: initieel gefixeerd, maar verdwijnt tijdens neerwaarts scrollen (zie &lt;a href=&#34;http://wicky.nillia.ms/headroom.js/&#34;&gt;headroom.js&lt;/a&gt;)&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Titelvlak&lt;/strong&gt;
+            &lt;li&gt;Fellere kleur (#E3003B), omdat dit een cue geeft van waar de gebruiker zich bevindt&lt;/li&gt;
+            &lt;li&gt;Bevat een h1 titel en h2 subtitel&lt;/li&gt;
+            &lt;li&gt;Gedrag: initieel gefixeerd, maar animeert tijdens neerwaarts scrollen naar een dunnere balk die bovenaan gefixeerd blijft&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Content&lt;/strong&gt;
+            &lt;li&gt;Witte achtergrond (#FFFFFF)&lt;/li&gt;
+            &lt;li&gt;Bootstrap: 12 kolommen breed, responsive&lt;/li&gt;
+            &lt;li&gt;Bevat alleen de subnavigatie, verder vrij invulbaar&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;   
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;App-switcher&lt;/strong&gt;
+            &lt;li&gt;Lichtgrijze achtergrond (#F7F7F7)&lt;/li&gt;
+            &lt;li&gt;Bootstrap: 12 kolommen breed, responsive&lt;/li&gt;
+            &lt;li&gt;Bevat iconen welke dienen als links naar de andere hoofdonderdelen van 3Di zoals de simulatie-viewer, modellen databank en de modelchecker&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;        
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Explore-menu&lt;/strong&gt;
+            &lt;li&gt;Donkergrijze achtergrond (#424242)&lt;/li&gt;
+            &lt;li&gt;Bootstrap: 12 kolommen breed, responsive&lt;/li&gt;
+            &lt;li&gt;Bevat links naar pagina&#39;s en websites binnen het iets bredere &#39;3Di ecosysteem&#39; zoals de partners, Lizard en documentatie&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;        
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Taalkeuzemenu&lt;/strong&gt;
+            &lt;li&gt;Grijze achtergrond (#616161)&lt;/li&gt;
+            &lt;li&gt;Bootstrap: 12 kolommen breed, responsive&lt;/li&gt;
+            &lt;li&gt;Bevat een rechts-uitgelijnde button welke dient als taalkeuzemenu of als hyperlink naar de Engelse vertaling van de betreffende pagina&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;            
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Navigatie&lt;/strong&gt;
+            &lt;li&gt;Zoeken: Centraal op elke pagina. Kan ook dienen als verfijningsfilter op resultaten in een al ingeladen lijst.&lt;/li&gt;
+            &lt;li&gt;Top-right navigatie: Laat de identiteit van de ingelogde gebruiker zien en biedt de optie om uit te loggen.&lt;/li&gt;
+            &lt;li&gt;Subnavigatie: Een &#39;pillbox&#39;-style menu waarin de sub-onderdelen beschikbaar zijn.&lt;/li&gt;
+            &lt;li&gt;App-switcher: Een verzameling snelkoppelingen naar andere beheeronderdelen.&lt;/li&gt;
+            &lt;li&gt;Explore-menu: Een overzicht van het 3Di ecosysteem.&lt;/li&gt;
+            &lt;li&gt;Taalkeuzemenu: Een simpele button waarmee van taal kan worden gewisseld.&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34;&gt;3di-beheerpagina-base.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;h3 id=&#34;kostenpagina:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kostenpagina&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Kosten&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+      &lt;ul&gt;
+        &lt;strong&gt;Extra kleuren&lt;/strong&gt;
+      &lt;li&gt;Lichtgroen (#8CB18C)&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34;&gt;3di-beheerpagina-kosten.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;h3 id=&#34;modellendatabank:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Modellendatabank&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Modellen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34;&gt;3di-beheerpagina-modellen.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Clone model&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34;&gt;3di-beheerpagina-clone.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;h3 id=&#34;3di-usage:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;3Di Usage&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Verbruik&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34;&gt;3di-beheerpagina-usage.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lijnen</title>
       <link>/threedi-styleguide/guide/carto/lijnen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -273,205 +694,6 @@
     </item>
     
     <item>
-      <title>Objecten</title>
-      <link>/threedi-styleguide/guide/carto/objecten/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/objecten/</guid>
-      <description>
-
-&lt;h2 id=&#34;symbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Symbologie&lt;/h2&gt;
-
-&lt;p&gt;3Di kan allerlei veelal hydrologische objecten op de kaart visualiseren, zoals bijvoorbeeld gemalen en putten. Deze objecten zijn specifiek ontworpen en bedoeld om de eigenschappen van een rekenmodel te kunnen tonen.&lt;/p&gt;
-
-&lt;h2 id=&#34;overzicht-van-symbolen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Overzicht van symbolen&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Naam / Klasse&lt;/th&gt;
-&lt;th&gt;Zichtbaarheid&lt;/th&gt;
-&lt;th&gt;Status&lt;/th&gt;
-&lt;th&gt;Stroming&lt;/th&gt;
-&lt;th&gt;Onderscheid&lt;/th&gt;
-&lt;th&gt;Icoon&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#manhole&#34;&gt;Manhole&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;bevat zoom_category&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#bound1d&#34;&gt;1D Boundary&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#lateral1ds&#34;&gt;1D Lateral&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#connectionnode&#34;&gt;Connection node&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#breachlocation&#34;&gt;Breslocatie&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;a-name-manhole-a-manhole:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;manhole&#34;&gt;&lt;/a&gt;Manhole&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A small covered opening in a paved area allowing access beneath, especially one leading to a sewer.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Manhole&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-bound1d-a-1d-boundary:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;bound1d&#34;&gt;&lt;/a&gt;1D Boundary&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Used to define the location of a flow-time boundary point within a 1D Simulation&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;1D Boundary&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-lateral1d-a-1d-lateral:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;lateral1d&#34;&gt;&lt;/a&gt;1D Lateral&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Geometry: situated at or on the side.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;1D Lateral&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-connectionnode-a-connection-node:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;connectionnode&#34;&gt;&lt;/a&gt;Connection node&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A connection node is placed at a location where reaches can be attached to other reaches.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Connection node&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-breachlocation-a-breach-location:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;breachlocation&#34;&gt;&lt;/a&gt;Breach location&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A gap in an embankment.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Legenda</title>
-      <link>/threedi-styleguide/guide/carto/legenda/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
-      <description>
-
-&lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Legenda&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vlakken</title>
-      <link>/threedi-styleguide/guide/carto/vlakken/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
-      <description>
-
-&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
-
-&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Impervious surface&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam praesentium, dolorem est repellendus, ratione unde sunt iure totam expedita quis culpa numquam laboriosam magnam harum repudiandae aperiam doloribus officia ex.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Grafieken</title>
       <link>/threedi-styleguide/guide/ui/grafieken/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -520,228 +742,6 @@
     </item>
     
     <item>
-      <title>Beheerpaginas</title>
-      <link>/threedi-styleguide/guide/ui/beheerpaginas/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/beheerpaginas/</guid>
-      <description>
-
-&lt;h2 id=&#34;beheerpagina-s:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Beheerpagina&amp;rsquo;s&lt;/h2&gt;
-
-&lt;h3 id=&#34;basisstijl:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Basisstijl&lt;/h3&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Basissjabloon&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Filosofie&lt;/strong&gt;
-            &lt;li&gt;De basisgedachte achter dit sjabloon is simpliciteit. Zoals Antoine de Saint-Exupery ooit zei: &#34;A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.&#34;&lt;/li&gt;
-            &lt;li&gt;Door expliciet witruimte toe te passen worden de belangrijke interface elementen benadrukt&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Lettertype&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;https://github.com/gijs/Clear-Sans-Webfont&#34;&gt;Clear Sans&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;Reden: Dit schreefloos lettertype ondersteunt de moderne boodschap van 3Di: &#34;fast, accurate, visual&#34;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Header&lt;/strong&gt;
-            &lt;li&gt;Gedimde kleur (#B60231), want dit is niet het belangrijkste onderdeel van de pagina&lt;/li&gt;
-            &lt;li&gt;Bevat het 3Di logo&lt;/li&gt;
-            &lt;li&gt;Bevat de zoekbalk&lt;/li&gt;
-            &lt;li&gt;Bevat de Log in/Log uit en gebruikersidentificatie&lt;/li&gt;
-            &lt;li&gt;Gedrag: initieel gefixeerd, maar verdwijnt tijdens neerwaarts scrollen (zie &lt;a href=&#34;http://wicky.nillia.ms/headroom.js/&#34;&gt;headroom.js&lt;/a&gt;)&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Titelvlak&lt;/strong&gt;
-            &lt;li&gt;Fellere kleur (#E3003B), omdat dit een cue geeft van waar de gebruiker zich bevindt&lt;/li&gt;
-            &lt;li&gt;Bevat een h1 titel en h2 subtitel&lt;/li&gt;
-            &lt;li&gt;Gedrag: initieel gefixeerd, maar animeert tijdens neerwaarts scrollen naar een dunnere balk die bovenaan gefixeerd blijft&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Content&lt;/strong&gt;
-            &lt;li&gt;Witte achtergrond (#FFFFFF)&lt;/li&gt;
-            &lt;li&gt;Bootstrap: 12 kolommen breed, responsive&lt;/li&gt;
-            &lt;li&gt;Bevat alleen de subnavigatie, verder vrij invulbaar&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;   
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;App-switcher&lt;/strong&gt;
-            &lt;li&gt;Lichtgrijze achtergrond (#F7F7F7)&lt;/li&gt;
-            &lt;li&gt;Bootstrap: 12 kolommen breed, responsive&lt;/li&gt;
-            &lt;li&gt;Bevat iconen welke dienen als links naar de andere hoofdonderdelen van 3Di zoals de simulatie-viewer, modellen databank en de modelchecker&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;        
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Explore-menu&lt;/strong&gt;
-            &lt;li&gt;Donkergrijze achtergrond (#424242)&lt;/li&gt;
-            &lt;li&gt;Bootstrap: 12 kolommen breed, responsive&lt;/li&gt;
-            &lt;li&gt;Bevat links naar pagina&#39;s en websites binnen het iets bredere &#39;3Di ecosysteem&#39; zoals de partners, Lizard en documentatie&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;        
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Taalkeuzemenu&lt;/strong&gt;
-            &lt;li&gt;Grijze achtergrond (#616161)&lt;/li&gt;
-            &lt;li&gt;Bootstrap: 12 kolommen breed, responsive&lt;/li&gt;
-            &lt;li&gt;Bevat een rechts-uitgelijnde button welke dient als taalkeuzemenu of als hyperlink naar de Engelse vertaling van de betreffende pagina&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;            
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Navigatie&lt;/strong&gt;
-            &lt;li&gt;Zoeken: Centraal op elke pagina. Kan ook dienen als verfijningsfilter op resultaten in een al ingeladen lijst.&lt;/li&gt;
-            &lt;li&gt;Top-right navigatie: Laat de identiteit van de ingelogde gebruiker zien en biedt de optie om uit te loggen.&lt;/li&gt;
-            &lt;li&gt;Subnavigatie: Een &#39;pillbox&#39;-style menu waarin de sub-onderdelen beschikbaar zijn.&lt;/li&gt;
-            &lt;li&gt;App-switcher: Een verzameling snelkoppelingen naar andere beheeronderdelen.&lt;/li&gt;
-            &lt;li&gt;Explore-menu: Een overzicht van het 3Di ecosysteem.&lt;/li&gt;
-            &lt;li&gt;Taalkeuzemenu: Een simpele button waarmee van taal kan worden gewisseld.&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34;&gt;3di-beheerpagina-base.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;h3 id=&#34;kostenpagina:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kostenpagina&lt;/h3&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Kosten&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-      &lt;ul&gt;
-        &lt;strong&gt;Extra kleuren&lt;/strong&gt;
-      &lt;li&gt;Lichtgroen (#8CB18C)&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34;&gt;3di-beheerpagina-kosten.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;h3 id=&#34;modellendatabank:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Modellendatabank&lt;/h3&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Modellen&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34;&gt;3di-beheerpagina-modellen.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Clone model&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34;&gt;3di-beheerpagina-clone.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;h3 id=&#34;3di-usage:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;3Di Usage&lt;/h3&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Verbruik&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34;&gt;3di-beheerpagina-usage.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Indicators</title>
       <link>/threedi-styleguide/guide/ui/indicators/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -776,46 +776,6 @@
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
     &lt;h3 class=&#34;panel-title&#34;&gt;Contextmenu&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Navigatie</title>
-      <link>/threedi-styleguide/guide/ui/navigatie/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
-      <description>
-
-&lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Kaartlagen&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-    &lt;img src=&#34;../../../images/screenshots/top-right-menu.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Logged-in menu&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
@@ -960,6 +920,46 @@
       &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
       &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Navigatie</title>
+      <link>/threedi-styleguide/guide/ui/navigatie/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
+      <description>
+
+&lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Kaartlagen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;img src=&#34;../../../images/screenshots/top-right-menu.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Logged-in menu&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -1176,27 +1176,18 @@
     </item>
     
     <item>
-      <title>Typografie</title>
-      <link>/threedi-styleguide/guide/visual/typografie/</link>
+      <title>Logo</title>
+      <link>/threedi-styleguide/guide/visual/logo/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/typografie/</guid>
+      <guid>/threedi-styleguide/guide/visual/logo/</guid>
       <description>
 
-&lt;h2 id=&#34;typografie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Typografie&lt;/h2&gt;
+&lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Clear Sans&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Helvetica Neue&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di logo richtlijnen&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
