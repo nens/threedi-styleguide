@@ -5,9 +5,11 @@
 	::-moz-selection {
 	  background: #ffb7b7;; /* Gecko Browsers */
 	}
-	background-color: $threedi-background-gray;
 
-    font-family: 'Open Sans', sans-serif;
+		background-color: $threedi-background-gray;
+
+	  // font-family: 'Open Sans', sans-serif;
+		font-family: 'Clear Sans', sans-serif;
 
     p {
 	    line-height: 25px;
@@ -22,7 +24,7 @@
 	h2 {
 		font-family: 'Merriweather', serif;
 		font-size: 3rem;
-		font-weight: 700;	
+		font-weight: 700;
 	}
 
 	h4 {
@@ -51,7 +53,7 @@
 
 	.intro-text {
 	    line-height: 1.7;
-	    margin-bottom: 4rem;		
+	    margin-bottom: 4rem;
 	}
 
 	.banner-background {
@@ -76,7 +78,7 @@
 	    text-overflow: ellipsis;
 	    white-space: nowrap;
 	    overflow: hidden;
-	}	
+	}
 
 	.underline {
 		text-decoration: underline;
@@ -110,11 +112,11 @@
 	.icon-2x {
 		width: 20px;
 		height: 20px;
-	}	
+	}
 	.icon-3x {
 		width: 30px;
 		height: 30px;
-	}		
+	}
 
 
 
@@ -131,6 +133,6 @@
 	ul li p {
 		margin: 5px 0 5px 0;
 		display: inline;
-	}	
+	}
 
 }

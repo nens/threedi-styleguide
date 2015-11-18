@@ -103,6 +103,14 @@ Beheerpagina's
 			<li>Taalkeuzemenu: Een simpele button waarmee van taal kan worden gewisseld.</li>
 		</ul>
     </li>
+
+    <li class="list-group-item">
+    	<ul>
+			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+			<li><a href="/threedi-styleguide/images/3di-beheerpagina-base.svg">3di-beheerpagina-base.svg</a></li>
+		</ul>
+    </li>
+
   </ul>  
 </div>
 
@@ -120,13 +128,22 @@ Beheerpagina's
   <ul class="list-group">
     <li class="list-group-item">
     	<ul>
-	    	<strong>...</strong>
-			<li><strong>-</strong></li>
-			<li>-</li>
+	    	<strong>Gebaseerd op</strong>
+			<li>3Di Basissjabloon</li>
 		</ul>
+    </li>
+  </ul>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <ul>
+        <strong>Extra kleuren</strong>
+      <li>Lichtgroen (#8CB18C)</li>
+    </ul>
     </li>
   </ul>  
 </div>
+
+
 
 ### Modellendatabank
 
@@ -141,9 +158,26 @@ Beheerpagina's
   <ul class="list-group">
     <li class="list-group-item">
     	<ul>
-	    	<strong>...</strong>
-			<li><strong>-</strong></li>
-			<li>-</li>
+	    	<strong>Gebaseerd op</strong>
+			<li>3Di Basissjabloon</li>
+		</ul>
+    </li>
+  </ul>  
+</div>
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">3Di beheerpagina - Clone model</h3>
+  </div>
+  <div class="panel-body">
+    <img src="/threedi-styleguide/images/3di-beheerpagina-clone.svg" align="left" width="100%" ></a>
+  </div>
+  <ul class="list-group">
+    <li class="list-group-item">
+    	<ul>
+	    	<strong>Gebaseerd op</strong>
+			<li>3Di Basissjabloon</li>
 		</ul>
     </li>
   </ul>  

@@ -112,6 +112,14 @@
             &lt;li&gt;Taalkeuzemenu: Een simpele button waarmee van taal kan worden gewisseld.&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34;&gt;3di-beheerpagina-base.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+
   &lt;/ul&gt;  
 &lt;/div&gt;
 
@@ -127,10 +135,17 @@
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
-            &lt;strong&gt;...&lt;/strong&gt;
-            &lt;li&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;-&lt;/li&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
         &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+      &lt;ul&gt;
+        &lt;strong&gt;Extra kleuren&lt;/strong&gt;
+      &lt;li&gt;Lichtgroen (#8CB18C)&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;  
 &lt;/div&gt;
@@ -147,9 +162,25 @@
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
-            &lt;strong&gt;...&lt;/strong&gt;
-            &lt;li&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;-&lt;/li&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Clone model&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;  
@@ -1122,7 +1153,7 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Open Sans&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Clear Sans&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
