@@ -170,7 +170,7 @@
                         <tspan x="762" y="38">ACTIEVE SIMULATIES</tspan>
                     </text>
                     <g id="Label" transform="translate(0.000000, 10.000000)">
-                        <rect id="Rectangle-29" fill="#E3003B" sketch:type="MSShapeGroup" x="0" y="0" width="119" height="32" rx="8"></rect>
+                        <rect id="Rectangle-29" fill="#E3003B" sketch:type="MSShapeGroup" x="0" y="0" width="119" height="32"></rect>
                         <path d="M0.5,32 L25.4023091,56.9023091 L25.4023094,32 L0.5,32 Z" id="Path-13" fill="#B60231" sketch:type="MSShapeGroup"></path>
                         <text id="Statistieken" sketch:type="MSTextLayer" font-family="Clear Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
                             <tspan x="33" y="20">Statistieken</tspan>
@@ -180,7 +180,7 @@
                 <g id="Dashboard:-Statistieken-2" transform="translate(30.000000, 203.000000)">
                     <rect id="Rectangle-28" stroke="#D8D8D8" sketch:type="MSShapeGroup" x="25" y="0" width="445" height="311"></rect>
                     <g id="Label" transform="translate(0.000000, 10.000000)">
-                        <rect id="Rectangle-29" fill="#E3003B" sketch:type="MSShapeGroup" x="0" y="0" width="119" height="32" rx="8"></rect>
+                        <rect id="Rectangle-29" fill="#E3003B" sketch:type="MSShapeGroup" x="0" y="0" width="119" height="32"></rect>
                         <path d="M0.5,32 L25.4023091,56.9023091 L25.4023094,32 L0.5,32 Z" id="Path-13" fill="#B60231" sketch:type="MSShapeGroup"></path>
                         <text id="Details" sketch:type="MSTextLayer" font-family="Clear Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
                             <tspan x="57" y="20">Details</tspan>
@@ -259,34 +259,10 @@
                         <rect id="Rectangle-35" fill="#58C300" filter="url(#filter-14)" x="0" y="0" width="63" height="17" rx="8"></rect>
                     </g>
                     <g id="Label" transform="translate(0.000000, 10.000000)">
-                        <rect id="Rectangle-29" fill="#E3003B" sketch:type="MSShapeGroup" x="0" y="0" width="119" height="32" rx="8"></rect>
+                        <rect id="Rectangle-29" fill="#E3003B" sketch:type="MSShapeGroup" x="0" y="0" width="119" height="32"></rect>
                         <path d="M0.5,32 L25.4023091,56.9023091 L25.4023094,32 L0.5,32 Z" id="Path-13" fill="#B60231" sketch:type="MSShapeGroup"></path>
                         <text id="Top-users" sketch:type="MSTextLayer" font-family="Clear Sans" font-size="14" font-weight="normal" fill="#FFFFFF">
                             <tspan x="43" y="20">Top users</tspan>
-                        </text>
-                    </g>
-                </g>
-                <g id="Subnavigatie" transform="translate(1112.000000, 19.000000)">
-                    <g id="Rectangle-16" fill="#D8D8D8" sketch:type="MSShapeGroup">
-                        <path d="M23,46.9817483 L23,47 L228.428183,47 L228.428183,0 L23,0 L23,0.0331482748 C10.4508968,0.525367696 0.42818331,10.8718207 0.42818331,23.5074123 C0.42818331,36.1689981 10.441782,46.4910772 23,46.9817483 Z M228.428183,0 C241.69318,0 252.428183,10.5213084 252.428183,23.5 C252.428183,36.4522826 241.683017,47 228.428183,47"></path>
-                    </g>
-                    <g id="Rectangle-17" transform="translate(138.000000, 0.000000)" fill="#B4B4B4" sketch:type="MSShapeGroup">
-                        <path d="M-2.27373675e-13,0 L90.4281833,0 L90.4281833,47 L-2.27373675e-13,47 M90.4281833,0 C103.69318,0 114.428183,10.5213084 114.428183,23.5 C114.428183,36.4522826 103.683017,47 90.4281833,47" id="Rectangle-16"></path>
-                    </g>
-                    <g id="-+-Simulaties" transform="translate(25.000000, 12.000000)" sketch:type="MSTextLayer" font-weight="normal">
-                        <text id="" font-family="FontAwesome" font-size="20" fill="#757575">
-                            <tspan x="0" y="18"></tspan>
-                        </text>
-                        <text id="Uploaden" font-family="Clear Sans" font-size="14" fill="#737373">
-                            <tspan x="34" y="15">Uploaden</tspan>
-                        </text>
-                    </g>
-                    <g id="Kosten-+-CC" transform="translate(150.000000, 12.000000)" fill="#FFFFFF" sketch:type="MSTextLayer">
-                        <text id="Modellen" font-family="Clear Sans" font-size="14" font-weight="bold">
-                            <tspan x="30" y="15">Modellen</tspan>
-                        </text>
-                        <text id="" font-family="FontAwesome" font-size="20" font-weight="normal">
-                            <tspan x="0" y="18"></tspan>
                         </text>
                     </g>
                 </g>
@@ -411,7 +387,7 @@
                     </text>
                     <path d="M16.0000107,16.4999934 C16.0000107,18.4296832 14.4296964,19.9999976 12.5000066,19.9999976 C10.5703168,19.9999976 9.00000238,18.4296832 9.00000238,16.4999934 C9.00000238,14.5703036 10.5703168,12.9999893 12.5000066,12.9999893 C14.4296964,12.9999893 16.0000107,14.5703036 16.0000107,16.4999934 L16.0000107,16.4999934 Z M20.0000155,23.0000012 C20.0000155,22.7343759 19.8906404,22.4765631 19.7109527,22.2968754 L17.031262,19.6171847 C17.6640752,18.7031211 18.0000131,17.6093698 18.0000131,16.4999934 C18.0000131,13.4609273 15.5390727,10.9999869 12.5000066,10.9999869 C9.46094043,10.9999869 7,13.4609273 7,16.4999934 C7,19.5390596 9.46094043,22 12.5000066,22 C13.6093829,22 14.7031342,21.6640621 15.6171978,21.0312488 L18.2968885,23.703127 C18.4765762,23.8906273 18.734389,24.0000024 19.0000143,24.0000024 C19.54689,24.0000024 20.0000155,23.5468768 20.0000155,23.0000012 L20.0000155,23.0000012 Z" id="" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
                 </g>
-                <image id="Bitmap" sketch:type="MSBitmapLayer" x="57" y="21" width="55" height="47" xlink:href="data:image/png;base64,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"></image>
+                <image id="Bitmap" sketch:type="MSBitmapLayer" x="57" y="21" width="55" height="47" xlink:href="data:image/png;base64,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"></image>
             </g>
             <g id="Browser" sketch:type="MSLayerGroup" transform="translate(-1.000000, 0.000000)">
                 <path d="M7.00055837,0 C3.13425674,0 0,3.13457535 0,6.99369875 L0,55 L1443,55 L1443,6.99369875 C1443,3.13118559 1439.86432,0 1435.99944,0 L7.00055837,0 Z" id="background" fill="#D4D4D4" sketch:type="MSShapeGroup"></path>
@@ -419,6 +395,32 @@
                 <path d="M48.5,35 C52.6421356,35 56,31.6421356 56,27.5 C56,23.3578644 52.6421356,20 48.5,20 C44.3578644,20 41,23.3578644 41,27.5 C41,31.6421356 44.3578644,35 48.5,35 Z" id="object" fill="#E6AA34" sketch:type="MSShapeGroup"></path>
                 <circle id="object" fill="#85C33D" sketch:type="MSShapeGroup" cx="71.5" cy="27.5" r="7.5"></circle>
                 <rect id="search" opacity="0.85" fill="#FFFFFF" sketch:type="MSShapeGroup" x="97" y="14" width="1337" height="27"></rect>
+            </g>
+            <g id="Subnavigatie-2" sketch:type="MSLayerGroup" transform="translate(1121.000000, 274.000000)">
+                <g id="Rectangle-16" fill="#D8D8D8" sketch:type="MSShapeGroup">
+                    <path d="M23,46.9817483 L23,47 L228.428183,47 L228.428183,0 L23,0 L23,0.0331482748 C10.4508968,0.525367696 0.42818331,10.8718207 0.42818331,23.5074123 C0.42818331,36.1689981 10.441782,46.4910772 23,46.9817483 Z M228.428183,0 C241.69318,0 252.428183,10.5213084 252.428183,23.5 C252.428183,36.4522826 241.683017,47 228.428183,47"></path>
+                </g>
+                <g id="Rectangle-17" transform="translate(138.000000, 0.000000)" fill="#B4B4B4" sketch:type="MSShapeGroup">
+                    <path d="M-2.27373675e-13,0 L90.4281833,0 L90.4281833,47 L-2.27373675e-13,47 M90.4281833,0 C103.69318,0 114.428183,10.5213084 114.428183,23.5 C114.428183,36.4522826 103.683017,47 90.4281833,47" id="Rectangle-16"></path>
+                </g>
+                <g id="-+-Simulaties" transform="translate(27.000000, 12.000000)" fill="#737373" sketch:type="MSTextLayer" font-weight="normal">
+                    <text id="" font-family="FontAwesome" font-size="19">
+                        <tspan x="0" y="17"></tspan>
+                    </text>
+                    <text id="Simulaties" font-family="Clear Sans" font-size="14">
+                        <tspan x="24" y="15">Simulaties</tspan>
+                    </text>
+                </g>
+                <g id="Kosten-+-CC" transform="translate(152.000000, 12.000000)">
+                    <text id="Kosten" sketch:type="MSTextLayer" font-family="Clear Sans" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="32" y="15">Kosten</tspan>
+                    </text>
+                    <g id="CC" transform="translate(0.000000, 1.000000)" sketch:type="MSShapeGroup">
+                        <rect id="Rectangle-17" fill="#757575" x="0" y="0" width="23" height="18" rx="3"></rect>
+                        <rect id="Rectangle-18" fill="#F7F7F7" x="2.3" y="2.8125" width="18.4" height="2.25"></rect>
+                        <rect id="Rectangle-19" fill="#F7F7F7" x="2.3" y="8.4375" width="18.4" height="6.1875"></rect>
+                    </g>
+                </g>
             </g>
         </g>
     </g>
