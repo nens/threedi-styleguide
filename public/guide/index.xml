@@ -667,7 +667,7 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Channel&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#channel&#34;&gt;Channel&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;bevat zoom_category&lt;/td&gt;
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
@@ -676,7 +676,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Pipe&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#pipe&#34;&gt;Pipe&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;bevat zoom_category&lt;/td&gt;
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
@@ -685,7 +685,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Pumpstation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#pumpstation&#34;&gt;Pumpstation&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;bevat zoom_category&lt;/td&gt;
 &lt;td&gt;staat aan/uit&lt;/td&gt;
 &lt;td&gt;debiet&lt;/td&gt;
@@ -694,7 +694,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Weir&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#weir&#34;&gt;Weir&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;bevat zoom_category&lt;/td&gt;
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
@@ -703,7 +703,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Culvert&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#culvert&#34;&gt;Culvert&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;bevat zoom_category&lt;/td&gt;
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
@@ -712,7 +712,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Orifice&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#orifice&#34;&gt;Orifice&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;bevat zoom_category&lt;/td&gt;
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
@@ -721,7 +721,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Levee&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#levee&#34;&gt;Levee&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;toggle visibility&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
@@ -730,7 +730,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Obstacle&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#obstacle&#34;&gt;Obstacle&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;toggle visibility&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
@@ -739,7 +739,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2D Boundary&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#bound2d&#34;&gt;2D Boundary&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;toggle visibility&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
@@ -749,7 +749,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;channel:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Channel&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-channel-a-channel:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;channel&#34;&gt;&lt;/a&gt;Channel&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;An open conduit either naturally or artificially created which periodically or continuously contains moving water, or which forms a connecting link between two bodies of water.&lt;/p&gt;
@@ -768,7 +768,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;pipe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pipe&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-pipe-a-pipe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;pipe&#34;&gt;&lt;/a&gt;Pipe&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A tube used to convey water, gas, oil, or other fluid substances.&lt;/p&gt;
@@ -783,7 +783,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;pumpstation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pumpstation&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-pumpstation-a-pumpstation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;pumpstation&#34;&gt;&lt;/a&gt;Pumpstation&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A pump station mechanically lifts storm water runoff from a gravity fed collection cistern to a discharge place or outfall.&lt;/p&gt;
@@ -802,7 +802,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;weir:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Weir&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-weir-a-weir:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;weir&#34;&gt;&lt;/a&gt;Weir&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A weir is a barrier across a river designed to alter its flow characteristics.&lt;/p&gt;
@@ -821,7 +821,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;culvert:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Culvert&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-culvert-a-culvert:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;culvert&#34;&gt;&lt;/a&gt;Culvert&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A tunnel carrying a stream or open drain under a road or railway.&lt;/p&gt;
@@ -840,7 +840,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;orifice:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Orifice&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-orifice-a-orifice:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;orifice&#34;&gt;&lt;/a&gt;Orifice&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;An orifice is an opening through which flow occurs.&lt;/p&gt;

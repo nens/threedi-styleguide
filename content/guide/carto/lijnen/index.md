@@ -11,19 +11,19 @@ Lijnen
 
 | Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       | Icoon                     |
 |-----------------	|---------------------	|-----------------	|-------------------	|------------------	|---------------------------|
-| Channel         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-channel.svg" class="icon-2x" /> |
-| Pipe            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	|                           |
-| Pumpstation     	| bevat zoom_category 	| staat aan/uit   	| debiet            	| Opp of riolering 	| <img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /> |
-| Weir            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-weir.svg" class="icon-2x" /> |
-| Culvert         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /> |
-| Orifice         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /> |
-| Levee           	| toggle visibility   	| -                	| -                 	| Oppervlaktewater 	| ?                         |
-| Obstacle        	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
-| 2D Boundary    	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
+| <a href="#channel">Channel</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-channel.svg" class="icon-2x" /> |
+| <a href="#pipe">Pipe</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	|                           |
+| <a href="#pumpstation">Pumpstation</a>     	| bevat zoom_category 	| staat aan/uit   	| debiet            	| Opp of riolering 	| <img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /> |
+| <a href="#weir">Weir</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-weir.svg" class="icon-2x" /> |
+| <a href="#culvert">Culvert</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /> |
+| <a href="#orifice">Orifice</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /> |
+| <a href="#levee">Levee</a>           	| toggle visibility   	| -                	| -                 	| Oppervlaktewater 	| ?                         |
+| <a href="#obstacle">Obstacle</a>        	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
+| <a href="#bound2d">2D Boundary</a>    	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
 
 
 
-## Channel
+## <a name="channel"></a>Channel
 
 > An open conduit either naturally or artificially created which periodically or continuously contains moving water, or which forms a connecting link between two bodies of water.
 
@@ -41,7 +41,7 @@ Lijnen
 </div>
 
 
-## Pipe
+## <a name="pipe"></a>Pipe
 
 > A tube used to convey water, gas, oil, or other fluid substances.
 
@@ -55,7 +55,7 @@ Lijnen
 </div>
 
 
-## Pumpstation
+## <a name="pumpstation"></a>Pumpstation
 
 > A pump station mechanically lifts storm water runoff from a gravity fed collection cistern to a discharge place or outfall.
 
@@ -73,7 +73,7 @@ Lijnen
 </div>
 
 
-## Weir
+## <a name="weir"></a>Weir
 
 > A weir is a barrier across a river designed to alter its flow characteristics.
 
@@ -91,7 +91,7 @@ Lijnen
 </div>
 
 
-## Culvert
+## <a name="culvert"></a>Culvert
 
 > A tunnel carrying a stream or open drain under a road or railway.
 
@@ -109,7 +109,7 @@ Lijnen
 </div>
 
 
-## Orifice
+## <a name="orifice"></a>Orifice
 
 > An orifice is an opening through which flow occurs.
 
@@ -153,8 +153,6 @@ Lijnen
     Icoon en gebruik hier
   </div>
 </div>
-
-
 
 
 ## <a name="bound2d"></a>2D Boundary
