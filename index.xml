@@ -55,27 +55,6 @@
     </item>
     
     <item>
-      <title>Legenda</title>
-      <link>/threedi-styleguide/guide/carto/legenda/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
-      <description>
-
-&lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Legenda&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Objecten</title>
       <link>/threedi-styleguide/guide/carto/objecten/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -479,6 +458,27 @@
     </item>
     
     <item>
+      <title>Legenda</title>
+      <link>/threedi-styleguide/guide/carto/legenda/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
+      <description>
+
+&lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Legenda&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Vlakken</title>
       <link>/threedi-styleguide/guide/carto/vlakken/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -604,6 +604,14 @@
             &lt;li&gt;Taalkeuzemenu: Een simpele button waarmee van taal kan worden gewisseld.&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
+
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34;&gt;3di-beheerpagina-base.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+
   &lt;/ul&gt;  
 &lt;/div&gt;
 
@@ -619,10 +627,17 @@
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
-            &lt;strong&gt;...&lt;/strong&gt;
-            &lt;li&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;-&lt;/li&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
         &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+      &lt;ul&gt;
+        &lt;strong&gt;Extra kleuren&lt;/strong&gt;
+      &lt;li&gt;Lichtgroen (#8CB18C)&lt;/li&gt;
+    &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;  
 &lt;/div&gt;
@@ -639,9 +654,25 @@
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
-            &lt;strong&gt;...&lt;/strong&gt;
-            &lt;li&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/li&gt;
-            &lt;li&gt;-&lt;/li&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Clone model&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;  
@@ -652,6 +683,27 @@
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
     &lt;h3 class=&#34;panel-title&#34;&gt;...&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contextmenu</title>
+      <link>/threedi-styleguide/guide/ui/contextmenu/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/contextmenu/</guid>
+      <description>
+
+&lt;h2 id=&#34;contextmenu:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contextmenu&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Contextmenu&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
@@ -709,21 +761,22 @@
     </item>
     
     <item>
-      <title>Contextmenu</title>
-      <link>/threedi-styleguide/guide/ui/contextmenu/</link>
+      <title>Indicators</title>
+      <link>/threedi-styleguide/guide/ui/indicators/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/contextmenu/</guid>
+      <guid>/threedi-styleguide/guide/ui/indicators/</guid>
       <description>
 
-&lt;h2 id=&#34;contextmenu:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contextmenu&lt;/h2&gt;
+&lt;h2 id=&#34;indicators:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Indicators&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Contextmenu&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Machine opstarten / model laden&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+    &lt;img src=&#34;../../../images/screenshots/booting-machine-indicator.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -769,22 +822,21 @@
     </item>
     
     <item>
-      <title>Indicators</title>
-      <link>/threedi-styleguide/guide/ui/indicators/</link>
+      <title>Modelcontrols</title>
+      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/indicators/</guid>
+      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
       <description>
 
-&lt;h2 id=&#34;indicators:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Indicators&lt;/h2&gt;
+&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Machine opstarten / model laden&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-    &lt;img src=&#34;../../../images/screenshots/booting-machine-indicator.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -852,27 +904,6 @@
     </item>
     
     <item>
-      <title>Modelcontrols</title>
-      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
-      <description>
-
-&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Notificaties</title>
       <link>/threedi-styleguide/guide/ui/notificaties/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -897,6 +928,27 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Logo</title>
+      <link>/threedi-styleguide/guide/visual/logo/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/visual/logo/</guid>
+      <description>
+
+&lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di logo richtlijnen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -1107,27 +1159,6 @@
 
 
     &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Logo</title>
-      <link>/threedi-styleguide/guide/visual/logo/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/visual/logo/</guid>
-      <description>
-
-&lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di logo richtlijnen&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
