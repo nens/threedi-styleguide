@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guides on 3Di Styleguide</title>
-    <link>/threedi-styleguide/guide/</link>
+    <link>http://localhost:1313/threedi-styleguide/guide/</link>
     <description>Recent content in Guides on 3Di Styleguide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Oct 2015 11:56:34 +0100</lastBuildDate>
-    <atom:link href="/threedi-styleguide/guide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/threedi-styleguide/guide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Beheerpaginas</title>
-      <link>/threedi-styleguide/guide/ui/beheerpaginas/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/beheerpaginas/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/beheerpaginas/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/beheerpaginas/</guid>
       <description>
 
 &lt;h2 id=&#34;beheerpagina-s:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Beheerpagina&amp;rsquo;s&lt;/h2&gt;
@@ -26,7 +26,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Basissjabloon&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -116,7 +116,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34;&gt;3di-beheerpagina-base.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34;&gt;3di-beheerpagina-base.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
 
@@ -130,7 +130,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Kosten&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -150,7 +150,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34;&gt;3di-beheerpagina-kosten.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34;&gt;3di-beheerpagina-kosten.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -163,7 +163,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Modellen&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -175,7 +175,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34;&gt;3di-beheerpagina-modellen.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34;&gt;3di-beheerpagina-modellen.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -186,7 +186,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Clone model&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -198,7 +198,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34;&gt;3di-beheerpagina-clone.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34;&gt;3di-beheerpagina-clone.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -211,7 +211,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Verbruik&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -223,7 +223,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34;&gt;3di-beheerpagina-usage.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34;&gt;3di-beheerpagina-usage.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -233,10 +233,10 @@
     
     <item>
       <title>Contextmenu</title>
-      <link>/threedi-styleguide/guide/ui/contextmenu/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/contextmenu/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/contextmenu/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/contextmenu/</guid>
       <description>
 
 &lt;h2 id=&#34;contextmenu:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contextmenu&lt;/h2&gt;
@@ -254,10 +254,10 @@
     
     <item>
       <title>Grafieken</title>
-      <link>/threedi-styleguide/guide/ui/grafieken/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/grafieken/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/grafieken/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/grafieken/</guid>
       <description>
 
 &lt;h2 id=&#34;grafieken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafieken&lt;/h2&gt;
@@ -302,10 +302,10 @@
     
     <item>
       <title>Iconen</title>
-      <link>/threedi-styleguide/guide/visual/iconen/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/visual/iconen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/iconen/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/visual/iconen/</guid>
       <description>
 
 &lt;h2 id=&#34;iconen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Iconen&lt;/h2&gt;
@@ -353,10 +353,10 @@
     
     <item>
       <title>Indicators</title>
-      <link>/threedi-styleguide/guide/ui/indicators/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/indicators/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/indicators/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/indicators/</guid>
       <description>
 
 &lt;h2 id=&#34;indicators:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Indicators&lt;/h2&gt;
@@ -375,10 +375,10 @@
     
     <item>
       <title>Kaartcontrols</title>
-      <link>/threedi-styleguide/guide/ui/kaartcontrols/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/kaartcontrols/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/kaartcontrols/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/kaartcontrols/</guid>
       <description>
 
 &lt;h2 id=&#34;kaart-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kaart controls&lt;/h2&gt;
@@ -414,10 +414,10 @@
     
     <item>
       <title>Kleur</title>
-      <link>/threedi-styleguide/guide/visual/kleur/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/visual/kleur/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/kleur/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/visual/kleur/</guid>
       <description>
 
 &lt;h2 id=&#34;kleurstelling:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kleurstelling&lt;/h2&gt;
@@ -624,10 +624,10 @@
     
     <item>
       <title>Legenda</title>
-      <link>/threedi-styleguide/guide/carto/legenda/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/carto/legenda/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/carto/legenda/</guid>
       <description>
 
 &lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
@@ -645,10 +645,10 @@
     
     <item>
       <title>Lijnen</title>
-      <link>/threedi-styleguide/guide/carto/lijnen/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/carto/lijnen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/lijnen/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/carto/lijnen/</guid>
       <description>
 
 &lt;h2 id=&#34;lijnen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnen&lt;/h2&gt;
@@ -908,10 +908,10 @@
     
     <item>
       <title>Logo</title>
-      <link>/threedi-styleguide/guide/visual/logo/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/visual/logo/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/logo/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/visual/logo/</guid>
       <description>
 
 &lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
@@ -929,10 +929,10 @@
     
     <item>
       <title>Modelcontrols</title>
-      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/modelcontrols/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/modelcontrols/</guid>
       <description>
 
 &lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
@@ -950,10 +950,10 @@
     
     <item>
       <title>Navigatie</title>
-      <link>/threedi-styleguide/guide/ui/navigatie/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/navigatie/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/navigatie/</guid>
       <description>
 
 &lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
@@ -990,10 +990,10 @@
     
     <item>
       <title>Notificaties</title>
-      <link>/threedi-styleguide/guide/ui/notificaties/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/notificaties/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/notificaties/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/notificaties/</guid>
       <description>
 
 &lt;h2 id=&#34;notificaties:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Notificaties&lt;/h2&gt;
@@ -1020,10 +1020,10 @@
     
     <item>
       <title>Objecten</title>
-      <link>/threedi-styleguide/guide/carto/objecten/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/carto/objecten/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/objecten/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/carto/objecten/</guid>
       <description>
 
 &lt;h2 id=&#34;symbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Symbologie&lt;/h2&gt;
@@ -1175,10 +1175,10 @@
     
     <item>
       <title>Typografie</title>
-      <link>/threedi-styleguide/guide/visual/typografie/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/visual/typografie/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/typografie/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/visual/typografie/</guid>
       <description>
 
 &lt;h2 id=&#34;typografie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Typografie&lt;/h2&gt;
