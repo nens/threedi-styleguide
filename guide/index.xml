@@ -139,11 +139,20 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;...&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Modellen&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;...&lt;/strong&gt;
+            &lt;li&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/li&gt;
+            &lt;li&gt;-&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;  
 &lt;/div&gt;
 
 &lt;h3 id=&#34;3di-usage:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;3Di Usage&lt;/h3&gt;
