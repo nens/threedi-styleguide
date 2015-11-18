@@ -18,3 +18,35 @@ Iconen
   </div>
 </div>
 
+
+
+## Floodfill
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Flood fill icon</h3>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
+
+## Rain
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Rain icon</h3>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
