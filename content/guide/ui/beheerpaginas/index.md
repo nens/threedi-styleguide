@@ -140,6 +140,12 @@ Beheerpagina's
       <li>Lichtgroen (#8CB18C)</li>
     </ul>
     </li>
+    <li class="list-group-item">
+    	<ul>
+			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+			<li><a href="/threedi-styleguide/images/3di-beheerpagina-kosten.svg">3di-beheerpagina-kosten.svg</a></li>
+		</ul>
+    </li>    
   </ul>  
 </div>
 
@@ -162,6 +168,12 @@ Beheerpagina's
 			<li>3Di Basissjabloon</li>
 		</ul>
     </li>
+    <li class="list-group-item">
+    	<ul>
+			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+			<li><a href="/threedi-styleguide/images/3di-beheerpagina-modellen.svg">3di-beheerpagina-modellen.svg</a></li>
+		</ul>
+    </li>    
   </ul>  
 </div>
 
@@ -180,6 +192,12 @@ Beheerpagina's
 			<li>3Di Basissjabloon</li>
 		</ul>
     </li>
+    <li class="list-group-item">
+    	<ul>
+			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+			<li><a href="/threedi-styleguide/images/3di-beheerpagina-clone.svg">3di-beheerpagina-clone.svg</a></li>
+		</ul>
+    </li>    
   </ul>  
 </div>
 
