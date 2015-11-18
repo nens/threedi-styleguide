@@ -10,6 +10,269 @@
     <atom:link href="/threedi-styleguide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Lijnen</title>
+      <link>/threedi-styleguide/guide/carto/lijnen/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/lijnen/</guid>
+      <description>
+
+&lt;h2 id=&#34;lijnen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnen&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Naam / Klasse&lt;/th&gt;
+&lt;th&gt;Zichtbaarheid&lt;/th&gt;
+&lt;th&gt;Status&lt;/th&gt;
+&lt;th&gt;Stroming&lt;/th&gt;
+&lt;th&gt;Onderscheid&lt;/th&gt;
+&lt;th&gt;Icoon&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#channel&#34;&gt;Channel&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bevat zoom_category&lt;/td&gt;
+&lt;td&gt;open/afgesloten&lt;/td&gt;
+&lt;td&gt;debiet + snelheid&lt;/td&gt;
+&lt;td&gt;Oppervlaktewater&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#pipe&#34;&gt;Pipe&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bevat zoom_category&lt;/td&gt;
+&lt;td&gt;open/afgesloten&lt;/td&gt;
+&lt;td&gt;debiet + snelheid&lt;/td&gt;
+&lt;td&gt;Riolering&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#pumpstation&#34;&gt;Pumpstation&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bevat zoom_category&lt;/td&gt;
+&lt;td&gt;staat aan/uit&lt;/td&gt;
+&lt;td&gt;debiet&lt;/td&gt;
+&lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#weir&#34;&gt;Weir&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bevat zoom_category&lt;/td&gt;
+&lt;td&gt;open/afgesloten&lt;/td&gt;
+&lt;td&gt;debiet + snelheid&lt;/td&gt;
+&lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#culvert&#34;&gt;Culvert&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bevat zoom_category&lt;/td&gt;
+&lt;td&gt;open/afgesloten&lt;/td&gt;
+&lt;td&gt;debiet + snelheid&lt;/td&gt;
+&lt;td&gt;Oppervlaktewater&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#orifice&#34;&gt;Orifice&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bevat zoom_category&lt;/td&gt;
+&lt;td&gt;open/afgesloten&lt;/td&gt;
+&lt;td&gt;debiet + snelheid&lt;/td&gt;
+&lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#levee&#34;&gt;Levee&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;Oppervlaktewater&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#obstacle&#34;&gt;Obstacle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#bound2d&#34;&gt;2D Boundary&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;a-name-channel-a-channel:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;channel&#34;&gt;&lt;/a&gt;Channel&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;An open conduit either naturally or artificially created which periodically or continuously contains moving water, or which forms a connecting link between two bodies of water.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Channel&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-pipe-a-pipe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;pipe&#34;&gt;&lt;/a&gt;Pipe&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A tube used to convey water, gas, oil, or other fluid substances.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pipe&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-pumpstation-a-pumpstation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;pumpstation&#34;&gt;&lt;/a&gt;Pumpstation&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A pump station mechanically lifts storm water runoff from a gravity fed collection cistern to a discharge place or outfall.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pumpstation&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-weir-a-weir:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;weir&#34;&gt;&lt;/a&gt;Weir&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A weir is a barrier across a river designed to alter its flow characteristics.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Weir&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-culvert-a-culvert:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;culvert&#34;&gt;&lt;/a&gt;Culvert&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A tunnel carrying a stream or open drain under a road or railway.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Culvert&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-orifice-a-orifice:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;orifice&#34;&gt;&lt;/a&gt;Orifice&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;An orifice is an opening through which flow occurs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Orifice&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-levee-a-levee:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;levee&#34;&gt;&lt;/a&gt;Levee&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A natural or manmade earthen barrier along the edge of a stream, lake, or river.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Levee&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-obstacle-a-obstacle:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;obstacle&#34;&gt;&lt;/a&gt;Obstacle&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Something that blocks access (to fluids in this case).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Obstacle&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-bound2d-a-2d-boundary:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;bound2d&#34;&gt;&lt;/a&gt;2D Boundary&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Used to define the location of a flow-time boundary point within a 2D Simulation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;2D Boundary&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Objecten</title>
       <link>/threedi-styleguide/guide/carto/objecten/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -156,269 +419,6 @@
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
     &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lijnen</title>
-      <link>/threedi-styleguide/guide/carto/lijnen/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/lijnen/</guid>
-      <description>
-
-&lt;h2 id=&#34;lijnen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnen&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Naam / Klasse&lt;/th&gt;
-&lt;th&gt;Zichtbaarheid&lt;/th&gt;
-&lt;th&gt;Status&lt;/th&gt;
-&lt;th&gt;Stroming&lt;/th&gt;
-&lt;th&gt;Onderscheid&lt;/th&gt;
-&lt;th&gt;Icoon&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Channel&lt;/td&gt;
-&lt;td&gt;bevat zoom_category&lt;/td&gt;
-&lt;td&gt;open/afgesloten&lt;/td&gt;
-&lt;td&gt;debiet + snelheid&lt;/td&gt;
-&lt;td&gt;Oppervlaktewater&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Pipe&lt;/td&gt;
-&lt;td&gt;bevat zoom_category&lt;/td&gt;
-&lt;td&gt;open/afgesloten&lt;/td&gt;
-&lt;td&gt;debiet + snelheid&lt;/td&gt;
-&lt;td&gt;Riolering&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Pumpstation&lt;/td&gt;
-&lt;td&gt;bevat zoom_category&lt;/td&gt;
-&lt;td&gt;staat aan/uit&lt;/td&gt;
-&lt;td&gt;debiet&lt;/td&gt;
-&lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Weir&lt;/td&gt;
-&lt;td&gt;bevat zoom_category&lt;/td&gt;
-&lt;td&gt;open/afgesloten&lt;/td&gt;
-&lt;td&gt;debiet + snelheid&lt;/td&gt;
-&lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Culvert&lt;/td&gt;
-&lt;td&gt;bevat zoom_category&lt;/td&gt;
-&lt;td&gt;open/afgesloten&lt;/td&gt;
-&lt;td&gt;debiet + snelheid&lt;/td&gt;
-&lt;td&gt;Oppervlaktewater&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Orifice&lt;/td&gt;
-&lt;td&gt;bevat zoom_category&lt;/td&gt;
-&lt;td&gt;open/afgesloten&lt;/td&gt;
-&lt;td&gt;debiet + snelheid&lt;/td&gt;
-&lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Levee&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;Oppervlaktewater&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Obstacle&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2D Boundary&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;channel:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Channel&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;An open conduit either naturally or artificially created which periodically or continuously contains moving water, or which forms a connecting link between two bodies of water.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Channel&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;pipe:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pipe&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A tube used to convey water, gas, oil, or other fluid substances.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pipe&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;pumpstation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pumpstation&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A pump station mechanically lifts storm water runoff from a gravity fed collection cistern to a discharge place or outfall.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pumpstation&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;weir:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Weir&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A weir is a barrier across a river designed to alter its flow characteristics.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Weir&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;culvert:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Culvert&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A tunnel carrying a stream or open drain under a road or railway.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Culvert&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;orifice:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Orifice&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;An orifice is an opening through which flow occurs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Orifice&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-levee-a-levee:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;levee&#34;&gt;&lt;/a&gt;Levee&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A natural or manmade earthen barrier along the edge of a stream, lake, or river.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Levee&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-obstacle-a-obstacle:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;obstacle&#34;&gt;&lt;/a&gt;Obstacle&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Something that blocks access (to fluids in this case).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Obstacle&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-bound2d-a-2d-boundary:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;bound2d&#34;&gt;&lt;/a&gt;2D Boundary&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Used to define the location of a flow-time boundary point within a 2D Simulation&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;2D Boundary&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Icoon en gebruik hier
@@ -785,6 +785,67 @@
     </item>
     
     <item>
+      <title>Navigatie</title>
+      <link>/threedi-styleguide/guide/ui/navigatie/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
+      <description>
+
+&lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Kaartlagen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;img src=&#34;../../../images/screenshots/top-right-menu.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Logged-in menu&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelcontrols</title>
+      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
+      <description>
+
+&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kaartcontrols</title>
       <link>/threedi-styleguide/guide/ui/kaartcontrols/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -848,46 +909,6 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Navigatie</title>
-      <link>/threedi-styleguide/guide/ui/navigatie/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
-      <description>
-
-&lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Kaartlagen&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-    &lt;img src=&#34;../../../images/screenshots/top-right-menu.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Logged-in menu&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -1155,39 +1176,27 @@
     </item>
     
     <item>
-      <title>Logo</title>
-      <link>/threedi-styleguide/guide/visual/logo/</link>
+      <title>Typografie</title>
+      <link>/threedi-styleguide/guide/visual/typografie/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/logo/</guid>
+      <guid>/threedi-styleguide/guide/visual/typografie/</guid>
       <description>
 
-&lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
+&lt;h2 id=&#34;typografie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Typografie&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di logo richtlijnen&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Clear Sans&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modelcontrols</title>
-      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
-      <description>
-
-&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Helvetica Neue&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
