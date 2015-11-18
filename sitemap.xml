@@ -33,17 +33,12 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/contextmenu/</loc>
+    <loc>/threedi-styleguide/guide/ui/indicators/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
     <loc>/threedi-styleguide/guide/ui/grafieken/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threedi-styleguide/guide/ui/indicators/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -58,12 +53,12 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/navigatie/</loc>
+    <loc>/threedi-styleguide/guide/ui/contextmenu/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/iconen/</loc>
+    <loc>/threedi-styleguide/guide/ui/navigatie/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -78,6 +73,16 @@
   </url>
   
   <url>
+    <loc>/threedi-styleguide/guide/visual/iconen/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threedi-styleguide/guide/visual/typografie/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/threedi-styleguide/guide/visual/kleur/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
@@ -88,22 +93,17 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/typografie/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/threedi-styleguide/guide/carto/</loc>
     <lastmod>2015-10-30T11:18:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/modals/</loc>
+    <loc>/threedi-styleguide/guide/ui/</loc>
     <lastmod>2015-10-30T11:18:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/</loc>
+    <loc>/threedi-styleguide/guide/ui/modals/</loc>
     <lastmod>2015-10-30T11:18:31+01:00</lastmod>
   </url>
   
