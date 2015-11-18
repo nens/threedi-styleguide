@@ -1,0 +1,138 @@
+.guide {
+	::selection {
+	  background: #ffb7b7; /* WebKit/Blink Browsers */
+	}
+	::-moz-selection {
+	  background: #ffb7b7;; /* Gecko Browsers */
+	}
+
+		background-color: $threedi-background-gray;
+
+	  // font-family: 'Open Sans', sans-serif;
+		font-family: 'Clear Sans', sans-serif;
+
+    p {
+	    line-height: 25px;
+    }
+
+	h1 {
+		font-family: 'Merriweather', serif;
+		font-size: 5rem;
+		font-weight: 700;
+	}
+
+	h2 {
+		font-family: 'Merriweather', serif;
+		font-size: 3rem;
+		font-weight: 700;
+	}
+
+	h4 {
+		color: $threedi-blue;
+		font-weight: 600;
+	}
+
+	p.lead {
+	    font-size: 2rem;
+	    font-family: "Merriweather", "Georgia", "Times New Roman", serif;
+	    line-height: 1.7;
+	    margin-top: 2em;
+	}
+
+	.header {
+		background-color: $threedi-red;
+		background-image: none;
+		color: #ffffff;
+		padding-bottom: 1rem;
+		padding-top: 0.5rem;
+	}
+
+	a {
+		color: #000;
+	}
+
+	.intro-text {
+	    line-height: 1.7;
+	    margin-bottom: 4rem;
+	}
+
+	.banner-background {
+		background-image: url('../images/ui.png');
+		background-repeat: no-repeat;
+		background-size: 80%;
+		background-position-x: 60px;
+		height: 300px;
+	}
+
+	.dark {
+		color: $threedi-white;
+		background-color: $threedi-darkblue;
+		padding-top: 4rem;
+	}
+
+	.block {
+		display: block;
+	}
+
+	.truncate {
+	    text-overflow: ellipsis;
+	    white-space: nowrap;
+	    overflow: hidden;
+	}
+
+	.underline {
+		text-decoration: underline;
+	}
+
+	.strong, strong {
+		font-family: 'Open Sans', sans-serif;
+	    font-weight: 700;
+	}
+
+	.menu a {
+		line-height: 20px;
+	}
+
+	a.spacing, span.spacing {
+		margin: 5px 0 5px 0;
+	}
+
+	.docnav{
+		position: fixed;
+		top: 130px;
+		bottom: 0;
+		width: 100%;
+	}
+
+
+	.icon-1x {
+		width: 10px;
+		height: 10px;
+	}
+	.icon-2x {
+		width: 20px;
+		height: 20px;
+	}
+	.icon-3x {
+		width: 30px;
+		height: 30px;
+	}
+
+
+
+	.colorpalette ul.list-inline li {
+		width: 150px;
+	}
+
+
+	ul li.list-group-item ul li{
+		list-style-type: disc;
+		list-style-position: inside;
+		margin: 5px 0 5px 0;
+	}
+	ul li p {
+		margin: 5px 0 5px 0;
+		display: inline;
+	}
+
+}
