@@ -9,11 +9,26 @@ Contextmenu
 -----------
 
 
+
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Contextmenu</h3>
+    <h3 class="panel-title">Simulatie - Contextmenu</h3>
   </div>
   <div class="panel-body">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    <img src="/threedi-styleguide/images/3di-model-loaded.png" align="left" width="100%" ></a>
   </div>
+  <ul class="list-group">
+    <li class="list-group-item">
+    	<ul>
+	    	<strong>Gebaseerd op</strong>
+			<li>Simulatie basissjabloon</li>
+		</ul>
+    </li>
+    <li class="list-group-item">
+    	<ul>
+			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+			<li><a href="/threedi-styleguide/images/3di-model-loaded.svg">3di-model-loaded.svg</a></li>
+		</ul>
+    </li>    
+  </ul>  
 </div>
