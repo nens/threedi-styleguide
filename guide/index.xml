@@ -257,6 +257,15 @@
     &lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
+            &lt;strong&gt;Contextmenu&lt;/strong&gt;
+            &lt;li&gt;Bedoeld om een gelimiteerde en toepasselijke set opties aan de gebruiker aan te bieden&lt;/li&gt;
+      &lt;li&gt;Opties zijn afhankelijk van de &#39;state&#39; van de applicatie&lt;/li&gt;
+      &lt;li&gt;Het contextmenu verschijnt op een gefixeerde positie onder de muiscursor of touch event&lt;/li&gt;
+      &lt;li&gt;Bevat alleen opties welke van toepassing zijn op de kaart zoals de dwarsprofielentool, polygonentool en scenario tools&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
             &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.svg&#34;&gt;3di-model-loaded.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
