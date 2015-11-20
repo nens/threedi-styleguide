@@ -31,6 +31,184 @@
     </item>
     
     <item>
+      <title>Objecten</title>
+      <link>/threedi-styleguide/guide/carto/objecten/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/objecten/</guid>
+      <description>
+
+&lt;h2 id=&#34;symbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Symbologie&lt;/h2&gt;
+
+&lt;p&gt;3Di kan allerlei veelal hydrologische objecten op de kaart visualiseren, zoals bijvoorbeeld gemalen en putten. Deze objecten zijn specifiek ontworpen en bedoeld om de eigenschappen van een rekenmodel te kunnen tonen.&lt;/p&gt;
+
+&lt;h2 id=&#34;overzicht-van-symbolen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Overzicht van symbolen&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Naam / Klasse&lt;/th&gt;
+&lt;th&gt;Zichtbaarheid&lt;/th&gt;
+&lt;th&gt;Status&lt;/th&gt;
+&lt;th&gt;Stroming&lt;/th&gt;
+&lt;th&gt;Onderscheid&lt;/th&gt;
+&lt;th&gt;Icoon&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#manhole&#34;&gt;Manhole&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bevat zoom_category&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;Opp of riolering&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#bound1d&#34;&gt;1D Boundary&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#lateral1ds&#34;&gt;1D Lateral&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;geen&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#connectionnode&#34;&gt;Connection node&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;toggle visibility&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#breachlocation&#34;&gt;Breslocatie&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;a-name-manhole-a-manhole:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;manhole&#34;&gt;&lt;/a&gt;Manhole&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A small covered opening in a paved area allowing access beneath, especially one leading to a sewer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Manhole&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-bound1d-a-1d-boundary:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;bound1d&#34;&gt;&lt;/a&gt;1D Boundary&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Used to define the location of a flow-time boundary point within a 1D Simulation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;1D Boundary&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-lateral1d-a-1d-lateral:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;lateral1d&#34;&gt;&lt;/a&gt;1D Lateral&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Geometry: situated at or on the side.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;1D Lateral&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-connectionnode-a-connection-node:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;connectionnode&#34;&gt;&lt;/a&gt;Connection node&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A connection node is placed at a location where reaches can be attached to other reaches.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Connection node&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-breachlocation-a-breach-location:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;breachlocation&#34;&gt;&lt;/a&gt;Breach location&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A gap in an embankment.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Icoon en gebruik hier
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vlakken</title>
+      <link>/threedi-styleguide/guide/carto/vlakken/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
+      <description>
+
+&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
+
+&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Impervious surface&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam praesentium, dolorem est repellendus, ratione unde sunt iure totam expedita quis culpa numquam laboriosam magnam harum repudiandae aperiam doloribus officia ex.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lijnen</title>
       <link>/threedi-styleguide/guide/carto/lijnen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -294,184 +472,6 @@
     </item>
     
     <item>
-      <title>Objecten</title>
-      <link>/threedi-styleguide/guide/carto/objecten/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/objecten/</guid>
-      <description>
-
-&lt;h2 id=&#34;symbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Symbologie&lt;/h2&gt;
-
-&lt;p&gt;3Di kan allerlei veelal hydrologische objecten op de kaart visualiseren, zoals bijvoorbeeld gemalen en putten. Deze objecten zijn specifiek ontworpen en bedoeld om de eigenschappen van een rekenmodel te kunnen tonen.&lt;/p&gt;
-
-&lt;h2 id=&#34;overzicht-van-symbolen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Overzicht van symbolen&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Naam / Klasse&lt;/th&gt;
-&lt;th&gt;Zichtbaarheid&lt;/th&gt;
-&lt;th&gt;Status&lt;/th&gt;
-&lt;th&gt;Stroming&lt;/th&gt;
-&lt;th&gt;Onderscheid&lt;/th&gt;
-&lt;th&gt;Icoon&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#manhole&#34;&gt;Manhole&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;bevat zoom_category&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#bound1d&#34;&gt;1D Boundary&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#lateral1ds&#34;&gt;1D Lateral&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#connectionnode&#34;&gt;Connection node&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;toggle visibility&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#breachlocation&#34;&gt;Breslocatie&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;a-name-manhole-a-manhole:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;manhole&#34;&gt;&lt;/a&gt;Manhole&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A small covered opening in a paved area allowing access beneath, especially one leading to a sewer.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Manhole&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-bound1d-a-1d-boundary:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;bound1d&#34;&gt;&lt;/a&gt;1D Boundary&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Used to define the location of a flow-time boundary point within a 1D Simulation&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;1D Boundary&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-lateral1d-a-1d-lateral:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;lateral1d&#34;&gt;&lt;/a&gt;1D Lateral&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Geometry: situated at or on the side.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;1D Lateral&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-connectionnode-a-connection-node:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;connectionnode&#34;&gt;&lt;/a&gt;Connection node&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A connection node is placed at a location where reaches can be attached to other reaches.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Connection node&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-breachlocation-a-breach-location:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;breachlocation&#34;&gt;&lt;/a&gt;Breach location&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A gap in an embankment.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vlakken</title>
-      <link>/threedi-styleguide/guide/carto/vlakken/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
-      <description>
-
-&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
-
-&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Impervious surface&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam praesentium, dolorem est repellendus, ratione unde sunt iure totam expedita quis culpa numquam laboriosam magnam harum repudiandae aperiam doloribus officia ex.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contextmenu</title>
       <link>/threedi-styleguide/guide/ui/contextmenu/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -511,54 +511,6 @@
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Grafieken</title>
-      <link>/threedi-styleguide/guide/ui/grafieken/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/grafieken/</guid>
-      <description>
-
-&lt;h2 id=&#34;grafieken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafieken&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Dwarsprofiel&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Waterstand&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Grondwaterstand&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Waterdiepte&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -751,6 +703,13 @@
     &lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
+            &lt;strong&gt;Extra tov basissjabloon&lt;/strong&gt;
+      &lt;li&gt;Repo browser&lt;/li&gt;
+            &lt;li&gt;Clone repo dialoogvenster&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
             &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34;&gt;3di-beheerpagina-clone.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
@@ -776,8 +735,40 @@
     &lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
+            &lt;strong&gt;Extra tov basissjabloon&lt;/strong&gt;
+      &lt;li&gt;Mogelijkheid tot weergave meerdere widgets&lt;/li&gt;
+            &lt;li&gt;Titel labels bij de verschillende widgets&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
             &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34;&gt;3di-beheerpagina-usage.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;h3 id=&#34;modellen-simulatie-catalogus:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Modellen/simulatie catalogus&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di Index&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-simulation-home.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-simulation-home.svg&#34;&gt;3di-simulation-home.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -877,18 +868,99 @@
     </item>
     
     <item>
-      <title>Modelcontrols</title>
-      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
+      <title>Grafieken</title>
+      <link>/threedi-styleguide/guide/ui/grafieken/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
+      <guid>/threedi-styleguide/guide/ui/grafieken/</guid>
       <description>
 
-&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
+&lt;h2 id=&#34;grafieken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafieken&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Dwarsprofiel&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-profile.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-profile.svg&#34;&gt;3di-profile.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Waterstand&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Grondwaterstand&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Waterdiepte&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Navigatie</title>
+      <link>/threedi-styleguide/guide/ui/navigatie/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
+      <description>
+
+&lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Kaartlagen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;img src=&#34;../../../images/screenshots/top-right-menu.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Logged-in menu&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
@@ -979,6 +1051,237 @@
     </item>
     
     <item>
+      <title>Kleur</title>
+      <link>/threedi-styleguide/guide/visual/kleur/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/visual/kleur/</guid>
+      <description>
+
+&lt;h2 id=&#34;kleurstelling:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kleurstelling&lt;/h2&gt;
+
+&lt;p&gt;3Di gebruikt het volgende basispalet om verwarring over kleurgebruik te voorkomen. Hexwaarden kunnen ook procentueel of als RGB worden gebruikt. Andere kleuren mogen worden gebruikt indien er een goede reden voor is.&lt;/p&gt;
+
+&lt;div class=&#34;panel panel-default colorpalette&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Palet&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#E3003B;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;3Di rood&lt;/li&gt;
+          &lt;li id=&#34;red&#34; value=&#34;#E3003B&#34;&gt;#E3003B&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#red&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#3378B0;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Actieve link&lt;/li&gt;
+          &lt;li id=&#34;activelink&#34; value=&#34;#3378B0&#34;&gt;#3378B0&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#activelink&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#A3A4A2;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Inactieve link&lt;/li&gt;
+          &lt;li id=&#34;inactivelink&#34; value=&#34;#A3A4A2&#34;&gt;#A3A4A2&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#inactivelink&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#EAEBEB;color:#000;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Achtergrond&lt;/li&gt;
+          &lt;li id=&#34;background1&#34; value=&#34;#EAEBEB&#34;&gt;#EAEBEB&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#background1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#D9EDF7;color:#000;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Notificatie&lt;/li&gt;
+          &lt;li id=&#34;notificationbg&#34; value=&#34;#D9EDF7&#34;&gt;#D9EDF7&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#notificationbg&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#6FBA71;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Progressbar #1&lt;/li&gt;
+          &lt;li id=&#34;progressbar1&#34; value=&#34;#6FBA71&#34;&gt;#6FBA71&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#progressbar1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#58B05A;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Progressbar #2&lt;/li&gt;
+          &lt;li id=&#34;progressbar2&#34; value=&#34;#58B05A&#34;&gt;#58B05A&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#progressbar2&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#333333;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Icon #1&lt;/li&gt;
+          &lt;li id=&#34;icon1&#34; value=&#34;#333333&#34;&gt;#333333&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#icon1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#38AADD;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Marker #1&lt;/li&gt;
+          &lt;li id=&#34;marker1&#34; value=&#34;#38AADD&#34;&gt;#38AADD&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#marker1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#71AE26;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Marker #2&lt;/li&gt;
+          &lt;li id=&#34;marker2&#34; value=&#34;#71AE26&#34;&gt;#71AE26&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#marker2&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#167F10;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Statusindicator #1&lt;/li&gt;
+          &lt;li id=&#34;statusindicator1&#34; value=&#34;#167F10&#34;&gt;#167F10&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#statusindicator1&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;       
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#E8BD8B;color:#fff;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Statusindicator #2&lt;/li&gt;
+          &lt;li id=&#34;statusindicator2&#34; value=&#34;#E8BD8B&#34;&gt;#E8BD8B&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#statusindicator2&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#F2DEDE;color:#000;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Statusindicator #3&lt;/li&gt;
+          &lt;li id=&#34;statusindicator3&#34; value=&#34;#F2DEDE&#34;&gt;#F2DEDE&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#statusindicator3&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#C0EDEB;color:#000;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Channel&lt;/li&gt;
+          &lt;li id=&#34;channel&#34; value=&#34;#C0EDEB&#34;&gt;#C0EDEB&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#channel&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#E39B10;color:#000;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Waiting&lt;/li&gt;
+          &lt;li id=&#34;waiting&#34; value=&#34;#E39B10&#34;&gt;#E39B10&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#waiting&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34; style=&#34;background-color:#83ABC3;color:#000;&#34;&gt;
+        &lt;ul class=&#34;list-inline&#34;&gt;
+          &lt;li&gt;Chart bullet&lt;/li&gt;
+          &lt;li id=&#34;chartbullet&#34; value=&#34;#83ABC3&#34;&gt;#83ABC3&lt;/li&gt;
+          &lt;li&gt;
+            &lt;button class=&#34;btn btn-default btn-sm&#34; data-clipboard-target=&#34;#chartbullet&#34;&gt;
+                &lt;i class=&#34;fa fa-clipboard&#34;&gt;&lt;/i&gt;
+            &lt;/button&gt;         
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;      
+
+
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelcontrols</title>
+      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
+      <description>
+
+&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Logo</title>
       <link>/threedi-styleguide/guide/visual/logo/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -996,114 +1299,6 @@
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Navigatie</title>
-      <link>/threedi-styleguide/guide/ui/navigatie/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
-      <description>
-
-&lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Kaartlagen&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-    &lt;img src=&#34;../../../images/screenshots/top-right-menu.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Logged-in menu&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Witruimte</title>
-      <link>/threedi-styleguide/guide/visual/witruimte/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/visual/witruimte/</guid>
-      <description>
-
-&lt;h2 id=&#34;witruimte:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Witruimte&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Prioriteit van UI elementen&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Begeleiden van de gebruiker over het scherm&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Leesbaarheid&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Inzicht&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Aandacht langer vasthouden&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Elegantie en harmonie&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!-- http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space + https://boagworld.com/design/why-whitespace-matters/ --&gt;
 </description>
     </item>
     

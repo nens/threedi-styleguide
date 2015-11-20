@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/lijnen/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/threedi-styleguide/guide/carto/objecten/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
@@ -28,12 +23,12 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/contextmenu/</loc>
+    <loc>/threedi-styleguide/guide/carto/lijnen/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/grafieken/</loc>
+    <loc>/threedi-styleguide/guide/ui/contextmenu/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -53,7 +48,12 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/modelcontrols/</loc>
+    <loc>/threedi-styleguide/guide/ui/grafieken/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threedi-styleguide/guide/ui/navigatie/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -68,12 +68,17 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/logo/</loc>
+    <loc>/threedi-styleguide/guide/visual/kleur/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/navigatie/</loc>
+    <loc>/threedi-styleguide/guide/ui/modelcontrols/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threedi-styleguide/guide/visual/logo/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -84,11 +89,6 @@
   
   <url>
     <loc>/threedi-styleguide/guide/visual/typografie/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threedi-styleguide/guide/visual/kleur/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
