@@ -194,6 +194,13 @@ Beheerpagina's
     </li>
     <li class="list-group-item">
     	<ul>
+	    	<strong>Extra tov basissjabloon</strong>
+      <li>Repo browser</li>
+			<li>Clone repo dialoogvenster</li>
+		</ul>
+    </li>
+    <li class="list-group-item">
+    	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
 			<li><a href="/threedi-styleguide/images/3di-beheerpagina-clone.svg">3di-beheerpagina-clone.svg</a></li>
 		</ul>
@@ -222,8 +229,47 @@ Beheerpagina's
     </li>
     <li class="list-group-item">
     	<ul>
+	    	<strong>Extra tov basissjabloon</strong>
+      <li>Mogelijkheid tot weergave meerdere widgets</li>
+			<li>Titel labels bij de verschillende widgets</li>
+		</ul>
+    </li>    
+    <li class="list-group-item">
+    	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
 			<li><a href="/threedi-styleguide/images/3di-beheerpagina-usage.svg">3di-beheerpagina-usage.svg</a></li>
+		</ul>
+    </li>    
+  </ul>  
+</div>
+
+
+
+
+
+
+
+### Modellen/simulatie catalogus
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">3Di Index</h3>
+  </div>
+  <div class="panel-body">
+    <img src="/threedi-styleguide/images/3di-simulation-home.png" align="left" width="100%" ></a>
+  </div>
+  <ul class="list-group">
+    <li class="list-group-item">
+    	<ul>
+	    	<strong>Gebaseerd op</strong>
+			<li>3Di Basissjabloon</li>
+		</ul>
+    </li>
+    <li class="list-group-item">
+    	<ul>
+			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+			<li><a href="/threedi-styleguide/images/3di-simulation-home.svg">3di-simulation-home.svg</a></li>
 		</ul>
     </li>    
   </ul>  
