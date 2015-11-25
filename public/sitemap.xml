@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/legenda/</loc>
+    <loc>/threedi-styleguide/guide/carto/lijnen/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/lijnen/</loc>
+    <loc>/threedi-styleguide/guide/carto/legenda/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -28,21 +28,6 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/beheerpaginas/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threedi-styleguide/guide/ui/indicators/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threedi-styleguide/guide/ui/kaartcontrols/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/threedi-styleguide/guide/ui/contextmenu/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
@@ -53,7 +38,27 @@
   </url>
   
   <url>
+    <loc>/threedi-styleguide/guide/ui/indicators/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threedi-styleguide/guide/ui/beheerpaginas/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threedi-styleguide/guide/ui/kaartcontrols/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/threedi-styleguide/guide/ui/modelcontrols/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threedi-styleguide/guide/ui/navigatie/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
@@ -68,27 +73,22 @@
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/kleur/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/threedi-styleguide/guide/ui/navigatie/</loc>
-    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/threedi-styleguide/guide/visual/logo/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/typografie/</loc>
+    <loc>/threedi-styleguide/guide/visual/kleur/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
     <loc>/threedi-styleguide/guide/visual/witruimte/</loc>
+    <lastmod>2015-10-30T11:56:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/threedi-styleguide/guide/visual/typografie/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   

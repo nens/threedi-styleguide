@@ -1417,9 +1417,50 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Clear Sans&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;p style=&#34;font-size:4em;line-height:2em;&#34;&gt;Clear Sans&lt;/p&gt;
+    &lt;p style=&#34;margin-bottom:2em;&#34;&gt;
+      &lt;span style=&#34;font-size:2em;line-height:0em;font-weight:bolder;&#34;&gt;BOLD&lt;/span&gt;
+      &lt;span style=&#34;font-size:2em;line-height:0em;font-weight:lighter;&#34;&gt;ROMAN&lt;/span&gt;
+    &lt;/p&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;
+            &lt;ul&gt;
+                &lt;strong&gt;Motivatie&lt;/strong&gt;
+            &lt;li&gt;Clear Sans is een lettertype met een onderscheidend karakter dat goed aansluit bij de branding van het 3Di beeldmerk. Het heeft goede schermafleesbare cijfers en is ook in het klein zonder extra inspanning leesbaar. Daarnaast is de karakterset volledig en is het als webfont beschikbaar (zie link bij meer info).&lt;/li&gt;
+            &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;
+            &lt;ul&gt;
+                &lt;strong&gt;Toepassing&lt;/strong&gt;
+            &lt;li&gt;Simulatie UI: Alle teksten, labels, etc.&lt;/li&gt;
+            &lt;li&gt;Beheerschermen: Alle pagina&#39;s&lt;/li&gt;
+            &lt;li&gt;Variant: Volledig kapitalen: legenda items&lt;/li&gt;
+            &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;
+            &lt;ul&gt;
+                &lt;strong&gt;Fallback&lt;/strong&gt;
+            &lt;li&gt;Browser default sans-serif&lt;/li&gt;
+            &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Meer informatie&lt;/strong&gt;
+          &lt;li&gt;&lt;a href=&#34;https://01.org/clear-SANS&#34;&gt;01.org/clear-SANS/&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&#34;https://github.com/resir014/Clear-Sans-Webfont&#34;&gt;github.com/resir014/Clear-Sans-Webfont&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;    
+      &lt;/li&gt;    
+      &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Licentie&lt;/strong&gt;
+          &lt;li&gt;Apache 2.0&lt;/li&gt;
+            &lt;/ul&gt;    
+      &lt;/li&gt;    
+    &lt;/ul&gt;  
+
   &lt;/div&gt;
-&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
