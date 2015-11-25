@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="37px" height="18px" viewBox="0 0 37 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>Slice 1</title>
-    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-culvert</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" fill="#000000">
-            <path d="M2.41601562,0.514404297 L10.7678223,9.04003906 L2.35083008,17.4787598 L0.662109375,15.7219238 L7.26513672,9.05102539 L0.607421875,2.35546875 L2.41601562,0.514404297 Z M2.41601562,0.514404297" id="Path 1"></path>
-            <path d="M27.9326172,0.514404297 L36.2844238,9.04003906 L27.8674316,17.4787598 L26.1787109,15.7219238 L32.7817383,9.05102539 L26.1240234,2.35546875 L27.9326172,0.514404297 Z M27.9326172,0.514404297" id="Path 1" transform="translate(31.204224, 8.996582) scale(-1, 1) translate(-31.204224, -8.996582) "></path>
-            <path d="M12.3828125,6.15307617 L17.5090332,6.15307617 L17.5090332,11.9536923 L12.3906611,11.9536923 L12.3828125,6.15307617 Z M12.3828125,6.15307617" id="Path 2"></path>
-            <path d="M19.3828125,6.15307617 L24.5090332,6.15307617 L24.5090332,11.9536923 L19.3906611,11.9536923 L19.3828125,6.15307617 Z M19.3828125,6.15307617" id="Path 2"></path>
+    <g id="icon-culvert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSLayerGroup" transform="translate(12.500000, 26.621622)" id="Page-1" fill="#000000">
+            <g sketch:type="MSShapeGroup">
+                <g id="Group">
+                    <path d="M3.59137457,0.764655036 L16.0062223,13.4378959 L3.49447715,25.9819402 L0.984216639,23.3704273 L10.7995276,13.4542269 L0.902924409,3.50137247 L3.59137457,0.764655036 L3.59137457,0.764655036 Z" id="Path-1"></path>
+                    <path d="M41.5214592,0.764655036 L53.9363068,13.4378959 L41.4245617,25.9819402 L38.9143012,23.3704273 L48.7296122,13.4542269 L38.8330089,3.50137247 L41.5214592,0.764655036 L41.5214592,0.764655036 Z" id="Path-1" transform="translate(46.384658, 13.373298) scale(-1, 1) translate(-46.384658, -13.373298) "></path>
+                    <path d="M18.4068834,9.14646458 L26.0269412,9.14646458 L26.0269412,17.7690021 L18.4185503,17.7690021 L18.4068834,9.14646458 L18.4068834,9.14646458 Z" id="Path-2"></path>
+                    <path d="M28.8122889,9.14646458 L36.4323466,9.14646458 L36.4323466,17.7690021 L28.8239557,17.7690021 L28.8122889,9.14646458 L28.8122889,9.14646458 Z" id="Path-2"></path>
+                </g>
+            </g>
         </g>
     </g>
 </svg>
