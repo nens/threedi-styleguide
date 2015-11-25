@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="131px" height="66px" viewBox="0 0 131 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
-    <title>icon-channel 2</title>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-channel</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="icon-channel" sketch:type="MSLayerGroup" transform="translate(27.000000, 24.000000)" fill="#000000">
+    <g id="icon-channel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSLayerGroup" transform="translate(0.000000, 30.000000)" fill="#000000">
             <ellipse id="Oval-1" sketch:type="MSShapeGroup" cx="6.85082873" cy="7" rx="6.85082873" ry="7"></ellipse>
             <ellipse id="Oval-2" sketch:type="MSShapeGroup" cx="28.9502762" cy="7" rx="6.85082873" ry="7"></ellipse>
             <ellipse id="Oval-3" sketch:type="MSShapeGroup" cx="51.0497238" cy="7" rx="6.85082873" ry="7"></ellipse>

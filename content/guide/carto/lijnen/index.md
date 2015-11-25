@@ -12,12 +12,12 @@ Lijnen
 | Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       | Icoon                     |
 |-----------------	|---------------------	|-----------------	|-------------------	|------------------	|---------------------------|
 | <a href="#channel">Channel</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-channel.svg" class="icon-2x" /> |
-| <a href="#pipe">Pipe</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	|                           |
+| <a href="#pipe">Pipe</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	| <img src="../../../images/icons/icon-pipe.svg" class="icon-2x" /> |
 | <a href="#pumpstation">Pumpstation</a>     	| bevat zoom_category 	| staat aan/uit   	| debiet            	| Opp of riolering 	| <img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /> |
 | <a href="#weir">Weir</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-weir.svg" class="icon-2x" /> |
 | <a href="#culvert">Culvert</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /> |
 | <a href="#orifice">Orifice</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /> |
-| <a href="#levee">Levee</a>           	| toggle visibility   	| -                	| -                 	| Oppervlaktewater 	| ?                         |
+| <a href="#levee">Levee</a>           	| toggle visibility   	| -                	| -                 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-levee-line.svg" class="icon-2x" /> |
 | <a href="#obstacle">Obstacle</a>        	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
 | <a href="#bound2d">2D Boundary</a>    	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
 
@@ -50,7 +50,9 @@ Lijnen
     <h3 class="panel-title">Pipe</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-3x" /></li>
   </div>
 </div>
 

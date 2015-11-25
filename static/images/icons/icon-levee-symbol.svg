@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-levee-symbol</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-levee-point" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon-levee-symbol" sketch:type="MSLayerGroup" transform="translate(1.000000, 17.000000)">
+            <g id="Path-5-+-Path-6-+-Path-7" fill="#000000" sketch:type="MSShapeGroup">
+                <path d="M0.154146614,18.9501078 L6.28766349,2.77990899 L37.2222769,28.9087081 L31.10118,45.962811 L0.154146614,18.9501078 Z" id="Path-5"></path>
+                <path d="M7.34452399,2.09995268 L21.590988,0.155207157 L52.7355761,26.7447486 L38.1316504,28.5015955 L7.34452399,2.09995268 Z" id="Path-6"></path>
+                <path d="M32.2026747,45.9678999 L38.1029293,29.4414775 L52.9443867,27.6705378 L61.1788165,43.0276858 L32.2026747,45.9678999 Z" id="Path-7"></path>
+            </g>
+            <path d="M58.5095489,33.8369993 L58.5095489,24.212376 L55.6277313,23.9699994 L66.9069906,13.9084467 L77.9623025,23.9840918 L75.3131447,23.9840918 L75.3131447,33.8993764 L68.2329208,33.8993764 L68.2329208,30.6614557 L65.2141111,30.6614557 L65.2141111,33.8147122" id="Path-8" fill="#231F20" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

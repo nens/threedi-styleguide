@@ -23,8 +23,8 @@ Overzicht van symbolen
 | <a href="#manhole">Manhole</a>         	| bevat zoom_category 	| -                	| -                 	| Opp of riolering 	| <img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /> |
 | <a href="#bound1d">1D Boundary</a>   	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
 | <a href="#lateral1ds">1D Lateral     	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
-| <a href="#connectionnode">Connection node</a> 	| toggle visibility   	| -                	| -                 	| -                	| ?                         |
-| <a href="#breachlocation">Breslocatie</a>     	| -                    	| -                	| -                  	| -                	| ?                         |
+| <a href="#connectionnode">Connection node</a> 	| toggle visibility   	| -                	| -                 	| -                	| <img src="../../../images/icons/icon-connection-node.svg" class="icon-2x" /> |
+| <a href="#breachlocation">Breslocatie</a>     	| -                    	| -                	| -                  	| -                	| <img src="../../../images/icons/icon-breach.svg" class="icon-2x" /> |
 
 
 
@@ -93,7 +93,9 @@ Overzicht van symbolen
     <h3 class="panel-title">Connection node</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-3x" /></li>
   </div>
 </div>
 
@@ -107,6 +109,8 @@ Overzicht van symbolen
     <h3 class="panel-title">Breach location</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-3x" /></li>
   </div>
 </div>

@@ -26,7 +26,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Basissjabloon&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-base@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -116,7 +116,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-base.svg&#34;&gt;3di-beheerpagina-base.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-base.svg&#34;&gt;beheer-base.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
 
@@ -130,7 +130,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Kosten&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-kostenoverzicht@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -150,7 +150,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-kosten.svg&#34;&gt;3di-beheerpagina-kosten.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-kostenoverzicht.svg&#34;&gt;beheer-kostenoverzicht.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -163,7 +163,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Modellen&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-modellen@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -175,7 +175,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-modellen.svg&#34;&gt;3di-beheerpagina-modellen.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-modellen.svg&#34;&gt;beheer-modellen.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -186,7 +186,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Clone model&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-modeldatabank@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -205,7 +205,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-clone.svg&#34;&gt;3di-beheerpagina-clone.svg&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-modeldatabank.svg&#34;&gt;beheer-modeldatabank.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -218,7 +218,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Verbruik&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-verbruik@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -237,7 +237,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-beheerpagina-usage.svg&#34;&gt;3di-beheerpagina-usage.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-verbruik.svg&#34;&gt;beheer-verbruik.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -250,7 +250,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di Index&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-simulation-home.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -262,7 +262,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-simulation-home.svg&#34;&gt;3di-simulation-home.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.svg&#34;&gt;simulation-home-catalog.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -329,7 +329,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Dwarsprofiel&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-profile.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -341,7 +341,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-profile.svg&#34;&gt;3di-profile.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.svg&#34;&gt;simulation-profiletool.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -464,7 +464,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Achtergrondswitcher&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-change-basemap.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-maplayers-open.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -483,7 +483,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-change-basemap.svg&#34;&gt;3di-change-basemap.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-maplayers-open.svg&#34;&gt;simulation-maplayers-open.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -491,11 +491,56 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Zoomcontrol&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Legenda&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-legend.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;Simulatie basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gedrag&lt;/strong&gt;
+      &lt;li&gt;On-click op het legenda icoon: Toggle aan/uit&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-legend.svg&#34;&gt;simulation-legend.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Zoomcontrol&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/zoomcontrol.png&#34; align=&#34;left&#34;  &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Plus (+)&lt;/strong&gt;
+      &lt;li&gt;Gedrag onclick: kaart zoomt 1 niveau in&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;ul&gt;
+      &lt;strong&gt;Minus (-)&lt;/strong&gt;
+    &lt;li&gt;Gedrag onclick: kaart zoomt 1 niveau uit&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul&gt;
+      &lt;strong&gt;Extent (&lt;i class=&#34;fa fa-arrows-alt&#34;&gt;&lt;/i&gt;)&lt;/strong&gt;
+    &lt;li&gt;Gedrag onclick: kaart zoomt in of uit naar extent van huidig model&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
 &lt;/div&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
@@ -740,11 +785,42 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Legenda&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Legenda&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/legenda.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gedrag&lt;/strong&gt;
+      &lt;li&gt;Onclick van Legenda icon zet legenda aan of uit (toggle)&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Layout&lt;/strong&gt;
+      &lt;li&gt;Legenda labels in kapitalen&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Kleuren&lt;/strong&gt;
+      &lt;li&gt;Kleuren worden weergegeven als &amp;#8960;14px cirkels met een #979797 stroke&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Iconen&lt;/strong&gt;
+      &lt;li&gt;Iconen worden weergegeven als max 20x20 px afbeelding of SVG (voorkeur)&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Volgorde&lt;/strong&gt;
+      &lt;li&gt;Iconen verschijnen na de kleuren&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
 &lt;/div&gt;
 </description>
     </item>
@@ -787,7 +863,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Riolering&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -832,7 +908,7 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;Oppervlaktewater&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -885,7 +961,9 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Pipe&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1066,21 +1144,62 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Kaartlagen&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Hoofdnavigatie&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-    &lt;img src=&#34;../../../images/screenshots/top-right-menu.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/main-menu.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gedrag&lt;/strong&gt;
+      &lt;li&gt;Onclick van Kaartlagen icon zet kaartlagen switcher aan of uit (toggle)&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Lagen selectie&lt;/strong&gt;
+      &lt;li&gt;Er kan per groep (Achtergrond is bijvoorbeeld een groep) nul of één item geselecteerd/getoggled zijn&lt;/li&gt;
+      &lt;li&gt;Selectie wordt aangeduid door een 1px #000000 stroke&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Iconen&lt;/strong&gt;
+      &lt;li&gt;Iconen worden weergegeven als max 20x20 px afbeeldingen met een 1 pixel border radius&lt;/li&gt;
+      &lt;li&gt;Iconen geven hier een sample weer van de betreffende achtergrondkaart&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
 &lt;/div&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Logged-in menu&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Kaartlagen&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/kaartlagen.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gedrag&lt;/strong&gt;
+      &lt;li&gt;Onclick van Kaartlagen icon zet kaartlagen switcher aan of uit (toggle)&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Lagen selectie&lt;/strong&gt;
+      &lt;li&gt;Er kan per groep (Achtergrond is bijvoorbeeld een groep) nul of één item geselecteerd/getoggled zijn&lt;/li&gt;
+      &lt;li&gt;Selectie wordt aangeduid door een 1px #000000 stroke&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Iconen&lt;/strong&gt;
+      &lt;li&gt;Iconen worden weergegeven als max 20x20 px afbeeldingen met een 1 pixel border radius&lt;/li&gt;
+      &lt;li&gt;Iconen geven hier een sample weer van de betreffende achtergrondkaart&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
 &lt;/div&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
@@ -1184,7 +1303,7 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -1193,7 +1312,7 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1258,7 +1377,9 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Connection node&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1273,7 +1394,9 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>

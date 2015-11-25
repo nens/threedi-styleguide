@@ -17,7 +17,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Basissjabloon</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/3di-beheerpagina-base.svg" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/beheer-base@1x.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -107,7 +107,7 @@ Beheerpagina's
     <li class="list-group-item">
     	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/3di-beheerpagina-base.svg">3di-beheerpagina-base.svg</a></li>
+			<li><a href="/threedi-styleguide/images/ui/beheer-base.svg">beheer-base.svg</a></li>
 		</ul>
     </li>
 
@@ -123,7 +123,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Kosten</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/3di-beheerpagina-kosten.svg" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/beheer-kostenoverzicht@1x.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -143,7 +143,7 @@ Beheerpagina's
     <li class="list-group-item">
     	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/3di-beheerpagina-kosten.svg">3di-beheerpagina-kosten.svg</a></li>
+			<li><a href="/threedi-styleguide/images/ui/beheer-kostenoverzicht.svg">beheer-kostenoverzicht.svg</a></li>
 		</ul>
     </li>    
   </ul>  
@@ -159,7 +159,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Modellen</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/3di-beheerpagina-modellen.svg" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/beheer-modellen@1x.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -171,7 +171,7 @@ Beheerpagina's
     <li class="list-group-item">
     	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/3di-beheerpagina-modellen.svg">3di-beheerpagina-modellen.svg</a></li>
+			<li><a href="/threedi-styleguide/images/ui/beheer-modellen.svg">beheer-modellen.svg</a></li>
 		</ul>
     </li>    
   </ul>  
@@ -183,7 +183,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Clone model</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/3di-beheerpagina-clone.svg" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/beheer-modeldatabank@1x.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -202,7 +202,7 @@ Beheerpagina's
     <li class="list-group-item">
     	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/3di-beheerpagina-clone.svg">3di-beheerpagina-clone.svg</a></li>
+      <li><a href="/threedi-styleguide/images/ui/beheer-modeldatabank.svg">beheer-modeldatabank.svg</a></li>
 		</ul>
     </li>    
   </ul>  
@@ -218,7 +218,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Verbruik</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/3di-beheerpagina-usage.svg" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/beheer-verbruik@1x.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -237,7 +237,7 @@ Beheerpagina's
     <li class="list-group-item">
     	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/3di-beheerpagina-usage.svg">3di-beheerpagina-usage.svg</a></li>
+			<li><a href="/threedi-styleguide/images/ui/beheer-verbruik.svg">beheer-verbruik.svg</a></li>
 		</ul>
     </li>    
   </ul>  
@@ -257,7 +257,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di Index</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/3di-simulation-home.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/simulation-home-catalog.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -269,7 +269,7 @@ Beheerpagina's
     <li class="list-group-item">
     	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/3di-simulation-home.svg">3di-simulation-home.svg</a></li>
+			<li><a href="/threedi-styleguide/images/ui/simulation-home-catalog.svg">simulation-home-catalog.svg</a></li>
 		</ul>
     </li>    
   </ul>  
