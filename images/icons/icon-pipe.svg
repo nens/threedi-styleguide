@@ -5,7 +5,11 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="icon-pipe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <path d="M8.5,31.5 L71.5079346,31.5" id="Line" stroke="#000000" stroke-width="5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
-        <path d="M8.5,42.5 L71.5079346,42.5" id="Line-Copy" stroke="#000000" stroke-width="5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        <g sketch:type="MSLayerGroup" transform="translate(0.000000, 34.000000)">
+            <rect id="Rectangle-1" fill="#858585" sketch:type="MSShapeGroup" x="0" y="0" width="80" height="16"></rect>
+            <path d="M11,14 C14.3137085,14 17,11.3137085 17,8 C17,4.6862915 14.3137085,2 11,2 C7.6862915,2 5,4.6862915 5,8 C5,11.3137085 7.6862915,14 11,14 Z" id="Oval-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M69,14 C72.3137085,14 75,11.3137085 75,8 C75,4.6862915 72.3137085,2 69,2 C65.6862915,2 63,4.6862915 63,8 C63,11.3137085 65.6862915,14 69,14 Z" id="Oval-1-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M35,13 L35,2 L46,7.5 L35,13 Z" id="Triangle-1" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
     </g>
 </svg>

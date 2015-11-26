@@ -123,6 +123,31 @@
   &lt;/ul&gt;  
 &lt;/div&gt;
 
+&lt;h3 id=&#34;modellen-simulatie-catalogus:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Modellen/simulatie catalogus&lt;/h3&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di Index&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.svg&#34;&gt;simulation-home-catalog.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
 &lt;h3 id=&#34;kostenpagina:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kostenpagina&lt;/h3&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
@@ -242,31 +267,6 @@
     &lt;/li&gt;    
   &lt;/ul&gt;  
 &lt;/div&gt;
-
-&lt;h3 id=&#34;modellen-simulatie-catalogus:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Modellen/simulatie catalogus&lt;/h3&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di Index&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.svg&#34;&gt;simulation-home-catalog.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
 </description>
     </item>
     
@@ -299,6 +299,7 @@
             &lt;strong&gt;Contextmenu&lt;/strong&gt;
             &lt;li&gt;Bedoeld om een gelimiteerde en toepasselijke set opties aan de gebruiker aan te bieden&lt;/li&gt;
       &lt;li&gt;Opties zijn afhankelijk van de &#39;state&#39; van de applicatie&lt;/li&gt;
+      &lt;li&gt;Voorbeelden zijn bijv. het plaatsen van een nieuw object of het aanpassen/verwijderen van bestaande objecten&lt;/li&gt;
       &lt;li&gt;Het contextmenu verschijnt op een gefixeerde positie onder de muiscursor of touch event&lt;/li&gt;
       &lt;li&gt;Bevat alleen opties welke van toepassing zijn op de kaart zoals de dwarsprofielentool, polygonentool en scenario tools&lt;/li&gt;
         &lt;/ul&gt;
@@ -307,6 +308,35 @@
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
             &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.svg&#34;&gt;3di-model-loaded.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Object context informatie&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;Simulatie basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Contextmenu&lt;/strong&gt;
+            &lt;li&gt;Bedoeld om de status en eigenschappen van objecten te laten zien&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.svg&#34;&gt;simulation-model-playing-i.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -833,7 +863,7 @@
       <guid>/threedi-styleguide/guide/carto/lijnen/</guid>
       <description>
 
-&lt;h2 id=&#34;lijnen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnen&lt;/h2&gt;
+&lt;h2 id=&#34;lijnsymbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnsymbologie&lt;/h2&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -843,7 +873,7 @@
 &lt;th&gt;Status&lt;/th&gt;
 &lt;th&gt;Stroming&lt;/th&gt;
 &lt;th&gt;Onderscheid&lt;/th&gt;
-&lt;th&gt;Icoon&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -854,7 +884,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Oppervlaktewater&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -863,7 +893,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -872,7 +902,7 @@
 &lt;td&gt;staat aan/uit&lt;/td&gt;
 &lt;td&gt;debiet&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -881,7 +911,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -890,7 +920,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Oppervlaktewater&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -899,7 +929,7 @@
 &lt;td&gt;open/afgesloten&lt;/td&gt;
 &lt;td&gt;debiet + snelheid&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -908,7 +938,7 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;Oppervlaktewater&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -917,7 +947,7 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -926,7 +956,7 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -939,14 +969,46 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Channel&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;DWA Channel &lt;span class=&#34;badge pull-right&#34;&gt;Z14+&lt;/span&gt;&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Wordt gebruikt voor droogweerafvoerkanalen. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;RWA Channel &lt;span class=&#34;badge pull-right&#34;&gt;Z14+&lt;/span&gt;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Wordt gebruikt voor regenweerafvoer. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static-ii.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static-ii.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static-ii.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static-ii.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Mixed Channel &lt;span class=&#34;badge pull-right&#34;&gt;Z14+&lt;/span&gt;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Wordt gebruikt voor gemengde stelsels. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-combined-sewage.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-combined-sewage.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-combined-sewage.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-combined-sewage.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;    
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -958,12 +1020,31 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pipe&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pipe &lt;span class=&#34;badge pull-right&#34;&gt;Z15+&lt;/span&gt;&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;p&gt;Wordt gebruikt voor reguliere leidingen. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pressure pipe &lt;span class=&#34;badge pull-right&#34;&gt;Z15+&lt;/span&gt;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Wordt gebruikt voor drukleidingen. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pressure-pipe.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pressure-pipe.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pressure-pipe.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pressure-pipe.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -975,7 +1056,7 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pumpstation&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pumpstation I &lt;span class=&#34;badge pull-right&#34;&gt;Z14+&lt;/span&gt;&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
@@ -983,6 +1064,19 @@
       &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
       &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pumpstation II (Lizard) &lt;span class=&#34;badge pull-right&#34;&gt;Z15+&lt;/span&gt;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation-ii.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation-ii.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation-ii.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;    
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -994,7 +1088,7 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Weir&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Weir &lt;span class=&#34;badge pull-right&#34;&gt;Z16+&lt;/span&gt;&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
@@ -1013,7 +1107,7 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Culvert&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Culvert &lt;span class=&#34;badge pull-right&#34;&gt;Z16+&lt;/span&gt;&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
@@ -1032,7 +1126,7 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Orifice&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Orifice &lt;span class=&#34;badge pull-right&#34;&gt;Z17+&lt;/span&gt;&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
@@ -1051,10 +1145,15 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Levee&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Levee &lt;span class=&#34;badge pull-right&#34;&gt;Z14+&lt;/span&gt;&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1265,7 +1364,6 @@
 &lt;th&gt;Status&lt;/th&gt;
 &lt;th&gt;Stroming&lt;/th&gt;
 &lt;th&gt;Onderscheid&lt;/th&gt;
-&lt;th&gt;Icoon&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -1276,7 +1374,6 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;Opp of riolering&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -1285,16 +1382,14 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;#lateral1ds&#34;&gt;1D Lateral&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;#lateral1d&#34;&gt;1D Lateral&lt;/td&gt;
 &lt;td&gt;toggle visibility&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;geen&lt;/td&gt;
-&lt;td&gt;?&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -1303,19 +1398,40 @@
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;#breachlocation&#34;&gt;Breslocatie&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;kaartlaag&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Objecten op de kaart&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-iii.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-iii.svg&#34;&gt;simulation-playing-iii.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
 
 &lt;h2 id=&#34;a-name-manhole-a-manhole:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;manhole&#34;&gt;&lt;/a&gt;Manhole&lt;/h2&gt;
 
@@ -1347,7 +1463,11 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;1D Boundary&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-1d-boundary.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-1d-boundary.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-1d-boundary.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1362,7 +1482,11 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;1D Lateral&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-wind.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-floodfill.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1377,9 +1501,11 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Connection node&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1394,9 +1520,52 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-name-stoplight-a-stoplicht-indicator:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;stoplight&#34;&gt;&lt;/a&gt;Stoplicht indicator&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Stoplicht groen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-green.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-green.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-green.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Stoplicht oranje&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-orange.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-orange.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-orange.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Stoplicht rood&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-red.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-red.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-red.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>

@@ -3,11 +3,22 @@
     <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
     <title>icon-weir</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
     <g id="icon-weir" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g sketch:type="MSLayerGroup" transform="translate(24.000000, 1.000000)" id="Page-1" fill="#000000">
-            <g sketch:type="MSShapeGroup">
-                <path d="M2.84040179,0 L28.9327566,14.9037388 L28.9327566,62.0850069 L3.20033483,77.3270089 L0,72.2781809 L22.5027902,59.1308594 L22.5027902,18.5387204 L0.0474330357,5.71986606 L2.84040179,0 L2.84040179,0 Z" id="Path-1"></path>
+        <circle id="Oval-1" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" cx="41" cy="38" r="36"></circle>
+        <g id="icon-weir-copy" sketch:type="MSLayerGroup" transform="translate(31.714286, 14.545455)" fill="#000000">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <path d="M1.80752841,0 L18.4117542,9.48419744 L18.4117542,39.5086407 L2.03657671,49.2080965 L0,45.995206 L14.3199574,37.6287287 L14.3199574,11.7973675 L0.0301846591,3.63991476 L1.80752841,0 L1.80752841,0 Z" id="Path-1"></path>
             </g>
         </g>
     </g>

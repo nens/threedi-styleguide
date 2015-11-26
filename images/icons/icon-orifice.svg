@@ -3,11 +3,22 @@
     <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
     <title>icon-orifice</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
     <g id="icon-orifice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g sketch:type="MSLayerGroup" transform="translate(5.000000, 1.000000)" fill="#000000">
-            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="0" y="0" width="20.147723" height="78"></rect>
-            <path d="M55.4267932,39.0032766 L25.1683818,69.261688 L33.8163368,77.9096429 L64.0747481,47.6512316 L64.1181424,47.6946259 L72.7660974,39.0466709 L72.7227031,39.0032766 L72.7660974,38.9598824 L64.1181424,30.3119274 L64.0747481,30.3553217 L33.8163368,0.0969103486 L25.1683818,8.74486529 L55.4267932,39.0032766 Z" id="Rectangle-3" sketch:type="MSShapeGroup"></path>
+        <circle id="Oval-1" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" cx="40" cy="39" r="36"></circle>
+        <g id="icon-orifice-copy" sketch:type="MSLayerGroup" transform="translate(23.500000, 16.587500)" fill="#000000">
+            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="0" y="0" width="12.0950914" height="46.825"></rect>
+            <path d="M33.2738409,23.414467 L15.1090959,41.579212 L20.3006406,46.7707568 L38.4653857,28.6060118 L38.4914361,28.6320623 L43.6829809,23.4405175 L43.6569304,23.414467 L43.6829809,23.3884166 L38.4914361,18.1968718 L38.4653857,18.2229223 L20.3006406,0.0581772702 L15.1090959,5.24972202 L33.2738409,23.414467 Z" id="Rectangle-3" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

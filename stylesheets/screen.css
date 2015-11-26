@@ -9049,30 +9049,35 @@ blockquote p {
 }
 /* line 108, ../sass/modules/_guide.scss */
 .guide .icon-1x {
-  width: 10px;
-  height: 10px;
+  width: 15px;
+  height: 15px;
 }
 /* line 112, ../sass/modules/_guide.scss */
 .guide .icon-2x {
-  width: 20px;
-  height: 20px;
+  width: 25px;
+  height: 25px;
 }
 /* line 116, ../sass/modules/_guide.scss */
 .guide .icon-3x {
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
 }
-/* line 123, ../sass/modules/_guide.scss */
+/* line 120, ../sass/modules/_guide.scss */
+.guide .icon-xl {
+  width: 150px;
+  height: 150px;
+}
+/* line 127, ../sass/modules/_guide.scss */
 .guide .colorpalette ul.list-inline li {
   width: 150px;
 }
-/* line 128, ../sass/modules/_guide.scss */
+/* line 132, ../sass/modules/_guide.scss */
 .guide ul li.list-group-item ul li {
   list-style-type: disc;
   list-style-position: inside;
   margin: 5px 0 5px 0;
 }
-/* line 133, ../sass/modules/_guide.scss */
+/* line 137, ../sass/modules/_guide.scss */
 .guide ul li p {
   margin: 5px 0 5px 0;
   display: inline;

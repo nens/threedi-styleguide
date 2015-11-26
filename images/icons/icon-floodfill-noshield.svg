@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-floodfill-noshield</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-floodfill-noshield" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon-floodfill" sketch:type="MSLayerGroup" transform="translate(16.000000, 3.000000)" fill="#010101">
+            <path d="M23.5224609,-1.065625 C23.5224609,-1.065625 -0.31640625,34.075 -0.31640625,48.11875 C-0.31640625,62.1625 10.3564453,73.546875 23.5224609,73.546875 C36.6884766,73.546875 47.3613281,62.1625 47.3613281,48.11875 C47.3613281,34.075 23.5224609,-1.065625 23.5224609,-1.065625 L23.5224609,-1.065625 Z M8.0859375,37.428125 C8.0859375,37.428125 7.49707031,49.821875 20.0332031,66.2 C20.0332031,66.2 0.618164062,56.90625 8.0859375,37.428125 L8.0859375,37.428125 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
