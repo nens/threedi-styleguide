@@ -11,24 +11,44 @@ Symbologie
 3Di kan allerlei veelal hydrologische objecten op de kaart visualiseren, zoals bijvoorbeeld gemalen en putten. Deze objecten zijn specifiek ontworpen en bedoeld om de eigenschappen van een rekenmodel te kunnen tonen.
 
 
-
-
-
-
 Overzicht van symbolen
 -----------------------
 
-| Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       | Icoon                     |
-|-----------------	|---------------------	|-----------------	|-------------------	|------------------	|---------------------------|
-| <a href="#manhole">Manhole</a>         	| bevat zoom_category 	| -                	| -                 	| Opp of riolering 	| <img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /> |
-| <a href="#bound1d">1D Boundary</a>   	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
-| <a href="#lateral1ds">1D Lateral     	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
-| <a href="#connectionnode">Connection node</a> 	| toggle visibility   	| -                	| -                 	| -                	| <img src="../../../images/icons/icon-connection-node.svg" class="icon-2x" /> |
-| <a href="#breachlocation">Breslocatie</a>     	| -                    	| -                	| -                  	| -                	| <img src="../../../images/icons/icon-breach.svg" class="icon-2x" /> |
+| Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       |
+|-----------------	|---------------------	|-----------------	|-------------------	|------------------	|
+| <a href="#manhole">Manhole</a>         	| bevat zoom_category 	| -                	| -                 	| Opp of riolering 	|
+| <a href="#bound1d">1D Boundary</a>   	| toggle visibility   	| -                	| -                 	| geen             	|
+| <a href="#lateral1d">1D Lateral     	| toggle visibility   	| -                	| -                 	| geen             	|
+| <a href="#connectionnode">Connection node</a> 	| toggle visibility   	| -                	| -                 	| -                	|
+| <a href="#breachlocation">Breslocatie</a>     	| kaartlaag                    	| -                	| -                  	| -                	|
 
 
 
 
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Objecten op de kaart</h3>
+  </div>
+  <div class="panel-body">
+    <img src="/threedi-styleguide/images/ui/simulation-model-playing-iii.png" align="left" width="100%" ></a>
+  </div>
+  <ul class="list-group">
+    <li class="list-group-item">
+    	<ul>
+	    	<strong>Gebaseerd op</strong>
+			<li>3Di Basissjabloon</li>
+		</ul>
+    </li>
+    <li class="list-group-item">
+    	<ul>
+			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+			<li><a href="/threedi-styleguide/images/ui/simulation-model-playing-iii.svg">simulation-playing-iii.svg</a></li>
+		</ul>
+    </li>    
+  </ul>  
+</div>
 
 
 
@@ -65,7 +85,11 @@ Overzicht van symbolen
     <h3 class="panel-title">1D Boundary</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -79,7 +103,11 @@ Overzicht van symbolen
     <h3 class="panel-title">1D Lateral</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-wind.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -93,9 +121,11 @@ Overzicht van symbolen
     <h3 class="panel-title">Connection node</h3>
   </div>
   <div class="panel-body">
+  <ul class="list-group">
     <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-1x" /></li>
     <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-2x" /></li>
     <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -109,8 +139,52 @@ Overzicht van symbolen
     <h3 class="panel-title">Breach location</h3>
   </div>
   <div class="panel-body">
+  <ul class="list-group">
     <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-1x" /></li>
     <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-2x" /></li>
     <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
+
+## <a name="stoplight"></a>Stoplicht indicator
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Stoplicht groen</h3>
+  </div>
+  <div class="panel-body">
+  <ul class="list-group">
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Stoplicht oranje</h3>
+  </div>
+  <div class="panel-body">
+  <ul class="list-group">
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Stoplicht rood</h3>
+  </div>
+  <div class="panel-body">
+  <ul class="list-group">
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>

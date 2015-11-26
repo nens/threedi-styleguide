@@ -3,15 +3,26 @@
     <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
     <title>icon-levee-symbol</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icon-levee-point" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="icon-levee-symbol" sketch:type="MSLayerGroup" transform="translate(1.000000, 17.000000)">
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="icon-levee-symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <circle id="Oval-1" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" cx="41" cy="38" r="36"></circle>
+        <g sketch:type="MSLayerGroup" transform="translate(13.000000, 24.000000)">
             <g id="Path-5-+-Path-6-+-Path-7" fill="#000000" sketch:type="MSShapeGroup">
-                <path d="M0.154146614,18.9501078 L6.28766349,2.77990899 L37.2222769,28.9087081 L31.10118,45.962811 L0.154146614,18.9501078 Z" id="Path-5"></path>
-                <path d="M7.34452399,2.09995268 L21.590988,0.155207157 L52.7355761,26.7447486 L38.1316504,28.5015955 L7.34452399,2.09995268 Z" id="Path-6"></path>
-                <path d="M32.2026747,45.9678999 L38.1029293,29.4414775 L52.9443867,27.6705378 L61.1788165,43.0276858 L32.2026747,45.9678999 Z" id="Path-7"></path>
+                <path d="M0.108693125,13.1826837 L4.43360887,1.93384973 L26.2464773,20.1104056 L21.9303192,31.9741294 L0.108693125,13.1826837 Z" id="Path-5"></path>
+                <path d="M5.17883102,1.46083664 L15.2244146,0.107970196 L37.1853421,18.6050425 L26.8877022,19.8271969 L5.17883102,1.46083664 Z" id="Path-6"></path>
+                <path d="M22.7070142,31.9776695 L26.8674501,20.4810278 L37.3325804,19.2490697 L43.1389091,29.9323032 L22.7070142,31.9776695 Z" id="Path-7"></path>
             </g>
-            <path d="M58.5095489,33.8369993 L58.5095489,24.212376 L55.6277313,23.9699994 L66.9069906,13.9084467 L77.9623025,23.9840918 L75.3131447,23.9840918 L75.3131447,33.8993764 L68.2329208,33.8993764 L68.2329208,30.6614557 L65.2141111,30.6614557 L65.2141111,33.8147122" id="Path-8" fill="#231F20" sketch:type="MSShapeGroup"></path>
+            <path d="M41.2567332,23.5387821 L41.2567332,16.843392 L39.2246823,16.6747822 L47.1780062,9.67544116 L54.9734184,16.6845856 L53.1054226,16.6845856 L53.1054226,23.5821749 L48.112957,23.5821749 L48.112957,21.3297083 L45.9843091,21.3297083 L45.9843091,23.5232781" id="Path-8" fill="#231F20" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

@@ -3,10 +3,21 @@
     <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
     <title>icon-floodfill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
     <g id="icon-floodfill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g sketch:type="MSLayerGroup" transform="translate(16.000000, 3.000000)" id="Shape" fill="#010101">
-            <path d="M23.5224609,-1.065625 C23.5224609,-1.065625 -0.31640625,34.075 -0.31640625,48.11875 C-0.31640625,62.1625 10.3564453,73.546875 23.5224609,73.546875 C36.6884766,73.546875 47.3613281,62.1625 47.3613281,48.11875 C47.3613281,34.075 23.5224609,-1.065625 23.5224609,-1.065625 L23.5224609,-1.065625 Z M8.0859375,37.428125 C8.0859375,37.428125 7.49707031,49.821875 20.0332031,66.2 C20.0332031,66.2 0.618164062,56.90625 8.0859375,37.428125 L8.0859375,37.428125 Z" sketch:type="MSShapeGroup"></path>
+        <circle id="Oval-1" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" cx="40" cy="39" r="36"></circle>
+        <g id="icon-floodfill-copy" sketch:type="MSLayerGroup" transform="translate(21.937500, 12.500000)" fill="#010101">
+            <path d="M17.5634375,-0.795666667 C17.5634375,-0.795666667 -0.23625,25.4426667 -0.23625,35.9286667 C-0.23625,46.4146667 7.7328125,54.915 17.5634375,54.915 C27.3940625,54.915 35.363125,46.4146667 35.363125,35.9286667 C35.363125,25.4426667 17.5634375,-0.795666667 17.5634375,-0.795666667 L17.5634375,-0.795666667 Z M6.0375,27.9463333 C6.0375,27.9463333 5.5978125,37.2003333 14.958125,49.4293333 C14.958125,49.4293333 0.4615625,42.49 6.0375,27.9463333 L6.0375,27.9463333 Z" id="Shape" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

@@ -55,7 +55,7 @@
 
 	<span class="truncate block small strong spacing">User Interface</span>
 	
-	<a href="/threedi-styleguide/guide/ui/modals/" class="truncate block small ">Modals</a>
+	<a href="/threedi-styleguide/guide/ui/beheerpaginas/" class="truncate block small ">Beheerpagina's</a>
 	<a href="/threedi-styleguide/guide/ui/navigatie/" class="truncate block small ">Navigatie</a>
 	<a href="/threedi-styleguide/guide/ui/modelcontrols/" class="truncate block small ">Model controls</a>
 	<a href="/threedi-styleguide/guide/ui/kaartcontrols/" class="truncate block small ">Kaart controls</a>
@@ -63,7 +63,7 @@
 	<a href="/threedi-styleguide/guide/ui/indicators/" class="truncate block small ">Voortgangindicatie</a>
 	<a href="/threedi-styleguide/guide/ui/contextmenu/" class="truncate block small ">Contextmenu's</a>
 	<a href="/threedi-styleguide/guide/ui/grafieken/" class="truncate block small ">Grafieken</a>
-	<a href="/threedi-styleguide/guide/ui/beheerpaginas/" class="truncate block small ">Beheerpagina's</a>
+	<a href="/threedi-styleguide/guide/ui/modals/" class="truncate block small ">Modals</a>
 
 	<span class="truncate block small strong spacing">Grafisch</span>
 	
@@ -96,7 +96,6 @@
 <th>Status</th>
 <th>Stroming</th>
 <th>Onderscheid</th>
-<th>Icoon</th>
 </tr>
 </thead>
 
@@ -107,7 +106,6 @@
 <td>-</td>
 <td>-</td>
 <td>Opp of riolering</td>
-<td><img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /></td>
 </tr>
 
 <tr>
@@ -116,16 +114,14 @@
 <td>-</td>
 <td>-</td>
 <td>geen</td>
-<td>?</td>
 </tr>
 
 <tr>
-<td><a href="#lateral1ds">1D Lateral</td>
+<td><a href="#lateral1d">1D Lateral</td>
 <td>toggle visibility</td>
 <td>-</td>
 <td>-</td>
 <td>geen</td>
-<td>?</td>
 </tr>
 
 <tr>
@@ -134,19 +130,40 @@
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td><img src="../../../images/icons/icon-connection-node.svg" class="icon-2x" /></td>
 </tr>
 
 <tr>
 <td><a href="#breachlocation">Breslocatie</a></td>
+<td>kaartlaag</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
-<td><img src="../../../images/icons/icon-breach.svg" class="icon-2x" /></td>
 </tr>
 </tbody>
 </table>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Objecten op de kaart</h3>
+  </div>
+  <div class="panel-body">
+    <img src="/threedi-styleguide/images/ui/simulation-model-playing-iii.png" align="left" width="100%" ></a>
+  </div>
+  <ul class="list-group">
+    <li class="list-group-item">
+        <ul>
+            <strong>Gebaseerd op</strong>
+            <li>3Di Basissjabloon</li>
+        </ul>
+    </li>
+    <li class="list-group-item">
+        <ul>
+            <strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+            <li><a href="/threedi-styleguide/images/ui/simulation-model-playing-iii.svg">simulation-playing-iii.svg</a></li>
+        </ul>
+    </li>    
+  </ul>  
+</div>
 
 <h2 id="a-name-manhole-a-manhole:d680e8a854a7cbad6d490c445cba2eba"><a name="manhole"></a>Manhole</h2>
 
@@ -178,7 +195,11 @@
     <h3 class="panel-title">1D Boundary</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -193,7 +214,11 @@
     <h3 class="panel-title">1D Lateral</h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-wind.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -208,9 +233,11 @@
     <h3 class="panel-title">Connection node</h3>
   </div>
   <div class="panel-body">
+  <ul class="list-group">
     <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-1x" /></li>
     <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-2x" /></li>
     <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 
@@ -225,9 +252,52 @@
     <h3 class="panel-title">Breach location</h3>
   </div>
   <div class="panel-body">
+  <ul class="list-group">
     <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-1x" /></li>
     <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-2x" /></li>
     <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
+<h2 id="a-name-stoplight-a-stoplicht-indicator:d680e8a854a7cbad6d490c445cba2eba"><a name="stoplight"></a>Stoplicht indicator</h2>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Stoplicht groen</h3>
+  </div>
+  <div class="panel-body">
+  <ul class="list-group">
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Stoplicht oranje</h3>
+  </div>
+  <div class="panel-body">
+  <ul class="list-group">
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-3x" /></li>
+    </ul>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Stoplicht rood</h3>
+  </div>
+  <div class="panel-body">
+  <ul class="list-group">
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-3x" /></li>
+    </ul>
   </div>
 </div>
 

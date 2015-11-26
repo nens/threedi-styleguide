@@ -115,6 +115,37 @@ Beheerpagina's
 </div>
 
 
+
+
+
+### Modellen/simulatie catalogus
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">3Di Index</h3>
+  </div>
+  <div class="panel-body">
+    <img src="/threedi-styleguide/images/ui/simulation-home-catalog.png" align="left" width="100%" ></a>
+  </div>
+  <ul class="list-group">
+    <li class="list-group-item">
+    	<ul>
+	    	<strong>Gebaseerd op</strong>
+			<li>3Di Basissjabloon</li>
+		</ul>
+    </li>
+    <li class="list-group-item">
+    	<ul>
+			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
+			<li><a href="/threedi-styleguide/images/ui/simulation-home-catalog.svg">simulation-home-catalog.svg</a></li>
+		</ul>
+    </li>    
+  </ul>  
+</div>
+
+
+
 ### Kostenpagina
 
 
@@ -238,38 +269,6 @@ Beheerpagina's
     	<ul>
 			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
 			<li><a href="/threedi-styleguide/images/ui/beheer-verbruik.svg">beheer-verbruik.svg</a></li>
-		</ul>
-    </li>    
-  </ul>  
-</div>
-
-
-
-
-
-
-
-### Modellen/simulatie catalogus
-
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">3Di Index</h3>
-  </div>
-  <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/simulation-home-catalog.png" align="left" width="100%" ></a>
-  </div>
-  <ul class="list-group">
-    <li class="list-group-item">
-    	<ul>
-	    	<strong>Gebaseerd op</strong>
-			<li>3Di Basissjabloon</li>
-		</ul>
-    </li>
-    <li class="list-group-item">
-    	<ul>
-			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/ui/simulation-home-catalog.svg">simulation-home-catalog.svg</a></li>
 		</ul>
     </li>    
   </ul>  

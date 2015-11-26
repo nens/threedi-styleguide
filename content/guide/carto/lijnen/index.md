@@ -5,21 +5,22 @@ title = "Lijnen"
 
 +++
 
-Lijnen
--------
+Lijnsymbologie
+--------------
 
 
-| Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       | Icoon                     |
+
+| Naam / Klasse     | Zichtbaarheid         | Status            | Stroming              | Onderscheid       | |
 |-----------------	|---------------------	|-----------------	|-------------------	|------------------	|---------------------------|
-| <a href="#channel">Channel</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-channel.svg" class="icon-2x" /> |
-| <a href="#pipe">Pipe</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	| <img src="../../../images/icons/icon-pipe.svg" class="icon-2x" /> |
-| <a href="#pumpstation">Pumpstation</a>     	| bevat zoom_category 	| staat aan/uit   	| debiet            	| Opp of riolering 	| <img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /> |
-| <a href="#weir">Weir</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-weir.svg" class="icon-2x" /> |
-| <a href="#culvert">Culvert</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /> |
-| <a href="#orifice">Orifice</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	| <img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /> |
-| <a href="#levee">Levee</a>           	| toggle visibility   	| -                	| -                 	| Oppervlaktewater 	| <img src="../../../images/icons/icon-levee-line.svg" class="icon-2x" /> |
-| <a href="#obstacle">Obstacle</a>        	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
-| <a href="#bound2d">2D Boundary</a>    	| toggle visibility   	| -                	| -                 	| geen             	| ?                         |
+| <a href="#channel">Channel</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	|
+| <a href="#pipe">Pipe</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Riolering        	|
+| <a href="#pumpstation">Pumpstation</a>     	| bevat zoom_category 	| staat aan/uit   	| debiet            	| Opp of riolering 	|
+| <a href="#weir">Weir</a>            	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	|
+| <a href="#culvert">Culvert</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Oppervlaktewater 	|
+| <a href="#orifice">Orifice</a>         	| bevat zoom_category 	| open/afgesloten 	| debiet + snelheid 	| Opp of riolering 	|
+| <a href="#levee">Levee</a>           	| toggle visibility   	| -                	| -                 	| Oppervlaktewater 	|
+| <a href="#obstacle">Obstacle</a>        	| toggle visibility   	| -                	| -                 	| geen             	|
+| <a href="#bound2d">2D Boundary</a>    	| toggle visibility   	| -                	| -                 	| geen             	|
 
 
 
@@ -29,17 +30,48 @@ Lijnen
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Channel</h3>
+    <h3 class="panel-title">DWA Channel <span class="badge pull-right">Z14+</span></h3>
   </div>
   <div class="panel-body">
+    <p>Wordt gebruikt voor droogweerafvoerkanalen. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static.svg" class="icon-xl" /></li>
     </ul>
   </div>
 </div>
 
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">RWA Channel <span class="badge pull-right">Z14+</span></h3>
+  </div>
+  <div class="panel-body">
+    <p>Wordt gebruikt voor regenweerafvoer. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static-ii.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static-ii.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static-ii.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static-ii.svg" class="icon-xl" /></li>
+    </ul>    
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Mixed Channel <span class="badge pull-right">Z14+</span></h3>
+  </div>
+  <div class="panel-body">
+    <p>Wordt gebruikt voor gemengde stelsels. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-combined-sewage.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-combined-sewage.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-combined-sewage.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-combined-sewage.svg" class="icon-xl" /></li>
+    </ul>    
+  </div>
+</div>
 
 ## <a name="pipe"></a>Pipe
 
@@ -47,12 +79,31 @@ Lijnen
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Pipe</h3>
+    <h3 class="panel-title">Pipe <span class="badge pull-right">Z15+</span></h3>
   </div>
   <div class="panel-body">
-    <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-1x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-2x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-3x" /></li>
+    <p>Wordt gebruikt voor reguliere leidingen. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-xl" /></li>
+    </ul>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Pressure pipe <span class="badge pull-right">Z15+</span></h3>
+  </div>
+  <div class="panel-body">
+    <p>Wordt gebruikt voor drukleidingen. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-pressure-pipe.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pressure-pipe.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pressure-pipe.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pressure-pipe.svg" class="icon-xl" /></li>
+    </ul>
   </div>
 </div>
 
@@ -63,7 +114,7 @@ Lijnen
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Pumpstation</h3>
+    <h3 class="panel-title">Pumpstation I <span class="badge pull-right">Z14+</span></h3>
   </div>
   <div class="panel-body">
     <ul class="list-group">
@@ -74,6 +125,19 @@ Lijnen
   </div>
 </div>
 
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Pumpstation II (Lizard) <span class="badge pull-right">Z15+</span></h3>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation-ii.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation-ii.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation-ii.svg" class="icon-3x" /></li>
+    </ul>    
+  </div>
+</div>
+
 
 ## <a name="weir"></a>Weir
 
@@ -81,7 +145,7 @@ Lijnen
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Weir</h3>
+    <h3 class="panel-title">Weir <span class="badge pull-right">Z16+</span></h3>
   </div>
   <div class="panel-body">
     <ul class="list-group">
@@ -99,7 +163,7 @@ Lijnen
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Culvert</h3>
+    <h3 class="panel-title">Culvert <span class="badge pull-right">Z16+</span></h3>
   </div>
   <div class="panel-body">
     <ul class="list-group">
@@ -117,7 +181,7 @@ Lijnen
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Orifice</h3>
+    <h3 class="panel-title">Orifice <span class="badge pull-right">Z17+</span></h3>
   </div>
   <div class="panel-body">
     <ul class="list-group">
@@ -136,10 +200,15 @@ Lijnen
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Levee</h3>
+    <h3 class="panel-title">Levee <span class="badge pull-right">Z14+</span></h3>
   </div>
   <div class="panel-body">
-    Icoon en gebruik hier
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-levee-line.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-levee-line.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-levee-line.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-levee-line.svg" class="icon-xl" /></li>
+    </ul>
   </div>
 </div>
 

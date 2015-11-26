@@ -3,15 +3,28 @@
     <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
     <title>icon-culvert</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
     <g id="icon-culvert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g sketch:type="MSLayerGroup" transform="translate(12.500000, 26.621622)" id="Page-1" fill="#000000">
-            <g sketch:type="MSShapeGroup">
-                <g id="Group">
-                    <path d="M3.59137457,0.764655036 L16.0062223,13.4378959 L3.49447715,25.9819402 L0.984216639,23.3704273 L10.7995276,13.4542269 L0.902924409,3.50137247 L3.59137457,0.764655036 L3.59137457,0.764655036 Z" id="Path-1"></path>
-                    <path d="M41.5214592,0.764655036 L53.9363068,13.4378959 L41.4245617,25.9819402 L38.9143012,23.3704273 L48.7296122,13.4542269 L38.8330089,3.50137247 L41.5214592,0.764655036 L41.5214592,0.764655036 Z" id="Path-1" transform="translate(46.384658, 13.373298) scale(-1, 1) translate(-46.384658, -13.373298) "></path>
-                    <path d="M18.4068834,9.14646458 L26.0269412,9.14646458 L26.0269412,17.7690021 L18.4185503,17.7690021 L18.4068834,9.14646458 L18.4068834,9.14646458 Z" id="Path-2"></path>
-                    <path d="M28.8122889,9.14646458 L36.4323466,9.14646458 L36.4323466,17.7690021 L28.8239557,17.7690021 L28.8122889,9.14646458 L28.8122889,9.14646458 Z" id="Path-2"></path>
+        <g id="Oval-1-+-icon-culvert" sketch:type="MSLayerGroup" transform="translate(4.000000, 2.000000)">
+            <circle id="Oval-1" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" cx="36" cy="36" r="36"></circle>
+            <g id="icon-culvert" transform="translate(14.000000, 24.810811)" fill="#000000" sketch:type="MSShapeGroup">
+                <g id="Page-1">
+                    <g id="Group">
+                        <path d="M3.0036951,0.639529667 L13.3870223,11.2389675 L2.92265361,21.73035 L0.823163007,19.5461755 L9.03233214,11.2526262 L0.755173142,2.92842061 L3.0036951,0.639529667 L3.0036951,0.639529667 Z" id="Path-1"></path>
+                        <path d="M34.7270386,0.639529667 L45.1103657,11.2389675 L34.645997,21.73035 L32.5465064,19.5461755 L40.7556756,11.2526262 L32.4785166,2.92842061 L34.7270386,0.639529667 L34.7270386,0.639529667 Z" id="Path-1" transform="translate(38.794441, 11.184940) scale(-1, 1) translate(-38.794441, -11.184940) "></path>
+                        <path d="M15.394848,7.64977037 L21.7679872,7.64977037 L21.7679872,14.8613472 L15.4046057,14.8613472 L15.394848,7.64977037 L15.394848,7.64977037 Z" id="Path-2"></path>
+                        <path d="M24.0975507,7.64977037 L30.4706899,7.64977037 L30.4706899,14.8613472 L24.1073084,14.8613472 L24.0975507,7.64977037 L24.0975507,7.64977037 Z" id="Path-2"></path>
+                    </g>
                 </g>
             </g>
         </g>

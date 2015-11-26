@@ -5,6 +5,26 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="icon-levee-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <path d="M8.5,39.5 L71.5,39.5" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7" sketch:type="MSShapeGroup"></path>
+        <g sketch:type="MSLayerGroup" transform="translate(0.000000, 24.000000)">
+            <rect id="Rectangle-1" fill="#D8D8D8" sketch:type="MSShapeGroup" x="0" y="12" width="80" height="12"></rect>
+            <rect id="Rectangle-1-Copy" fill="#C89700" sketch:type="MSShapeGroup" x="0" y="0" width="80" height="12"></rect>
+            <rect id="Rectangle-1-Copy-2" fill="#C89700" sketch:type="MSShapeGroup" x="0" y="24" width="80" height="12"></rect>
+            <path d="M6,2.5 L6,9.5" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M16,2.5 L16,9.5" id="Line-Copy" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M26,2.5 L26,9.5" id="Line-Copy-2" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M36,2.5 L36,9.5" id="Line-Copy-3" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M46,2.5 L46,9.5" id="Line-Copy-4" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M56,2.5 L56,9.5" id="Line-Copy-5" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M66,2.5 L66,9.5" id="Line-Copy-6" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M6,26.5 L6,33.5" id="Line-Copy-13" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M16,26.5 L16,33.5" id="Line-Copy-7" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M26,26.5 L26,33.5" id="Line-Copy-8" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M36,26.5 L36,33.5" id="Line-Copy-9" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M46,26.5 L46,33.5" id="Line-Copy-10" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M56,26.5 L56,33.5" id="Line-Copy-11" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M66,26.5 L66,33.5" id="Line-Copy-12" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M75,2.5 L75,9.5" id="Line-Copy-15" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M75,26.5 L75,33.5" id="Line-Copy-14" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        </g>
     </g>
 </svg>
