@@ -1168,7 +1168,12 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Obstacle&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1183,7 +1188,12 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;2D Boundary&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -1227,6 +1237,34 @@
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Model controls&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/modelcontrols.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gedrag&lt;/strong&gt;
+      &lt;li&gt;Onclick van tijdsindicatie: toggle slide up/down&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Animatie&lt;/strong&gt;
+      &lt;li&gt;De status van het model (loading, error, success) scrollt voorbij in de ruimte rechts naast de tijdsindicatie&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Iconen&lt;/strong&gt;
+      &lt;li&gt;Met het gekleurde cirkeltje wordt symbolisch weergegeven of het model draait (groen), laadt (grijs knipperend) of gepauseerd is (oranje)&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
 &lt;/div&gt;
 </description>
     </item>
@@ -1303,10 +1341,10 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Settings (Pi menu)&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    Komt nog...
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
