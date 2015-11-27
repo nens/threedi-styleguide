@@ -74,9 +74,9 @@ Navigatie
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Pi menu</h3>
+    <h3 class="panel-title">Settings (Pi menu)</h3>
   </div>
   <div class="panel-body">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    Komt nog...
   </div>
 </div>

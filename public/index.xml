@@ -10,6 +10,58 @@
     <atom:link href="/threedi-styleguide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Legenda</title>
+      <link>/threedi-styleguide/guide/carto/legenda/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
+      <description>
+
+&lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Legenda&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/legenda.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gedrag&lt;/strong&gt;
+      &lt;li&gt;Onclick van Legenda icon zet legenda aan of uit (toggle)&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Layout&lt;/strong&gt;
+      &lt;li&gt;Legenda labels in kapitalen&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Kleuren&lt;/strong&gt;
+      &lt;li&gt;Kleuren worden weergegeven als &amp;#8960;14px cirkels met een #979797 stroke&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Iconen&lt;/strong&gt;
+      &lt;li&gt;Iconen worden weergegeven als max 20x20 px afbeelding of SVG (voorkeur)&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Volgorde&lt;/strong&gt;
+      &lt;li&gt;Iconen verschijnen na de kleuren&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Objecten</title>
       <link>/threedi-styleguide/guide/carto/objecten/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -233,6 +285,29 @@
     &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-red.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-red.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vlakken</title>
+      <link>/threedi-styleguide/guide/carto/vlakken/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
+      <description>
+
+&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
+
+&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Impervious surface&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Komt nog...
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -551,7 +626,12 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Obstacle&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -566,83 +646,149 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;2D Boundary&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Icoon en gebruik hier
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Legenda</title>
-      <link>/threedi-styleguide/guide/carto/legenda/</link>
+      <title>Grafieken</title>
+      <link>/threedi-styleguide/guide/ui/grafieken/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
+      <guid>/threedi-styleguide/guide/ui/grafieken/</guid>
       <description>
 
-&lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
+&lt;h2 id=&#34;grafieken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafieken&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Legenda&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Dwarsprofiel&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/legenda.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
-            &lt;strong&gt;Gedrag&lt;/strong&gt;
-      &lt;li&gt;Onclick van Legenda icon zet legenda aan of uit (toggle)&lt;/li&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
         &lt;/ul&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Layout&lt;/strong&gt;
-      &lt;li&gt;Legenda labels in kapitalen&lt;/li&gt;
-        &lt;/ul&gt;    
     &lt;/li&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
-            &lt;strong&gt;Kleuren&lt;/strong&gt;
-      &lt;li&gt;Kleuren worden weergegeven als &amp;#8960;14px cirkels met een #979797 stroke&lt;/li&gt;
-        &lt;/ul&gt;    
-    &lt;/li&gt;    
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Iconen&lt;/strong&gt;
-      &lt;li&gt;Iconen worden weergegeven als max 20x20 px afbeelding of SVG (voorkeur)&lt;/li&gt;
-        &lt;/ul&gt;    
-    &lt;/li&gt;    
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Volgorde&lt;/strong&gt;
-      &lt;li&gt;Iconen verschijnen na de kleuren&lt;/li&gt;
-        &lt;/ul&gt;    
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.svg&#34;&gt;simulation-profiletool.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Waterstand&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Grondwaterstand&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Waterdiepte&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Vlakken</title>
-      <link>/threedi-styleguide/guide/carto/vlakken/</link>
+      <title>Contextmenu</title>
+      <link>/threedi-styleguide/guide/ui/contextmenu/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
+      <guid>/threedi-styleguide/guide/ui/contextmenu/</guid>
       <description>
 
-&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
-
-&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
+&lt;h2 id=&#34;contextmenu:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contextmenu&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Impervious surface&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Contextmenu&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam praesentium, dolorem est repellendus, ratione unde sunt iure totam expedita quis culpa numquam laboriosam magnam harum repudiandae aperiam doloribus officia ex.
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;Simulatie basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Contextmenu&lt;/strong&gt;
+            &lt;li&gt;Bedoeld om een gelimiteerde en toepasselijke set opties aan de gebruiker aan te bieden&lt;/li&gt;
+      &lt;li&gt;Opties zijn afhankelijk van de &#39;state&#39; van de applicatie&lt;/li&gt;
+      &lt;li&gt;Voorbeelden zijn bijv. het plaatsen van een nieuw object of het aanpassen/verwijderen van bestaande objecten&lt;/li&gt;
+      &lt;li&gt;Het contextmenu verschijnt op een gefixeerde positie onder de muiscursor of touch event&lt;/li&gt;
+      &lt;li&gt;Bevat alleen opties welke van toepassing zijn op de kaart zoals de dwarsprofielentool, polygonentool en scenario tools&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.svg&#34;&gt;3di-model-loaded.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Object context informatie&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;Simulatie basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Contextmenu&lt;/strong&gt;
+            &lt;li&gt;Bedoeld om de status en eigenschappen van objecten te laten zien&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.svg&#34;&gt;simulation-model-playing-i.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
 &lt;/div&gt;
 </description>
     </item>
@@ -909,68 +1055,6 @@
     </item>
     
     <item>
-      <title>Grafieken</title>
-      <link>/threedi-styleguide/guide/ui/grafieken/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/grafieken/</guid>
-      <description>
-
-&lt;h2 id=&#34;grafieken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafieken&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Dwarsprofiel&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.svg&#34;&gt;simulation-profiletool.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Waterstand&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Grondwaterstand&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Waterdiepte&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Indicators</title>
       <link>/threedi-styleguide/guide/ui/indicators/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -988,80 +1072,6 @@
     &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
     &lt;img src=&#34;../../../images/screenshots/booting-machine-indicator.jpg&#34; class=&#34;img-rounded img-responsive&#34; /&gt;
   &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contextmenu</title>
-      <link>/threedi-styleguide/guide/ui/contextmenu/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/contextmenu/</guid>
-      <description>
-
-&lt;h2 id=&#34;contextmenu:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contextmenu&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Contextmenu&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;Simulatie basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Contextmenu&lt;/strong&gt;
-            &lt;li&gt;Bedoeld om een gelimiteerde en toepasselijke set opties aan de gebruiker aan te bieden&lt;/li&gt;
-      &lt;li&gt;Opties zijn afhankelijk van de &#39;state&#39; van de applicatie&lt;/li&gt;
-      &lt;li&gt;Voorbeelden zijn bijv. het plaatsen van een nieuw object of het aanpassen/verwijderen van bestaande objecten&lt;/li&gt;
-      &lt;li&gt;Het contextmenu verschijnt op een gefixeerde positie onder de muiscursor of touch event&lt;/li&gt;
-      &lt;li&gt;Bevat alleen opties welke van toepassing zijn op de kaart zoals de dwarsprofielentool, polygonentool en scenario tools&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.svg&#34;&gt;3di-model-loaded.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Object context informatie&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;Simulatie basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Contextmenu&lt;/strong&gt;
-            &lt;li&gt;Bedoeld om de status en eigenschappen van objecten te laten zien&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.svg&#34;&gt;simulation-model-playing-i.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
 &lt;/div&gt;
 </description>
     </item>
@@ -1181,27 +1191,6 @@
     </item>
     
     <item>
-      <title>Modelcontrols</title>
-      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
-      <description>
-
-&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Notificaties</title>
       <link>/threedi-styleguide/guide/ui/notificaties/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
@@ -1303,11 +1292,60 @@
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Pi menu&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Settings (Pi menu)&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Komt nog...
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelcontrols</title>
+      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
+      <description>
+
+&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Model controls&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/modelcontrols.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gedrag&lt;/strong&gt;
+      &lt;li&gt;Onclick van tijdsindicatie: toggle slide up/down&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Animatie&lt;/strong&gt;
+      &lt;li&gt;De status van het model (loading, error, success) scrollt voorbij in de ruimte rechts naast de tijdsindicatie&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Iconen&lt;/strong&gt;
+      &lt;li&gt;Met het gekleurde cirkeltje wordt symbolisch weergegeven of het model draait (groen), laadt (grijs knipperend) of gepauseerd is (oranje)&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
 &lt;/div&gt;
 </description>
     </item>
@@ -1358,27 +1396,6 @@
       &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
       &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Logo</title>
-      <link>/threedi-styleguide/guide/visual/logo/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/visual/logo/</guid>
-      <description>
-
-&lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di logo richtlijnen&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -1589,6 +1606,27 @@
 
 
     &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Logo</title>
+      <link>/threedi-styleguide/guide/visual/logo/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>/threedi-styleguide/guide/visual/logo/</guid>
+      <description>
+
+&lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;3Di logo richtlijnen&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
