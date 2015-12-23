@@ -32,7 +32,7 @@ Overzicht van symbolen
     <h3 class="panel-title">Objecten op de kaart</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/simulation-model-playing-iii.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3di - 8 - Omnibox.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -62,9 +62,9 @@ Overzicht van symbolen
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-manhole.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-manhole.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-manhole.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-manhole.png" class="icon-3x" /></li>
     </ul>
   </div>
 </div>
@@ -86,9 +86,9 @@ Overzicht van symbolen
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-1d-boundary.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-1d-boundary.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-1d-boundary.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-1d-boundary.png" class="icon-3x" /></li>
     </ul>
   </div>
 </div>
@@ -104,9 +104,7 @@ Overzicht van symbolen
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-wind.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-floodfill.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-cloud.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-lateral.png" class="icon-3x" /></li>
     </ul>
   </div>
 </div>
@@ -122,9 +120,9 @@ Overzicht van symbolen
   </div>
   <div class="panel-body">
   <ul class="list-group">
-    <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-1x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-2x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-connection-node.svg" class="icon-3x" /></li>
+    <li class="list-group-item"><img src="../../../images/ui/icon-connection-node.png" class="icon-1x" /></li>
+    <li class="list-group-item"><img src="../../../images/ui/icon-connection-node.png" class="icon-2x" /></li>
+    <li class="list-group-item"><img src="../../../images/ui/icon-connection-node.png" class="icon-3x" /></li>
     </ul>
   </div>
 </div>
@@ -139,52 +137,19 @@ Overzicht van symbolen
     <h3 class="panel-title">Breach location</h3>
   </div>
   <div class="panel-body">
-  <ul class="list-group">
-    <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-1x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-2x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-3x" /></li>
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/icons/icon-breach.svg" class="icon-3x" /></li>
     </ul>
-  </div>
-</div>
-
-
-## <a name="stoplight"></a>Stoplicht indicator
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Stoplicht groen</h3>
   </div>
   <div class="panel-body">
-  <ul class="list-group">
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-1x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-2x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-green.svg" class="icon-3x" /></li>
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/ui/icon-breach-ii.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-breach-ii.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-breach-ii.png" class="icon-3x" /></li>
     </ul>
-  </div>
+  </div>  
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Stoplicht oranje</h3>
-  </div>
-  <div class="panel-body">
-  <ul class="list-group">
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-1x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-2x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-orange.svg" class="icon-3x" /></li>
-    </ul>
-  </div>
-</div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Stoplicht rood</h3>
-  </div>
-  <div class="panel-body">
-  <ul class="list-group">
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-1x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-2x" /></li>
-    <li class="list-group-item"><img src="../../../images/icons/icon-stoplight-red.svg" class="icon-3x" /></li>
-    </ul>
-  </div>
-</div>

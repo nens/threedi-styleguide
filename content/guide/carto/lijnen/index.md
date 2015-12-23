@@ -35,10 +35,7 @@ Lijnsymbologie
   <div class="panel-body">
     <p>Wordt gebruikt voor droogweerafvoerkanalen. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static.svg" class="icon-xl" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/linestyle-dwa.png" /></li>
     </ul>
   </div>
 </div>
@@ -50,10 +47,7 @@ Lijnsymbologie
   <div class="panel-body">
     <p>Wordt gebruikt voor regenweerafvoer. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static-ii.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static-ii.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static-ii.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-channel-static-ii.svg" class="icon-xl" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/linestyle-rwa.png" /></li>
     </ul>    
   </div>
 </div>
@@ -65,10 +59,7 @@ Lijnsymbologie
   <div class="panel-body">
     <p>Wordt gebruikt voor gemengde stelsels. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-combined-sewage.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-combined-sewage.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-combined-sewage.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-combined-sewage.svg" class="icon-xl" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/linestyle-mixed.png" /></li>
     </ul>    
   </div>
 </div>
@@ -84,10 +75,7 @@ Lijnsymbologie
   <div class="panel-body">
     <p>Wordt gebruikt voor reguliere leidingen. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pipe.svg" class="icon-xl" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/linestyle-pipe.png" /></li>
     </ul>
   </div>
 </div>
@@ -99,10 +87,7 @@ Lijnsymbologie
   <div class="panel-body">
     <p>Wordt gebruikt voor drukleidingen. Geeft richting aan met driehoeken en/of bolletjesanimatie.</p>
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-pressure-pipe.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pressure-pipe.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pressure-pipe.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pressure-pipe.svg" class="icon-xl" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/linestyle-pressure-pipe.png" /></li>
     </ul>
   </div>
 </div>
@@ -118,9 +103,9 @@ Lijnsymbologie
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-pumpstation.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-pumpstation.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-pumpstation.png" class="icon-3x" /></li>
     </ul>
   </div>
 </div>
@@ -131,9 +116,9 @@ Lijnsymbologie
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation-ii.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation-ii.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-pumpstation-ii.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-pumpstation-ii.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-pumpstation-ii.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-pumpstation-ii.png" class="icon-3x" /></li>
     </ul>    
   </div>
 </div>
@@ -149,9 +134,9 @@ Lijnsymbologie
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-weir.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-weir.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-weir.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-weir.png" class="icon-3x" /></li>
     </ul>
   </div>
 </div>
@@ -167,9 +152,9 @@ Lijnsymbologie
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-culvert.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-culvert.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-culvert.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-culvert.png" class="icon-3x" /></li>
     </ul>
   </div>
 </div>
@@ -185,11 +170,18 @@ Lijnsymbologie
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-orifice.svg" class="icon-3x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-orifice.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-orifice.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-orifice.png" class="icon-3x" /></li>
     </ul>
   </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item"><img src="../../../images/ui/icon-orifice-ii.png" class="icon-1x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-orifice-ii.png" class="icon-2x" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/icon-orifice-ii.png" class="icon-3x" /></li>
+    </ul>
+  </div>  
 </div>
 
 
@@ -204,10 +196,7 @@ Lijnsymbologie
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-levee-line.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-levee-line.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-levee-line.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-levee-line.svg" class="icon-xl" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/linestyle-levee.png" /></li>
     </ul>
   </div>
 </div>
@@ -222,10 +211,7 @@ Lijnsymbologie
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-obstacle.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-obstacle.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-obstacle.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-obstacle.svg" class="icon-xl" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/linestyle-obstacle.png" /></li>
     </ul>
   </div>
 </div>
@@ -241,10 +227,7 @@ Lijnsymbologie
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      <li class="list-group-item"><img src="../../../images/icons/icon-2d-boundary.svg" class="icon-1x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-2d-boundary.svg" class="icon-2x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-2d-boundary.svg" class="icon-3x" /></li>
-      <li class="list-group-item"><img src="../../../images/icons/icon-2d-boundary.svg" class="icon-xl" /></li>
+      <li class="list-group-item"><img src="../../../images/ui/linestyle-2d-boundary.png" /></li>
     </ul>
   </div>
 </div>

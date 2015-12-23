@@ -17,7 +17,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Basissjabloon</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/beheer-base@1x.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3Di - 6 - Managementpage.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -146,39 +146,6 @@ Beheerpagina's
 
 
 
-### Kostenpagina
-
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">3Di beheerpagina - Kosten</h3>
-  </div>
-  <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/beheer-kostenoverzicht@1x.png" align="left" width="100%" ></a>
-  </div>
-  <ul class="list-group">
-    <li class="list-group-item">
-    	<ul>
-	    	<strong>Gebaseerd op</strong>
-			<li>3Di Basissjabloon</li>
-		</ul>
-    </li>
-  </ul>
-  <ul class="list-group">
-    <li class="list-group-item">
-      <ul>
-        <strong>Extra kleuren</strong>
-      <li>Lichtgroen (#8CB18C)</li>
-    </ul>
-    </li>
-    <li class="list-group-item">
-    	<ul>
-			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/ui/beheer-kostenoverzicht.svg">beheer-kostenoverzicht.svg</a></li>
-		</ul>
-    </li>    
-  </ul>  
-</div>
 
 
 
@@ -190,7 +157,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Modellen</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/beheer-modellen@1x.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3Di - 7 - Managementpage - Models.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -209,67 +176,5 @@ Beheerpagina's
 </div>
 
 
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">3Di beheerpagina - Clone model</h3>
-  </div>
-  <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/beheer-modeldatabank@1x.png" align="left" width="100%" ></a>
-  </div>
-  <ul class="list-group">
-    <li class="list-group-item">
-    	<ul>
-	    	<strong>Gebaseerd op</strong>
-			<li>3Di Basissjabloon</li>
-		</ul>
-    </li>
-    <li class="list-group-item">
-    	<ul>
-	    	<strong>Extra tov basissjabloon</strong>
-      <li>Repo browser</li>
-			<li>Clone repo dialoogvenster</li>
-		</ul>
-    </li>
-    <li class="list-group-item">
-    	<ul>
-			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-      <li><a href="/threedi-styleguide/images/ui/beheer-modeldatabank.svg">beheer-modeldatabank.svg</a></li>
-		</ul>
-    </li>    
-  </ul>  
-</div>
 
 
-
-### 3Di Usage
-
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">3Di beheerpagina - Verbruik</h3>
-  </div>
-  <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/beheer-verbruik@1x.png" align="left" width="100%" ></a>
-  </div>
-  <ul class="list-group">
-    <li class="list-group-item">
-    	<ul>
-	    	<strong>Gebaseerd op</strong>
-			<li>3Di Basissjabloon</li>
-		</ul>
-    </li>
-    <li class="list-group-item">
-    	<ul>
-	    	<strong>Extra tov basissjabloon</strong>
-      <li>Mogelijkheid tot weergave meerdere widgets</li>
-			<li>Titel labels bij de verschillende widgets</li>
-		</ul>
-    </li>    
-    <li class="list-group-item">
-    	<ul>
-			<strong><i class="fa fa-download"></i>&nbsp;Download sjabloon (svg)</strong>
-			<li><a href="/threedi-styleguide/images/ui/beheer-verbruik.svg">beheer-verbruik.svg</a></li>
-		</ul>
-    </li>    
-  </ul>  
-</div>

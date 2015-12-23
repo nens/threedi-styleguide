@@ -13,7 +13,8 @@ Navigatie
     <h3 class="panel-title">Hoofdnavigatie</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/main-menu.png" align="left" ></a>
+    <img src="/threedi-styleguide/images/ui/ui-meta-menu-expanded.png" align="left" ></a>
+    <img src="/threedi-styleguide/images/ui/ui-meta-menu-collapsed.png" align="left" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -44,7 +45,7 @@ Navigatie
     <h3 class="panel-title">Simulatie - Kaartlagen</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/kaartlagen.png" align="left" ></a>
+    <img src="/threedi-styleguide/images/ui/ui-sidemenu-layers.png" align="left" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -77,6 +78,6 @@ Navigatie
     <h3 class="panel-title">Settings (Pi menu)</h3>
   </div>
   <div class="panel-body">
-    Komt nog...
+    <img src="/threedi-styleguide/images/ui/ui-sidemenu-pimenu.png" align="left" ></a>
   </div>
 </div>

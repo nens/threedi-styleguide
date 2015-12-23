@@ -15,7 +15,7 @@ Kaart controls
     <h3 class="panel-title">Simulatie - Achtergrondswitcher</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/simulation-maplayers-open.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3Di - 4 - Sidebar expanded - Layers.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -46,7 +46,7 @@ Kaart controls
     <h3 class="panel-title">Simulatie - Legenda</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/simulation-legend.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3Di - 5 - Sidebar expanded - Legend.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -77,7 +77,7 @@ Kaart controls
     <h3 class="panel-title">Simulatie - Zoomcontrol</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/zoomcontrol.png" align="left"  ></a>
+    <img src="/threedi-styleguide/images/ui/ui-map-controls.png" align="left"  ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">

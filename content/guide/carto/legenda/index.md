@@ -15,7 +15,7 @@ Legenda
     <h3 class="panel-title">Simulatie - Legenda</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/legenda.png" align="left" ></a>
+    <img src="/threedi-styleguide/images/ui/ui-sidemenu-legend.png" align="left" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">

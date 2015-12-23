@@ -25,8 +25,8 @@ Model controls
   <div class="panel-heading">
     <h3 class="panel-title">Model controls</h3>
   </div>
-  <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/modelcontrols.png" align="left" ></a>
+  <div class="panel-body" style="overflow:hidden;">
+    <img src="/threedi-styleguide/images/ui/ui-model-controls.png" align="left" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">

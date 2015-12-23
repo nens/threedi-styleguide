@@ -14,6 +14,7 @@ Logo
     <h3 class="panel-title">3Di logo richtlijnen</h3>
   </div>
   <div class="panel-body">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    <img src="/threedi-styleguide/images/ui/ui-logo-collapsed.png" align="left">
+    <img src="/threedi-styleguide/images/ui/ui-logo-expanded.png" align="left">
   </div>
 </div>

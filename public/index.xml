@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3Di Styleguide</title>
-    <link>/threedi-styleguide/</link>
+    <link>http://localhost:1313/threedi-styleguide/</link>
     <description>Recent content on 3Di Styleguide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Oct 2015 11:56:34 +0100</lastBuildDate>
-    <atom:link href="/threedi-styleguide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/threedi-styleguide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Legenda</title>
-      <link>/threedi-styleguide/guide/carto/legenda/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/carto/legenda/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/legenda/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/carto/legenda/</guid>
       <description>
 
 &lt;h2 id=&#34;legenda:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Legenda&lt;/h2&gt;
@@ -24,7 +24,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Legenda&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/legenda.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-sidemenu-legend.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>Objecten</title>
-      <link>/threedi-styleguide/guide/carto/objecten/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/carto/objecten/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/objecten/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/carto/objecten/</guid>
       <description>
 
 &lt;h2 id=&#34;symbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Symbologie&lt;/h2&gt;
@@ -134,7 +134,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Objecten op de kaart&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-iii.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/3di - 8 - Omnibox.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -146,7 +146,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-iii.svg&#34;&gt;simulation-playing-iii.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-iii.svg&#34;&gt;simulation-playing-iii.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -164,9 +164,9 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-manhole.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-manhole.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-manhole.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-manhole.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -183,9 +183,9 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-1d-boundary.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-1d-boundary.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-1d-boundary.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-1d-boundary.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-1d-boundary.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-1d-boundary.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -202,9 +202,7 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-wind.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-floodfill.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-lateral.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -221,9 +219,9 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-connection-node.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-connection-node.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-connection-node.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-connection-node.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -239,86 +237,29 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Breach location&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-breach.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;a-name-stoplight-a-stoplicht-indicator:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;stoplight&#34;&gt;&lt;/a&gt;Stoplicht indicator&lt;/h2&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Stoplicht groen&lt;/h3&gt;
-  &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-green.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-green.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-green.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-breach-ii.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-breach-ii.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-breach-ii.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Stoplicht oranje&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-orange.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-orange.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-orange.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Stoplicht rood&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-red.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-red.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-stoplight-red.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vlakken</title>
-      <link>/threedi-styleguide/guide/carto/vlakken/</link>
-      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
-      
-      <guid>/threedi-styleguide/guide/carto/vlakken/</guid>
-      <description>
-
-&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
-
-&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Impervious surface&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    Komt nog...
-  &lt;/div&gt;
+  &lt;/div&gt;  
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Lijnen</title>
-      <link>/threedi-styleguide/guide/carto/lijnen/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/carto/lijnen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/carto/lijnen/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/carto/lijnen/</guid>
       <description>
 
 &lt;h2 id=&#34;lijnsymbologie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Lijnsymbologie&lt;/h2&gt;
@@ -432,10 +373,7 @@
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;p&gt;Wordt gebruikt voor droogweerafvoerkanalen. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/linestyle-dwa.png&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -447,10 +385,7 @@
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;p&gt;Wordt gebruikt voor regenweerafvoer. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static-ii.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static-ii.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static-ii.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-channel-static-ii.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/linestyle-rwa.png&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;    
   &lt;/div&gt;
 &lt;/div&gt;
@@ -462,10 +397,7 @@
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;p&gt;Wordt gebruikt voor gemengde stelsels. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-combined-sewage.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-combined-sewage.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-combined-sewage.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-combined-sewage.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/linestyle-mixed.png&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;    
   &lt;/div&gt;
 &lt;/div&gt;
@@ -483,10 +415,7 @@
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;p&gt;Wordt gebruikt voor reguliere leidingen. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pipe.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/linestyle-pipe.png&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -498,10 +427,7 @@
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;p&gt;Wordt gebruikt voor drukleidingen. Geeft richting aan met driehoeken en/of bolletjesanimatie.&lt;/p&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pressure-pipe.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pressure-pipe.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pressure-pipe.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pressure-pipe.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/linestyle-pressure-pipe.png&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -518,9 +444,9 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pumpstation.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pumpstation.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pumpstation.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -531,9 +457,9 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation-ii.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation-ii.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-pumpstation-ii.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pumpstation-ii.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pumpstation-ii.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pumpstation-ii.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;    
   &lt;/div&gt;
 &lt;/div&gt;
@@ -550,9 +476,9 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-weir.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -569,9 +495,9 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-culvert.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-culvert.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-culvert.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-culvert.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -588,11 +514,18 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-orifice.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice-ii.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice-ii.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice-ii.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;  
 &lt;/div&gt;
 
 &lt;h2 id=&#34;a-name-levee-a-levee:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;levee&#34;&gt;&lt;/a&gt;Levee&lt;/h2&gt;
@@ -607,10 +540,7 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-levee-line.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/linestyle-levee.png&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -627,10 +557,7 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-obstacle.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/linestyle-obstacle.png&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -647,10 +574,7 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-2d-boundary.svg&#34; class=&#34;icon-xl&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/linestyle-2d-boundary.png&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -658,62 +582,23 @@
     </item>
     
     <item>
-      <title>Grafieken</title>
-      <link>/threedi-styleguide/guide/ui/grafieken/</link>
+      <title>Vlakken</title>
+      <link>http://localhost:1313/threedi-styleguide/guide/carto/vlakken/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/grafieken/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/carto/vlakken/</guid>
       <description>
 
-&lt;h2 id=&#34;grafieken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafieken&lt;/h2&gt;
+&lt;h2 id=&#34;vlakken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Vlakken&lt;/h2&gt;
+
+&lt;p&gt;Er bestaan verschillende soorten vlakken in 3Di.&lt;/p&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Dwarsprofiel&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Impervious surface&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.svg&#34;&gt;simulation-profiletool.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Waterstand&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Grondwaterstand&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Waterdiepte&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+    Komt nog...
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -721,10 +606,10 @@
     
     <item>
       <title>Contextmenu</title>
-      <link>/threedi-styleguide/guide/ui/contextmenu/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/contextmenu/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/contextmenu/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/contextmenu/</guid>
       <description>
 
 &lt;h2 id=&#34;contextmenu:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contextmenu&lt;/h2&gt;
@@ -734,7 +619,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Contextmenu&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/3Di - 2 - Sidebar collapsed.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -756,7 +641,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.svg&#34;&gt;3di-model-loaded.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/3di-model-loaded.svg&#34;&gt;3di-model-loaded.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -767,7 +652,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Object context informatie&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/3Di - 8 - Omnibox.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -785,7 +670,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.svg&#34;&gt;simulation-model-playing-i.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/simulation-model-playing-i.svg&#34;&gt;simulation-model-playing-i.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -795,10 +680,10 @@
     
     <item>
       <title>Beheerpaginas</title>
-      <link>/threedi-styleguide/guide/ui/beheerpaginas/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/beheerpaginas/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/beheerpaginas/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/beheerpaginas/</guid>
       <description>
 
 &lt;h2 id=&#34;beheerpagina-s:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Beheerpagina&amp;rsquo;s&lt;/h2&gt;
@@ -810,7 +695,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Basissjabloon&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-base@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/3Di - 6 - Managementpage.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -900,7 +785,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-base.svg&#34;&gt;beheer-base.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/beheer-base.svg&#34;&gt;beheer-base.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
 
@@ -914,7 +799,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di Index&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -926,40 +811,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.svg&#34;&gt;simulation-home-catalog.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;h3 id=&#34;kostenpagina:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kostenpagina&lt;/h3&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Kosten&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-kostenoverzicht@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-      &lt;ul&gt;
-        &lt;strong&gt;Extra kleuren&lt;/strong&gt;
-      &lt;li&gt;Lichtgroen (#8CB18C)&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-kostenoverzicht.svg&#34;&gt;beheer-kostenoverzicht.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/simulation-home-catalog.svg&#34;&gt;simulation-home-catalog.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -972,7 +824,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Modellen&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-modellen@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/3Di - 7 - Managementpage - Models.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -984,69 +836,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-modellen.svg&#34;&gt;beheer-modellen.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Clone model&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-modeldatabank@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Extra tov basissjabloon&lt;/strong&gt;
-      &lt;li&gt;Repo browser&lt;/li&gt;
-            &lt;li&gt;Clone repo dialoogvenster&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-      &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-modeldatabank.svg&#34;&gt;beheer-modeldatabank.svg&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
-&lt;/div&gt;
-
-&lt;h3 id=&#34;3di-usage:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;3Di Usage&lt;/h3&gt;
-
-&lt;div class=&#34;panel panel-default&#34;&gt;
-  &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;3Di beheerpagina - Verbruik&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-verbruik@1x.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
-            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Extra tov basissjabloon&lt;/strong&gt;
-      &lt;li&gt;Mogelijkheid tot weergave meerdere widgets&lt;/li&gt;
-            &lt;li&gt;Titel labels bij de verschillende widgets&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/li&gt;    
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/beheer-verbruik.svg&#34;&gt;beheer-verbruik.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/beheer-modellen.svg&#34;&gt;beheer-modellen.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -1055,11 +845,73 @@
     </item>
     
     <item>
-      <title>Indicators</title>
-      <link>/threedi-styleguide/guide/ui/indicators/</link>
+      <title>Grafieken</title>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/grafieken/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/indicators/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/grafieken/</guid>
+      <description>
+
+&lt;h2 id=&#34;grafieken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Grafieken&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Dwarsprofiel&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-chart-panel.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gebaseerd op&lt;/strong&gt;
+            &lt;li&gt;3Di Basissjabloon&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/simulation-profiletool.svg&#34;&gt;simulation-profiletool.svg&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Waterstand&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Grondwaterstand&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Waterdiepte&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indicators</title>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/indicators/</link>
+      <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
+      
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/indicators/</guid>
       <description>
 
 &lt;h2 id=&#34;indicators:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Indicators&lt;/h2&gt;
@@ -1078,10 +930,10 @@
     
     <item>
       <title>Kaartcontrols</title>
-      <link>/threedi-styleguide/guide/ui/kaartcontrols/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/kaartcontrols/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/kaartcontrols/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/kaartcontrols/</guid>
       <description>
 
 &lt;h2 id=&#34;kaart-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kaart controls&lt;/h2&gt;
@@ -1091,7 +943,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Achtergrondswitcher&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-maplayers-open.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/3Di - 4 - Sidebar expanded - Layers.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -1110,7 +962,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-maplayers-open.svg&#34;&gt;simulation-maplayers-open.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/simulation-maplayers-open.svg&#34;&gt;simulation-maplayers-open.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -1121,7 +973,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Legenda&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-legend.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/3Di - 5 - Sidebar expanded - Legend.png&#34; align=&#34;left&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -1139,7 +991,7 @@
     &lt;li class=&#34;list-group-item&#34;&gt;
         &lt;ul&gt;
             &lt;strong&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;Download sjabloon (svg)&lt;/strong&gt;
-            &lt;li&gt;&lt;a href=&#34;/threedi-styleguide/threedi-styleguide/images/ui/simulation-legend.svg&#34;&gt;simulation-legend.svg&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/simulation-legend.svg&#34;&gt;simulation-legend.svg&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;    
   &lt;/ul&gt;  
@@ -1150,7 +1002,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Zoomcontrol&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/zoomcontrol.png&#34; align=&#34;left&#34;  &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-map-controls.png&#34; align=&#34;left&#34;  &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -1191,41 +1043,60 @@
     </item>
     
     <item>
-      <title>Notificaties</title>
-      <link>/threedi-styleguide/guide/ui/notificaties/</link>
+      <title>Modelcontrols</title>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/modelcontrols/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/notificaties/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/modelcontrols/</guid>
       <description>
 
-&lt;h2 id=&#34;notificaties:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Notificaties&lt;/h2&gt;
+&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;Using modelname&#34;-notificatie&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;You need to be director to...&#34;-notificatie&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Model controls&lt;/h3&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
+  &lt;div class=&#34;panel-body&#34; style=&#34;overflow:hidden;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-model-controls.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
+  &lt;ul class=&#34;list-group&#34;&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Gedrag&lt;/strong&gt;
+      &lt;li&gt;Onclick van tijdsindicatie: toggle slide up/down&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Animatie&lt;/strong&gt;
+      &lt;li&gt;De status van het model (loading, error, success) scrollt voorbij in de ruimte rechts naast de tijdsindicatie&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+    &lt;li class=&#34;list-group-item&#34;&gt;
+        &lt;ul&gt;
+            &lt;strong&gt;Iconen&lt;/strong&gt;
+      &lt;li&gt;Met het gekleurde cirkeltje wordt symbolisch weergegeven of het model draait (groen), laadt (grijs knipperend) of gepauseerd is (oranje)&lt;/li&gt;
+        &lt;/ul&gt;    
+    &lt;/li&gt;    
+  &lt;/ul&gt;  
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Navigatie</title>
-      <link>/threedi-styleguide/guide/ui/navigatie/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/navigatie/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/navigatie/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/navigatie/</guid>
       <description>
 
 &lt;h2 id=&#34;navigatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigatie&lt;/h2&gt;
@@ -1235,7 +1106,8 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Hoofdnavigatie&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/main-menu.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-meta-menu-expanded.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-meta-menu-collapsed.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -1265,7 +1137,7 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Simulatie - Kaartlagen&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/kaartlagen.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-sidemenu-layers.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
   &lt;ul class=&#34;list-group&#34;&gt;
     &lt;li class=&#34;list-group-item&#34;&gt;
@@ -1295,67 +1167,48 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;Settings (Pi menu)&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Komt nog...
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-sidemenu-pimenu.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Modelcontrols</title>
-      <link>/threedi-styleguide/guide/ui/modelcontrols/</link>
+      <title>Notificaties</title>
+      <link>http://localhost:1313/threedi-styleguide/guide/ui/notificaties/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/ui/modelcontrols/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/ui/notificaties/</guid>
       <description>
 
-&lt;h2 id=&#34;model-controls:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Model controls&lt;/h2&gt;
+&lt;h2 id=&#34;notificaties:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Notificaties&lt;/h2&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Main controller&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;Using modelname&#34;-notificatie&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;panel panel-default&#34;&gt;
   &lt;div class=&#34;panel-heading&#34;&gt;
-    &lt;h3 class=&#34;panel-title&#34;&gt;Model controls&lt;/h3&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;&#34;You need to be director to...&#34;-notificatie&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    &lt;img src=&#34;/threedi-styleguide/threedi-styleguide/images/ui/modelcontrols.png&#34; align=&#34;left&#34; &gt;&lt;/a&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, similique iste ea, quod quia repellat. Explicabo quidem optio, animi excepturi dolorum tenetur error, magni voluptatum quos facilis, consectetur, sed et!&lt;/p&gt;
   &lt;/div&gt;
-  &lt;ul class=&#34;list-group&#34;&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Gedrag&lt;/strong&gt;
-      &lt;li&gt;Onclick van tijdsindicatie: toggle slide up/down&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Animatie&lt;/strong&gt;
-      &lt;li&gt;De status van het model (loading, error, success) scrollt voorbij in de ruimte rechts naast de tijdsindicatie&lt;/li&gt;
-        &lt;/ul&gt;    
-    &lt;/li&gt;    
-    &lt;li class=&#34;list-group-item&#34;&gt;
-        &lt;ul&gt;
-            &lt;strong&gt;Iconen&lt;/strong&gt;
-      &lt;li&gt;Met het gekleurde cirkeltje wordt symbolisch weergegeven of het model draait (groen), laadt (grijs knipperend) of gepauseerd is (oranje)&lt;/li&gt;
-        &lt;/ul&gt;    
-    &lt;/li&gt;    
-  &lt;/ul&gt;  
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Iconen</title>
-      <link>/threedi-styleguide/guide/visual/iconen/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/visual/iconen/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/iconen/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/visual/iconen/</guid>
       <description>
 
 &lt;h2 id=&#34;iconen:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Iconen&lt;/h2&gt;
@@ -1377,9 +1230,9 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-floodfill.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-floodfill.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-floodfill.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-floodfill.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-floodfill.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-floodfill.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1392,9 +1245,189 @@
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
     &lt;ul class=&#34;list-group&#34;&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
-      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/icons/icon-cloud.svg&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-rain.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-rain.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-rain.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;gauge:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Gauge&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Gauge icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-gauge.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-gauge.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-gauge.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;hydrograph:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Hydrograph&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Hydrograph icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-hydrograph.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-hydrograph.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-hydrograph.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;junction:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Junction&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Junction icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-junction.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-junction.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-junction.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;levee:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Levee&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Levee icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-levee.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-levee.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-levee.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;measurement:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Measurement&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Measurement icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-measurement.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-measurement.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-measurement.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;orifice:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Orifice&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Orifice icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;orifice-ii:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Orifice II&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Orifice icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice-ii.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice-ii.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-orifice-ii.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;pump:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pump&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Pump icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pump.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pump.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-pump.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;sluice:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Sluice&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Sluice icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-sluice.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-sluice.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-sluice.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;waterlevel:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Waterlevel&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Waterlevel icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-waterlevel.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-waterlevel.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-waterlevel.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;weir:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Weir&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Weir icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;weir-ii:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Weir II&lt;/h2&gt;
+
+&lt;div class=&#34;panel panel-default&#34;&gt;
+  &lt;div class=&#34;panel-heading&#34;&gt;
+    &lt;h3 class=&#34;panel-title&#34;&gt;Weir icon&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;panel-body&#34;&gt;
+    &lt;ul class=&#34;list-group&#34;&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir-ii.png&#34; class=&#34;icon-1x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir-ii.png&#34; class=&#34;icon-2x&#34; /&gt;&lt;/li&gt;
+      &lt;li class=&#34;list-group-item&#34;&gt;&lt;img src=&#34;../../../images/ui/icon-weir-ii.png&#34; class=&#34;icon-3x&#34; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1403,10 +1436,10 @@
     
     <item>
       <title>Kleur</title>
-      <link>/threedi-styleguide/guide/visual/kleur/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/visual/kleur/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/kleur/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/visual/kleur/</guid>
       <description>
 
 &lt;h2 id=&#34;kleurstelling:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Kleurstelling&lt;/h2&gt;
@@ -1613,10 +1646,10 @@
     
     <item>
       <title>Logo</title>
-      <link>/threedi-styleguide/guide/visual/logo/</link>
+      <link>http://localhost:1313/threedi-styleguide/guide/visual/logo/</link>
       <pubDate>Fri, 30 Oct 2015 11:56:34 +0100</pubDate>
       
-      <guid>/threedi-styleguide/guide/visual/logo/</guid>
+      <guid>http://localhost:1313/threedi-styleguide/guide/visual/logo/</guid>
       <description>
 
 &lt;h2 id=&#34;logo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Logo&lt;/h2&gt;
@@ -1626,7 +1659,8 @@
     &lt;h3 class=&#34;panel-title&#34;&gt;3Di logo richtlijnen&lt;/h3&gt;
   &lt;/div&gt;
   &lt;div class=&#34;panel-body&#34;&gt;
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda laboriosam cum corrupti non qui eveniet, delectus fuga debitis iste? Similique veritatis fugiat eveniet voluptates facere deleniti corporis esse earum natus.
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-logo-collapsed.png&#34; align=&#34;left&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/threedi-styleguide/threedi-styleguide/images/ui/ui-logo-expanded.png&#34; align=&#34;left&#34;&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>

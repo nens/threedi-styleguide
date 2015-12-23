@@ -14,7 +14,7 @@ Grafieken
     <h3 class="panel-title">Dwarsprofiel</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/simulation-profiletool.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/ui-chart-panel.png" align="left" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
