@@ -17,7 +17,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Basissjabloon</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/3Di - 6 - Managementpage.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3Di-6-Managementpage.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -157,7 +157,7 @@ Beheerpagina's
     <h3 class="panel-title">3Di beheerpagina - Modellen</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/3Di - 7 - Managementpage - Models.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3Di-7- Managementpage-Models.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">

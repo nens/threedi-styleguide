@@ -32,7 +32,7 @@ Overzicht van symbolen
     <h3 class="panel-title">Objecten op de kaart</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/3di - 8 - Omnibox.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3di-8-Omnibox.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">

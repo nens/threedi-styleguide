@@ -15,7 +15,7 @@ Contextmenu
     <h3 class="panel-title">Simulatie - Contextmenu</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/3Di - 2 - Sidebar collapsed.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3Di-2-Sidebar-collapsed.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
@@ -49,7 +49,7 @@ Contextmenu
     <h3 class="panel-title">Simulatie - Object context informatie</h3>
   </div>
   <div class="panel-body">
-    <img src="/threedi-styleguide/images/ui/3Di - 8 - Omnibox.png" align="left" width="100%" ></a>
+    <img src="/threedi-styleguide/images/ui/3Di-8-Omnibox.png" align="left" width="100%" ></a>
   </div>
   <ul class="list-group">
     <li class="list-group-item">
