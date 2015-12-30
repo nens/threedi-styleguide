@@ -2,118 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/threedi-styleguide/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/legenda/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/carto/legenda/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/lijnen/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/carto/lijnen/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/vlakken/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/carto/objecten/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/objecten/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/carto/vlakken/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/beheerpaginas/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/beheerpaginas/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/grafieken/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/grafieken/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/contextmenu/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/contextmenu/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/indicators/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/kaartcontrols/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/kaartcontrols/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/indicators/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/modelcontrols/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/navigatie/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/navigatie/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/modelcontrols/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/notificaties/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/visual/iconen/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/logo/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/notificaties/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/typografie/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/visual/kleur/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/kleur/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/visual/logo/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/iconen/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/visual/typografie/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/witruimte/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/visual/witruimte/</loc>
     <lastmod>2015-10-30T11:56:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/carto/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/carto/</loc>
     <lastmod>2015-10-30T11:18:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/</loc>
     <lastmod>2015-10-30T11:18:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/ui/modals/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/ui/modals/</loc>
     <lastmod>2015-10-30T11:18:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/visual/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/visual/</loc>
     <lastmod>2015-10-30T11:18:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/threedi-styleguide/guide/</loc>
+    <loc>http://localhost:1313/threedi-styleguide/guide/</loc>
     <lastmod>2015-10-30T10:10:15+01:00</lastmod>
   </url>
   
